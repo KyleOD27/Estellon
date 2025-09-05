@@ -21,7 +21,7 @@ The project scope is a wide creative berth, including the production of content,
 ## Key Campaign Components
 
 ### Core NPCs
-1. **Ser Elara Vance** - Lawful Good Orc Paladin, leads the Reformers
+1. **Ser Elara** - Lawful Good Orc Paladin, leads the Reformers
 2. **Kael** - Chaotic Good Human Sorcerer, leads the Revolution
 3. **Captain Brennis** - Lawful Neutral Human Fighter, maintains the Status Quo
 

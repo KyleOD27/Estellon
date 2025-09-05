@@ -4,7 +4,7 @@
 
 ---
 
-## Part 1: The Sunstone Festival Riot
+## Part 1: The Sunstone Festival
 
 **Setup:** The party is in the market square as the Sunstone Festival begins. It's a defiant celebration, a burst of colour and noise in a grey city.
 
@@ -21,6 +21,10 @@
 ---
 
 ## Part 2: The Conscription Decree
+
+**🎬 The Announcement:**
+*"As the sun sets, a town crier moves through the districts: 'Hear ye! By order of the Duke's chamberlain, the unsanctioned Sunstone Festival is prohibited! All gatherings will be dispersed! Public disturbances will be dealt with severely!' You see squads of the city watch, led by the grim Captain Brennis, already moving into position. The festive mood of the morning has curdled into tension."*
+
 
 **Setup:** In the aftermath of the riot, the Duke's regime, advised by Lord Pellor, cracks down. A harsh conscription decree is announced to fill the ranks and remove "troublesome elements."
 

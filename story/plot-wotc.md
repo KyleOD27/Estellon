@@ -7,10 +7,11 @@ The player characters, newcomers to the city, witness three vignettes that defin
 · The Weight of Law: Captain Brennis enforces the law with cold, unyielding precision, showing order without mercy.
 · The Cry for Chaos: Kael uses clever, disruptive magic to protect the common folk from guard brutality, showing compassion without order.
 · The Hope for Balance: Ser Elara resolves a conflict by using the law correctly to achieve a just outcome, showing true law as a shield.
-· The Hook: The tension culminates in the announcement of the "unsanctioned" Sunstone Festival, setting the stage for explosion.
+· The Hook: Players invested in the story and ready to meet the characters
 
 Act I: The Spark
 
+· The Calm before the Storm: The PCs get their bearings and enjoy the festival.
 · The Inciting Incident: The PCs are caught in the middle of the Sunstone Festival Riot, a violent clash between the City Guard and rebellious citizens.
 · The Choice: They must choose sides between the idealistic Paladin, Ser Elara, and the fiery Sorcerer, Kael.
 · The Complication: A brutal conscription decree forces Elara to confront the regime's cruelty firsthand, revealing the deep corruption within.
