@@ -61,6 +61,7 @@ Act II is structured around missions given by the party's chosen faction leader.
 - **The Race:** All three factions race to the vault simultaneously. A tense, three-way standoff occurs.
 - **The Ultimate Choice:** The players must choose which faction to help in the ensuing battle. This decision cements their final allegiance.
 - **The Twist:** As the battle for the Mandate concludes, the external armies of the Bandit King Gorok and Duke Theron attack Estellon's undefended walls. The internal conflict has left the city utterly vulnerable.
+The players must now deal with this enemy.
 
 ---
 

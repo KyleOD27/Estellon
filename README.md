@@ -51,9 +51,28 @@ Below is the complete navigation structure for all campaign materials:
   - **Faction:** The City Guard (Status Quo)  
   - **Philosophy:** "Order must be maintained at all costs"
 
-### Supporting Characters
+### Antagonists & Key NPCs
 
-- **[🌟 Elara's Extended Description](characters/elara-desc.md)** - Detailed character background
+- **[👑 Duke Valerius II](characters/valerius-profile.md)** - *Weak-willed Ruler*
+  - **Role:** The failing Duke whose incompetence created the crisis
+  - **Tragedy:** A hollow man wearing a crown too heavy for him to bear
+  
+- **[🕴️ Lord Pellor](characters/pellor-profile.md)** - *The Chamberlain (Master Manipulator)*
+  - **Role:** The true villain pulling strings from the shadows
+  - **Danger:** Appears helpful while orchestrating the city's downfall
+  
+- **[⚔️ Gorok the Hillbreaker](characters/gorok-profile.md)** - *Bandit King*
+  - **Role:** External threat and honest monster
+  - **Philosophy:** "Strength is the only true law"
+
+### Supporting Characters & Extended Descriptions
+
+- **[🌟 Elara's Extended Description](characters/elara-desc.md)** - Detailed physical description
+- **[🔥 Kael's Extended Description](characters/kael-desc.md)** - Detailed physical description
+- **[🛡️ Brennis's Extended Description](characters/brennis-desc.md)** - Detailed physical description
+- **[👑 Valerius's Extended Description](characters/valerius-desc.md)** - Detailed physical description
+- **[🕴️ Pellor's Extended Description](characters/pellor-desc.md)** - Detailed physical description
+- **[⚔️ Gorok's Extended Description](characters/gorok-desc.md)** - Detailed physical description
 
 ## 🛠️ `/` - Project Files
 
