@@ -1,15 +1,5 @@
 # Prologue: A Day in Estellon
 
-<div class="audio-player">
-    <p><strong>🎵 Prologue Opening Narration</strong></p>
-    <audio controls style="width: 100%;">
-        <source src="../audio/scenes/prologue-opening.mp3" type="audio/mpeg">
-        <source src="../audio/scenes/prologue-opening.ogg" type="audio/ogg">
-        Your browser does not support the audio element.
-        <a href="../audio/scenes/prologue-opening.mp3">Download audio file</a>
-    </audio>
-</div>
-
 > *"In the morning light of Estellon, three philosophies will collide, and the players will witness the spark that ignites a revolution."*
 
 ## Session Goals

@@ -81,10 +81,10 @@ Brennis represents the Status Quo faction and embodies the philosophy that order
 <div class="audio-player">
     <p><strong>🎵 Brennis's Voice</strong></p>
     <audio controls style="width: 100%;">
-        <source src="../audio/characters/brennis-sample.wav" type="audio/wav">
-        <source src="../audio/characters/brennis-sample.wav" type="audio/wav">
+        <source src="../audio/characters/brennis-sample.mp3" type="audio/mpeg">
+        <source src="../audio/characters/brennis-sample.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
-        <a href="../audio/characters/brennis-sample.wav">Download audio file</a>
+        <a href="../audio/characters/brennis-sample.mp3">Download audio file</a>
     </audio>
 </div>
 

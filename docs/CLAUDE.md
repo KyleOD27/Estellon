@@ -4,19 +4,24 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is "The Weight of the Crown," a new tabletop campaign experience in a similar style to D&D set in the city of Estellon. The repository contains campaign materials, character profiles, and story documentation for a political intrigue campaign focused on the theme of Law vs. Chaos.
+This is "The Weight of the Crown," a new tabletop campaign experience in a similar style to D&D set in the city of Estellon. The repository contains campaign materials, character profiles, story documentation, and AI-generated character voices for a political intrigue campaign focused on the theme of Law vs. Chaos.
 
-The project scope is a wide creative berth, including the production of content, stories, narratives and game mechanics.
+The project scope is a wide creative berth, including the production of content, stories, narratives, game mechanics, and audio integration.
 
 ## Repository Structure
 
-- `/characters/` - NPC profiles and descriptions (Kael, Elara, Brennis)
+- `/characters/` - NPC profiles and descriptions with AI voice samples
 - `/game/` - Campaign mechanics and materials
 - `/story/` - Act-by-act story content
   - `/act i/` - The Spark of Rebellion
   - `/act ii/` - The Faction War
   - `/act iii/` - The Siege
-- `/assets/` - (Currently empty) For maps, images, and other visual materials
+- `/audio/` - Character voice samples and audio assets
+  - `/characters/` - MP3 voice files
+  - `/scripts/` - Voice generation scripts
+- `/integration/` - Python scripts for ElevenLabs integration and audio management
+- `/docs/` - Documentation and setup guides
+- `/assets/` - Maps, images, and other visual materials
 
 ## Key Campaign Components
 

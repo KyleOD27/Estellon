@@ -48,3 +48,9 @@ After setting up your API key, you'll be able to:
 ## Security Note
 
 The `.env` file contains your private API key. Never share this file or commit it to version control!
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[Audio Generation Guide →](AUDIO_GENERATION_GUIDE.md)** | **[Audio Test →](AUDIO_TEST.html)**

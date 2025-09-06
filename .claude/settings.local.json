@@ -11,7 +11,11 @@
       "Bash(git push:*)",
       "Bash(git branch:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(echo:*)",
+      "Bash(sed:*)",
+      "Bash(tree:*)",
+      "Bash(git reset:*)"
     ],
     "deny": [],
     "ask": []

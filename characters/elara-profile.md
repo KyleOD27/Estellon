@@ -80,10 +80,10 @@ Elara represents the Reformers faction and embodies the belief that the system c
 <div class="audio-player">
     <p><strong>🎵 Elara's Voice</strong></p>
     <audio controls style="width: 100%;">
-        <source src="../audio/characters/elara-sample.wav" type="audio/wav">
+        <source src="../audio/characters/elara-sample.mp3" type="audio/mpeg">
         <source src="../audio/characters/elara-sample.ogg" type="audio/ogg">
         Your browser does not support the audio element.
-        <a href="../audio/characters/elara-sample.wav">Download audio file</a>
+        <a href="../audio/characters/elara-sample.mp3">Download audio file</a>
     </audio>
 </div>
 

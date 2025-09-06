@@ -8,16 +8,6 @@
 
 **Setup:** The party is in the market square as the Sunstone Festival begins. It's a defiant celebration, a burst of colour and noise in a grey city.
 
-<div class="audio-player">
-    <p><strong>🎵 Festival Riot Scene</strong></p>
-    <audio controls style="width: 100%;">
-        <source src="../../audio/scenes/act1-riot.mp3" type="audio/mpeg">
-        <source src="../../audio/scenes/act1-riot.ogg" type="audio/ogg">
-        Your browser does not support the audio element.
-        <a href="../../audio/scenes/act1-riot.mp3">Download audio file</a>
-    </audio>
-</div>
-
 - **The Calm:** Have each player describe what their character is enjoying about the festival. This builds investment before it's torn down.
 - **The Announcement:**
 *"As the sun sets, a town crier moves through the districts: 'Hear ye! By order of the Duke's chamberlain, the unsanctioned Sunstone Festival is prohibited! All gatherings will be dispersed! Public disturbances will be dealt with severely!' You see squads of the city watch, led by the grim Captain Brennis, already moving into position. The festive mood of the morning has curdled into tension."*

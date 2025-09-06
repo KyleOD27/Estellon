@@ -82,10 +82,10 @@ Kael represents the People's Revolution faction and embodies the belief that the
 <div class="audio-player">
     <p><strong>🎵 Kael's Voice</strong></p>
     <audio controls style="width: 100%;">
-        <source src="../audio/characters/kael-sample.wav" type="audio/wav">
+        <source src="../audio/characters/kael-sample.mp3" type="audio/mpeg">
         <source src="../audio/characters/kael-sample.ogg" type="audio/ogg">
         Your browser does not support the audio element.
-        <a href="../audio/characters/kael-sample.wav">Download audio file</a>
+        <a href="../audio/characters/kael-sample.mp3">Download audio file</a>
     </audio>
 </div>
 

@@ -129,10 +129,7 @@ class AudioManager:
             "audio/characters/kael-sample.mp3",
             "audio/characters/gorok-sample.mp3",
             "audio/characters/pellor-sample.mp3",
-            "audio/characters/valerius-sample.mp3",
-            "audio/scenes/prologue-opening.mp3",
-            "audio/scenes/act1-riot.mp3",
-            "audio/narration/epilogue-council.mp3"
+            "audio/characters/valerius-sample.mp3"
         ]
         
         for placeholder in placeholders:
@@ -162,9 +159,9 @@ def initialize_campaign_audio():
     
     # Add scene audio
     scenes = [
-        ("prologue-opening", "prologue-opening.mp3", "Prologue Opening Narration", "story/prologue.md"),
-        ("act1-riot", "act1-riot.mp3", "Festival Riot Scene", "story/act i/act-i.md"),
-        ("epilogue-council", "epilogue-council.mp3", "Council Chamber Scene", "story/epilogue.md")
+        ("prologue-opening", "Prologue Opening Narration", "story/prologue.md"),
+        ("act1-riot", "Festival Riot Scene", "story/act i/act-i.md"),
+        ("epilogue-council", "Council Chamber Scene", "story/epilogue.md")
     ]
     
     for scene, file, desc, location in scenes:

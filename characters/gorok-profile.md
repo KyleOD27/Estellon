@@ -82,10 +82,10 @@ Gorok represents the external threat to Estellon—the barbarian at the gates wh
 <div class="audio-player">
     <p><strong>🎵 Gorok's Voice</strong></p>
     <audio controls style="width: 100%;">
-        <source src="../audio/characters/gorok-sample.wav" type="audio/wav">
+        <source src="../audio/characters/gorok-sample.mp3" type="audio/mpeg">
         <source src="../audio/characters/gorok-sample.ogg" type="audio/ogg">
         Your browser does not support the audio element.
-        <a href="../audio/characters/gorok-sample.wav">Download audio file</a>
+        <a href="../audio/characters/gorok-sample.mp3">Download audio file</a>
     </audio>
 </div>
 

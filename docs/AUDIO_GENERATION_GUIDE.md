@@ -101,3 +101,9 @@ print(html)
 - Check file paths are correct
 - Ensure audio directories exist
 - Verify audio_manager.py is working
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[Audio Test →](AUDIO_TEST.html)** | **[ElevenLabs Setup →](ELEVENLABS_SETUP.md)**
