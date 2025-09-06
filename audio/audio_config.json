@@ -1,0 +1,62 @@
+{
+  "characters": {
+    "brennis": {
+      "file": "brennis-sample.mp3",
+      "quote": "The law is clear. The fine is five silver.",
+      "description": "Deep, authoritative military voice",
+      "relative_path": "audio/characters/brennis-sample.mp3"
+    },
+    "elara": {
+      "file": "elara-sample.mp3",
+      "quote": "True justice is achieved through order and virtue.",
+      "description": "Refined voice with musical accent",
+      "relative_path": "audio/characters/elara-sample.mp3"
+    },
+    "kael": {
+      "file": "kael-sample.mp3",
+      "quote": "Their laws weren't written to protect us.",
+      "description": "Quick, street-smart, slightly raspy",
+      "relative_path": "audio/characters/kael-sample.mp3"
+    },
+    "gorok": {
+      "file": "gorok-sample.mp3",
+      "quote": "I make no pretty speeches about justice.",
+      "description": "Rumbling voice with hill country accent",
+      "relative_path": "audio/characters/gorok-sample.mp3"
+    },
+    "pellor": {
+      "file": "pellor-sample.mp3",
+      "quote": "I am merely a humble servant of the realm.",
+      "description": "Smooth, deceptively pleasant bureaucratic voice",
+      "relative_path": "audio/characters/pellor-sample.mp3"
+    },
+    "valerius": {
+      "file": "valerius-sample.mp3",
+      "quote": "I never asked for this crown...",
+      "description": "Hesitant, weak voice seeking approval",
+      "relative_path": "audio/characters/valerius-sample.mp3"
+    }
+  },
+  "scenes": {
+    "prologue-opening": {
+      "file": "prologue-opening.mp3",
+      "description": "Prologue Opening Narration",
+      "location": "story/prologue.md",
+      "relative_path": "audio/scenes/prologue-opening.mp3"
+    },
+    "act1-riot": {
+      "file": "act1-riot.mp3",
+      "description": "Festival Riot Scene",
+      "location": "story/act i/act-i.md",
+      "relative_path": "audio/scenes/act1-riot.mp3"
+    },
+    "epilogue-council": {
+      "file": "epilogue-council.mp3",
+      "description": "Council Chamber Scene",
+      "location": "story/epilogue.md",
+      "relative_path": "audio/scenes/epilogue-council.mp3"
+    }
+  },
+  "narration": {},
+  "epilogue_variants": {}
+}
