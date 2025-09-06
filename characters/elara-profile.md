@@ -66,4 +66,31 @@ A weary idealist. She struggles with the cognitive dissonance of serving a son w
 - **Secret:** She keeps a small, charred piece of wood from her razed village hidden in her chambers—a somber reminder of the cost of lawless "order" and why her oath is necessary.
 - **Explosive Secret:** She knows Duke Theron is coming. She has been monitoring his movements for years, waiting for his excuse to invade. The internal crisis in Estellon is exactly what he was waiting for. She may be the first to truly understand the scale of the threat in Act III.
 
-This change makes Elara's story a poignant tragedy and directly ties the internal conflict of Estellon to the external threat, making her a central lynchpin in the entire narrative.
+
+---
+
+## Campaign Role
+
+Elara represents the Reformers faction and embodies the belief that the system can be redeemed from within through justice and virtue. She is living proof that law can be a force for good and redemption. Her story is a poignant tragedy that directly ties Estellon's internal conflict to the external threat of Duke Theron, making her a central lynchpin in the entire narrative. In gameplay, she provides investigation, diplomacy, and legal reform missions.
+
+---
+
+## Literary Description
+
+The great hall fell silent as she entered, not from fear, but from the peculiar gravity that seemed to follow in her wake. Ser Elara moved with the measured cadence of ceremony itself, each step deliberate as a prayer. At six feet tall, she commanded the space not through intimidation, but through a presence that spoke of unshakeable conviction tempered by hard-won wisdom.
+
+The first impression always startled those who had never seen her before. Here was an orc, certainly: the elegant curve of polished ivory tusks just visible when she spoke, the rich sage-green skin that held an almost luminous quality in the torchlight, the broader shoulders that spoke of natural strength. Yet everything about her defied expectation. Where brutality should have resided, there was grace. Where savagery might be expected, there was refinement so complete it seemed carved from marble.
+
+Her hair, platinum-white and gleaming, was woven into an intricate braid that fell past her shoulders, threaded with thin chains of silver bearing the scales of justice. Her eyes, deep amber shot through with gold, held depths that spoke of someone who had gazed long into darkness and chosen, again and again, to kindle light.
+
+The armor she wore was immaculate: gold-rimmed plates polished to mirror brightness, bearing subtle engravings of oak leaves and balanced scales that caught the light as she moved. It had been crafted by master artisans who understood that protection could be beautiful, that strength need not sacrifice elegance. At her side hung a sword with the comfortable weight of a tool worn by one who knew its purpose was not to threaten, but to defend.
+
+When she spoke, her voice carried the authority of absolute certainty, each word carefully chosen and delivered with the precision of someone who understood that language, like steel, could cut or heal depending on how it was wielded. There was music in her speech, traces of her mountain heritage softened by years of courtly training, creating a cadence that was both exotic and utterly refined.
+
+Her smile, when it appeared, was transformative—not the baring of tusks that ignorant folk might expect from an orc, but something warm and genuine that lit her entire face with an almost maternal kindness. It was a smile that had comforted grieving widows, encouraged frightened children, and occasionally, when faced with corruption or cruelty, turned sharp as a blade's edge. Those who had seen both versions understood that her compassion and her righteousness were two sides of the same unwavering conviction.
+
+The citizens of Estellon reacted to her presence with a fascinating mixture of awe, confusion, and gradual respect. Children, unburdened by prejudice, would often approach her with wide-eyed wonder, drawn by the gleaming armor and gentle demeanor. Their parents would hurriedly pull them back at first, only to find themselves receiving a courteous nod or a kind word that left them reassessing everything they thought they knew about orcs. In the markets, conversations would hush as she passed, not from fear but from a kind of cognitive dissonance—here was living proof that their assumptions were not just wrong but shamefully small-minded.
+
+Among the nobility, reactions were more complex. Some saw her as a curiosity, a well-trained oddity that Duke Reginald had foolishly elevated. Others recognized in her the very virtues they claimed to embody but rarely demonstrated. The poor and downtrodden, however, saw something else entirely: a protector who understood what it meant to be judged by appearance rather than character, who fought for justice not as an abstract concept but as a living, breathing necessity.
+
+She was, in every sense, a contradiction made manifest: an orc who embodied every virtue of knighthood, a warrior whose greatest weapon was not her blade but her uncompromising moral clarity and astute words, a symbol that nobility was not a birthright but a choice, made fresh each day. Those who met her left understanding that true beauty lay not in meeting expectations but in transcending them entirely.

@@ -1,8 +1,8 @@
-# 👑 The Weight of the Crown - Complete Campaign Guide
+# The Weight of the Crown - Complete Campaign Guide
 
 > *"In Estellon, the crown's weight is measured not in gold, but in the choices that forge a city's destiny."*
 
-## 📖 Campaign Plot Overview
+## Campaign Plot Overview
 
 **Setting:** The troubled city of Estellon, once prosperous, now decaying under the negligent rule of Duke Valerius II.
 

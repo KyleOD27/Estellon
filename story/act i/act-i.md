@@ -9,7 +9,7 @@
 **Setup:** The party is in the market square as the Sunstone Festival begins. It's a defiant celebration, a burst of colour and noise in a grey city.
 
 - **The Calm:** Have each player describe what their character is enjoying about the festival. This builds investment before it's torn down.
-- **🎬 The Announcement:**
+- **The Announcement:**
 *"As the sun sets, a town crier moves through the districts: 'Hear ye! By order of the Duke's chamberlain, the unsanctioned Sunstone Festival is prohibited! All gatherings will be dispersed! Public disturbances will be dealt with severely!' You see squads of the city watch, led by the grim Captain Brennis, already moving into position. The festive mood of the morning has curdled into tension."*
  
 - **The Storm:** Captain Brennis and a squad of guards, including Sergeant Rykard, arrive. Brennis declares the gathering "unsanctioned" and orders it shut down.

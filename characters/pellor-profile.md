@@ -40,14 +40,6 @@ The perfect picture of a humble, competent administrator. Deferential, helpful, 
 ### In Private
 Cold, calculating, and brilliant. The mask drops to reveal a man who takes genuine pleasure in manipulation and control. His smile becomes something predatory.
 
-### Physical Description
-- **Build:** Average height, unremarkable build—designed to be forgotten
-- **Face:** So thoroughly ordinary that even daily contacts struggle to remember his features
-- **Hair:** Thinning brown streaked with grey, unfashionably styled
-- **Eyes:** Pale green like pond water, constantly calculating behind wire-rimmed spectacles
-- **Attire:** Impeccably clean and fitted clothes in deliberately muted colors
-- **Hands:** Long-fingered and steady, never trembling even under pressure
-
 ### Relationships
 
 - **Duke Valerius:** His perfect puppet. Pellor has made himself indispensable while keeping the Duke dependent and ignorant.
@@ -79,36 +71,28 @@ Cold, calculating, and brilliant. The mask drops to reveal a man who takes genui
 
 ---
 
-## Powers & Abilities
-
-### Administrative Mastery
-- **Information Network:** Knows everything that happens in the palace and much of what happens in the city
-- **Bureaucratic Control:** Can expedite or delay any official process, granting or denying permits, licenses, etc.
-- **Financial Manipulation:** Controls the city's purse strings and can redirect funds as needed
-
-### Magical Abilities (Enchantment Wizard)
-- **Suggestion:** Can subtly influence people's decisions
-- **Charm Person:** Makes targets see him as a trusted friend
-- **Modify Memory:** Can alter recollections of conversations and events
-- **Illusion Magic:** Can appear as someone else or become invisible when needed
-
-### Combat (When Cornered)
-In Act III, when finally confronted, Pellor reveals his true power as an Enchantment Wizard specializing in mind control and illusion magic.
-
----
-
 ## Campaign Role
 
-**The Hidden Villain:** Pellor is the true antagonist of the campaign, though this isn't revealed until Act II or III. He appears as a helpful NPC initially.
-
-**The Puppet Master:** Behind every crisis, every faction conflict, every external threat, Pellor's influence can be found pulling the strings.
-
-**Boss Fight:** In Act III, after Gorok's defeat, players discover Pellor's treachery and must face him in a battle of wits and magic.
-
-**The Reveal:** The moment players discover his betrayal should be shocking—the helpful administrator was the enemy all along.
+Lord Pellor is the true antagonist of the campaign, though this isn't revealed until Act II or III. He appears as a helpful NPC initially. Behind every crisis, every faction conflict, every external threat, Pellor's influence can be found pulling the strings. In Act III, after Gorok's defeat, players discover Pellor's treachery and must face him in a battle of wits and magic—an Enchantment Wizard specializing in mind control and illusion. The moment players discover his betrayal should be shocking. He represents the insidious corruption that grows in the shadows of weak leadership—not a tyrant who seizes power through force, but a parasite who hollows out institutions from within.
 
 ---
 
-## The Ultimate Mastermind
+## Literary Description
 
-Lord Pellor represents the insidious corruption that grows in the shadows of weak leadership. He is not a tyrant who seizes power through force, but a parasite who hollows out institutions from within. His defeat represents not just the end of external threats, but the purging of the rot that made those threats possible in the first place.
+He moved through the palace corridors with the unremarkable efficiency of a shadow at midday—present, necessary, but so thoroughly mundane that the eye simply slid past him in search of something more worthy of attention. Lord Pellor, the Duke's Chamberlain, had cultivated this quality of forgettability with the same meticulous care that other men might devote to swordplay or statecraft. At fifty-eight, he had perfected the art of being essential while appearing inconsequential, indispensable while seeming harmless.
+
+His appearance was a masterwork of calculated mediocrity. Of average height and unremarkable build, he possessed the sort of face that could disappear in a crowd of three—pleasant enough features arranged in a configuration so thoroughly ordinary that even those who met with him daily would struggle to recall the precise color of his eyes or the exact shape of his nose. His thinning brown hair, streaked with grey, was combed in a style that had been fashionable twenty years ago and forgotten ten, while his clothes—always impeccably clean and properly fitted—were cut from fine cloth in colors so muted they seemed designed to repel notice.
+
+His hands were perhaps the only remarkable thing about him, and even they appeared unremarkable at first glance. Long-fingered and soft, they moved with the precise economy of a scribe accustomed to handling delicate documents and dangerous secrets with equal care. Those who watched closely might notice how they never seemed to tremble, never betrayed nervousness or uncertainty, even in the most dire circumstances. They were the hands of a man who had learned to sign death warrants with the same steady penmanship he used for dinner invitations.
+
+When he spoke, it was in the measured, deferential tones of a career bureaucrat—always respectful, always helpful, always ready with exactly the right piece of information or the perfect administrative solution. His voice carried just enough concern to seem caring, just enough competence to inspire confidence, but never enough personality to be memorable. He had mastered the bureaucrat's greatest skill: the ability to deliver terrible news in such reasonable tones that listeners found themselves nodding along before they fully grasped what they were agreeing to.
+
+His smile was his greatest weapon, warm and paternal, the expression of a man who genuinely wanted to help, who took pride in solving problems and smoothing over difficulties. It was the smile of someone's favorite uncle, the understanding administrator who could always find a way to bend the rules just slightly in your favor. That smile had been the last thing many of his enemies had seen, worn by a man who took genuine pleasure in explaining, with perfect courtesy, exactly how he had orchestrated their downfall.
+
+Behind wire-rimmed spectacles that gave him a scholarly, harmless air, his eyes—pale green like pond water—held depths that spoke of a mind constantly calculating, always three moves ahead in a game where most players didn't even know they were playing. They were the eyes of a man who collected secrets like other men collected coins, who understood that information was the truest form of power and that the appearance of powerlessness was the greatest power of all.
+
+He carried himself with the slightly stooped posture of someone accustomed to deferring to others, always ready to step back, to bow slightly, to allow more important people to precede him through doorways. Yet there was something in the way he moved—a coiled readiness, a predator's patience—that suggested the deference was performance rather than nature. He had learned long ago that the most dangerous place to stand was in the spotlight, that true power flowed to those who were willing to let others take the credit while quietly pulling the strings.
+
+In his private study, surrounded by ledgers and correspondence, maps and genealogies, he was revealed for what he truly was: not the humble servant of the realm, but its secret master. Here, away from prying eyes, his smile became something altogether colder, more calculating. Here, the mask could slip just slightly, revealing the brilliant, ruthless mind that had spent decades maneuvering everyone—from the Duke to his enemies to his allies—into positions where they would serve his purposes without ever realizing they were dancing to his tune.
+
+He was corruption made manifest, betrayal wearing the face of loyalty, ambition disguised as service. And perhaps most terrifying of all, he was very, very good at what he did.
