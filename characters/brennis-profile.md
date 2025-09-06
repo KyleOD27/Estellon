@@ -91,3 +91,9 @@ His eyes were perhaps the most telling feature, pale grey like morning fog, they
 In the younger guards who served under him, he inspired a mixture of terror and grudging admiration. He was the standard by which they measured themselves, the immovable object against which the chaotic forces of the city broke themselves. He asked nothing of his men that he had not first demanded of himself, and in return, he offered them something precious: the certainty that someone, at least, knew what must be done and possessed the will to do it.
 
 There was tragedy in his bearing—not the quick, bright tragedy of youth cut short, but the slow, grinding tragedy of a man who had sacrificed his humanity on the altar of duty and discovered, too late, that the city he had given everything to protect might not have been worth the price. He stood as a monument to service, a testament to the cost of placing principle above people, order above mercy—magnificent in his dedication, terrible in his isolation, and utterly, irrevocably alone.
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[🏠 Home](../README.md)**

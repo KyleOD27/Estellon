@@ -69,3 +69,9 @@ The faction leader gives them their first proper quest, pulling them into the gr
 ## Act I Conclusion
 
 The players are no longer visitors. They have chosen a side (or chosen to walk their own path) and are now active participants in the fate of Estellon. The philosophical conflict is now their conflict. The stage is set for the open faction war of Act II.
+
+---
+
+## Navigation
+
+**[← Back: Prologue](../prologue.md)** | **[Next: Act II →](../act%20ii/act-ii.md)** | **[🏠 Home](../../README.md)**

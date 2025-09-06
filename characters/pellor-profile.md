@@ -96,3 +96,9 @@ He carried himself with the slightly stooped posture of someone accustomed to de
 In his private study, surrounded by ledgers and correspondence, maps and genealogies, he was revealed for what he truly was: not the humble servant of the realm, but its secret master. Here, away from prying eyes, his smile became something altogether colder, more calculating. Here, the mask could slip just slightly, revealing the brilliant, ruthless mind that had spent decades maneuvering everyone—from the Duke to his enemies to his allies—into positions where they would serve his purposes without ever realizing they were dancing to his tune.
 
 He was corruption made manifest, betrayal wearing the face of loyalty, ambition disguised as service. And perhaps most terrifying of all, he was very, very good at what he did.
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[🏠 Home](../README.md)**

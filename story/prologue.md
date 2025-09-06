@@ -95,3 +95,9 @@ She produces:
 ---
 
 **Session End:** The players are (hopefully) now invested in the city and its people. They understand the three philosophies at war and have seen the faces of the leaders. The stage is set for **Act I** to begin with the **Sunstone Festival Riot**.
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[Next: Act I →](act%20i/act-i.md)** | **[🏠 Home](../README.md)**

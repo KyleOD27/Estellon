@@ -582,3 +582,9 @@ She was, in every sense, a contradiction made manifest—an orc who embodied eve
 - **Secret:** His greatest fear is not death, but being remembered as the man who failed in his duty, the Captain who let Estellon burn.
 
 This profile paints Brennis as a tragic figure. He is not evil; he is a man who has buried his conscience under a mountain of duty and now mistakes rigidity for strength. He is the embodiment of "just following orders," making him a perfect antagonist who is both formidable and sympathetic.
+
+---
+
+## Navigation
+
+**[← Back: Game Overview](game-overview.md)** | **[🏠 Home](../README.md)**

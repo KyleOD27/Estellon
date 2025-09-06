@@ -94,3 +94,9 @@ To the downtrodden of the Cobbleward, she was a beacon of hope, the girl who had
 Yet those who knew her best could see the cracks in her armor, the way her smile sometimes became too bright, too fierce, as if she were holding back darker thoughts. In quiet moments, when she thought no one was watching, her face would grow still and haunted, and the weight of all she carried—the expectations of the desperate, the memory of her father's broken form, the constant fear that her power might hurt those she sought to protect—would settle on her shoulders like a cloak made of lead.
 
 She was revolution incarnate, beautiful and dangerous and utterly uncompromising, a living reminder that sometimes the only response to an unjust world was to set it ablaze and dance in the firelight.
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[🏠 Home](../README.md)**

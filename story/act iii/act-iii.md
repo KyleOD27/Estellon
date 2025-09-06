@@ -77,3 +77,9 @@ The factions gather in the great hall. The PCs, as the heroes of the hour, are g
 - **Free State:** (Anarchy) Central authority is dissolved.
 
 The DM narrates the future of Estellon based on the players' choices, providing a satisfying, player-driven conclusion to the story of law, chaos, and the weight of the crown.
+
+---
+
+## Navigation
+
+**[← Back: Act II](../act%20ii/act-ii.md)** | **[Next: Epilogue →](../epilogue.md)** | **[🏠 Home](../../README.md)**

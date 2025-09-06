@@ -95,3 +95,9 @@ The epilogue ends by detailing what happens to each of the three faction leaders
 ---
 
 ***"And so ends the tale of Estellon, where every choice carried the weight of a crown, and every crown carried the burden of choice."***
+
+---
+
+## Navigation
+
+**[← Back: Act III](act%20iii/act-iii.md)** | **[Next: Game Overview →](../game/game-overview.md)** | **[🏠 Home](../README.md)**

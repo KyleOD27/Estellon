@@ -68,3 +68,9 @@ The players must now deal with this enemy.
 ## Act II Conclusion
 
 The winner of the vault battle holds a symbolic victory, but it is instantly rendered meaningless by the overwhelming external threat. The ideological war is now a fight for survival, forcing the bitter rivals to consider an unthinkable alliance. This sets the stage for Act III: The Siege.
+
+---
+
+## Navigation
+
+**[← Back: Act I](../act%20i/act-i.md)** | **[Next: Act III →](../act%20iii/act-iii.md)** | **[🏠 Home](../../README.md)**

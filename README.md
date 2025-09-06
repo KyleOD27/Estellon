@@ -121,3 +121,9 @@ This campaign is designed to be flexible and responsive to player choices. The P
 ---
 
 *Navigate through the campaign materials using the links above. Each section contains detailed information for running memorable sessions in the city of Estellon.*
+
+---
+
+## Navigation
+
+**[Next: Prologue →](story/prologue.md)**

@@ -94,3 +94,9 @@ The citizens of Estellon reacted to her presence with a fascinating mixture of a
 Among the nobility, reactions were more complex. Some saw her as a curiosity, a well-trained oddity that Duke Reginald had foolishly elevated. Others recognized in her the very virtues they claimed to embody but rarely demonstrated. The poor and downtrodden, however, saw something else entirely: a protector who understood what it meant to be judged by appearance rather than character, who fought for justice not as an abstract concept but as a living, breathing necessity.
 
 She was, in every sense, a contradiction made manifest: an orc who embodied every virtue of knighthood, a warrior whose greatest weapon was not her blade but her uncompromising moral clarity and astute words, a symbol that nobility was not a birthright but a choice, made fresh each day. Those who met her left understanding that true beauty lay not in meeting expectations but in transcending them entirely.
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[🏠 Home](../README.md)**

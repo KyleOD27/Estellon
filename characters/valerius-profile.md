@@ -94,3 +94,9 @@ The courtiers and nobles who surrounded him had long since learned to speak arou
 Yet there were moments—rare, fleeting, but unmistakable—when something of his father's bloodline would flicker behind those pale eyes. A flash of the man he might have been, had circumstances been different, had he been born with his father's steel spine instead of wishbone flexibility. In those moments, observers might catch a glimpse of genuine anguish, a recognition of how far he had fallen from the legacy he was meant to inherit.
 
 He was not cruel, this failed duke—cruelty required too much decisiveness, too much commitment to a course of action. He was simply absent, a hollow man wearing the crown of a once-great city, presiding over its decay with the bewildered helplessness of someone who had never learned that power was not a privilege to be enjoyed but a responsibility to be borne. In the end, perhaps that was the greatest tragedy of all: not that he was evil, but that he was so thoroughly, devastatingly ordinary.
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[🏠 Home](../README.md)**

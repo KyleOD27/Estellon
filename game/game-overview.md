@@ -158,3 +158,9 @@ This framework transforms abstract political concepts into **concrete, playable 
 - **🗳️ Player agency** ensures choices drive the narrative
 
 ***The result: Political intrigue becomes as engaging and tactical as any dungeon crawl.***
+
+---
+
+## Navigation
+
+**[← Back: Epilogue](../story/epilogue.md)** | **[Next: Campaign Materials →](campaign_materials.md)** | **[🏠 Home](../README.md)**

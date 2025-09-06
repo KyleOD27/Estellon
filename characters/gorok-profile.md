@@ -96,3 +96,9 @@ Yet for all his savage reputation, there was an unexpected honor in him—the ho
 His followers -  hundreds of them now, drawn from the dispossessed, the outcast, the genuinely vicious—would follow him into the jaws of hell itself, not because they loved him but because they feared and respected him in equal measure. He had given them something precious: purpose, direction, and the promise that if they stood with him, they would never want for anything they were strong enough to take.
 
 He was chaos given form, the barbarian at the gates who reminded civilized men that all their laws and customs were ultimately just polite agreements that meant nothing when faced with someone willing to ignore them entirely. And in the dying light of Estellon's corruption, he represented something terrifying: the possibility that perhaps the time for such agreements was coming to an end.
+
+---
+
+## Navigation
+
+**[← Back: Home](../README.md)** | **[🏠 Home](../README.md)**
