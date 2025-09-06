@@ -77,6 +77,24 @@ Kael represents the People's Revolution faction and embodies the belief that the
 
 ---
 
+## Character Voice Sample
+
+<div class="audio-player">
+    <p><strong>🎵 Kael's Voice</strong></p>
+    <audio controls style="width: 100%;">
+        <source src="../audio/characters/kael-sample.wav" type="audio/wav">
+        <source src="../audio/characters/kael-sample.ogg" type="audio/ogg">
+        Your browser does not support the audio element.
+        <a href="../audio/characters/kael-sample.wav">Download audio file</a>
+    </audio>
+</div>
+
+> *"Their laws weren't written to protect us."*
+
+Quick, street-smart, slightly raspy
+
+---
+
 ## Literary Description
 
 She moved through the crowded Cobbleward like wildfire through dry timber—swift, unpredictable, and leaving sparks in her wake. At twenty-two, Kael carried herself with the restless energy of someone who had learned too young that stillness meant vulnerability, that safety was a luxury the poor could not afford. There was something almost feral about her grace, the way she seemed to flow around obstacles rather than confront them, always ready to bolt or strike as the moment demanded.

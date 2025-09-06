@@ -77,6 +77,24 @@ Gorok represents the external threat to Estellon—the barbarian at the gates wh
 
 ---
 
+## Character Voice Sample
+
+<div class="audio-player">
+    <p><strong>🎵 Gorok's Voice</strong></p>
+    <audio controls style="width: 100%;">
+        <source src="../audio/characters/gorok-sample.wav" type="audio/wav">
+        <source src="../audio/characters/gorok-sample.ogg" type="audio/ogg">
+        Your browser does not support the audio element.
+        <a href="../audio/characters/gorok-sample.wav">Download audio file</a>
+    </audio>
+</div>
+
+> *"I make no pretty speeches about justice. I take what I want from those too weak to stop me."*
+
+Rumbling voice with hill country accent
+
+---
+
 ## Literary Description
 
 He filled doorways like a landslide fills valleys: completely, violently, and with the promise that nothing would ever be the same afterward. Gorok the Hillbreaker stood nearly seven feet in his bare feet, and every inch of that towering frame was carved from muscle, scar tissue, and the kind of bone-deep menace that made seasoned warriors reconsider their career choices. At forty-five, he had spent the better part of three decades turning the northern hills into his personal kingdom, and his body bore the accumulated evidence of every brutal lesson that rise to power had required.

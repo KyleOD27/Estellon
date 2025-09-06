@@ -46,6 +46,16 @@ The council must decide on justice for the former ruler. **The PCs cast the deci
 
 ## Part 2: The New Government of Estellon
 
+<div class="audio-player">
+    <p><strong>🎵 Council Chamber Scene</strong></p>
+    <audio controls style="width: 100%;">
+        <source src="../audio/narration/epilogue-council.mp3" type="audio/mpeg">
+        <source src="../audio/narration/epilogue-council.ogg" type="audio/ogg">
+        Your browser does not support the audio element.
+        <a href="../audio/narration/epilogue-council.mp3">Download audio file</a>
+    </audio>
+</div>
+
 **This is the more important vote,** deciding the city's future philosophy. **The PCs cast the deciding vote.**
 
 ### The Four Government Types

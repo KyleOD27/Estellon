@@ -75,6 +75,24 @@ Elara represents the Reformers faction and embodies the belief that the system c
 
 ---
 
+## Character Voice Sample
+
+<div class="audio-player">
+    <p><strong>🎵 Elara's Voice</strong></p>
+    <audio controls style="width: 100%;">
+        <source src="../audio/characters/elara-sample.wav" type="audio/wav">
+        <source src="../audio/characters/elara-sample.ogg" type="audio/ogg">
+        Your browser does not support the audio element.
+        <a href="../audio/characters/elara-sample.wav">Download audio file</a>
+    </audio>
+</div>
+
+> *"True justice is achieved through order and virtue."*
+
+Refined voice with musical accent
+
+---
+
 ## Literary Description
 
 The great hall fell silent as she entered, not from fear, but from the peculiar gravity that seemed to follow in her wake. Ser Elara moved with the measured cadence of ceremony itself, each step deliberate as a prayer. At six feet tall, she commanded the space not through intimidation, but through a presence that spoke of unshakeable conviction tempered by hard-won wisdom.

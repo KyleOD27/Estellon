@@ -74,6 +74,26 @@ Weary and burdened. He carries the weight of the city's safety on his shoulders 
 
 Brennis represents the Status Quo faction and embodies the philosophy that order must be maintained at all costs. He is a tragic antagonist—not evil, but a man who has buried his conscience under a mountain of duty and now mistakes rigidity for strength. He is the embodiment of "just following orders," making him both formidable and sympathetic. In gameplay, he provides enforcement and counter-insurgency missions, testing players' commitment to order versus freedom.
 
+---
+
+## Character Voice Sample
+
+<div class="audio-player">
+    <p><strong>🎵 Brennis's Voice</strong></p>
+    <audio controls style="width: 100%;">
+        <source src="../audio/characters/brennis-sample.wav" type="audio/wav">
+        <source src="../audio/characters/brennis-sample.wav" type="audio/wav">
+        Your browser does not support the audio element.
+        <a href="../audio/characters/brennis-sample.wav">Download audio file</a>
+    </audio>
+</div>
+
+> *"The law is clear. The fine is five silver."*
+
+Deep, authoritative military voice
+
+---
+
 ## Literary Description
 
 He entered the room like winter itself: cold, inevitable, and utterly without apology. Captain Brennis moved with the measured precision of a man who had drilled every gesture until it became ritual, each step falling with the weight of four decades spent in service to an ideal that had calcified into doctrine. At nearly seventy, he was no longer the young guardsman who had first taken the oath, but something far more formidable: an institution made flesh, duty given form and breath.
