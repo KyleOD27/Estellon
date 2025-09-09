@@ -14,7 +14,7 @@
  
 - **The Storm:** Captain Brennis and a squad of guards, including Sergeant Rykard, arrive. Brennis declares the gathering "unsanctioned" and orders it shut down.
 - **The Spark:** The guards begin roughly dispersing the crowd. Rykard shoves an elderly woman. A drunk reveller throws a punch at him. Chaos erupts.
-- **The Confrontation:** Kael appears, using minor magic to create barriers of light and gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them. "Street-Witch. I should have known. Your chaos follows you like a stench."
+- **The Confrontation:** Kael appears, using minor magic to create barriers of light and gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them. "Bog-Witch. I should have known. Your chaos follows you like a stench."
 - **The Player's Choice:** This is the first major decision.
 -Do the players:
   - Help Kael create diversions and protect people?
