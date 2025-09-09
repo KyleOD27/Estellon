@@ -17,10 +17,54 @@
 - **The Confrontation:** Kael appears, using minor magic to create barriers of light and gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them. "Bog-Witch. I should have known. Your chaos follows you like a stench."
 - **The Player's Choice:** This is the first major decision.
 -Do the players:
-  - Help Kael create diversions and protect people?
-  - Help Brennis and the guards restore order?
-  - Try to protect themselves and neutral bystanders?
-- **Outcome:** Their actions here grant them their initial reputation with the People or the City Guard.
+  - Help Kael create diversions and protect people? (Option A)
+  - Help Brennis and the guards restore order? (Option B)
+  - Try to protect themselves and neutral bystanders? (Option C)
+
+- **Option A**:
+
+Kael says: "You there! You look capable, give me a hand with this would you?"
+
+*Protective Actions*:
+- Shield Civilians: Use bodies, shields, or magic to block guard clubs and protect fleeing festival-goers. DC 10 Toughness check. Pass: +2 Zeal. Fail: +1 Zeal, take 1d4 bash damage
+
+- Create Escape Routes: Clear paths through overturned stalls, guide people to safe exits, or create new openings. DC 10 Cardio check. Pass: +2 Zeal. Fail: +1 Zeal, trip and lose 1d4 gold
+
+- Tend to the Wounded: Help injured civilians who've been trampled or struck by guards. Requires: First Aid. +2 Zeal. Can't fail.
+
+- Form Human Chains: Link arms with other defenders to create barriers between guards and civilians Requires: 3 PCs. DC 5 Toughness (x3) Pass: +4 Zeal. Fail: 1d2 bash damage
+
+Gain title: Protector (Gain aura: all allies in 10 feet gain +1 Armor)
+
+*Diversionary Tactics*:
+- Cause Distractions: Knock over merchant stalls, release livestock, start fires in trash barrels (away from people). DC 10 Mischief check. Pass: +2 Zeal. Fail: +1 Zeal, lose an item
+
+- Misdirection: Point guards in wrong directions, create false alarms elsewhere in the square DC 10 Persona check. Pass: +1 Zeal. Fail: No effect
+
+- Use the Environment: Trigger festival mechanisms - release balloon displays, activate fireworks, tip over stages. Requires: Sharp Instincts, +2 Zeal. Can't fail.
+
+Gain title: Trickster (+2 Mischief) 
+
+*Direct Assistance to Kael*:
+- Channel Magic: Help sustain Kael's barriers or create complementary effects. Requires: Spellcasting. +2 Zeal. Can't fail.
+
+- Physical Support: Guard Kael's flanks while they concentrate on spellcasting. DC 10 Toughness check. Pass: +2 Zeal. Fail: take 1d4 slash damage
+
+- Relay Communications: Help coordinate with other festival defenders across the chaotic square. DC 10 Persona Check. Pass: +1 Zeal. Fail: No effect.
+
+- Gather Materials: Fetch components Kael needs for more complex protective spells. DC 10 Cardio check. Pass +2 Zeal. Fail: Lose 1d4 gold
+
+Gain title: Sidekick (Gain ability: Kael's favour)
+
+
+- **Option B**:
+
+Brennis says: "Newcomer, this doesn't regard you - step aside or make yourself useful."
+
+
+- **Option C**:
+
+- **Outcome:** Their actions here grant them their initial reputation with the People (Zeal) or the City Guard (Control).
 
 ---
 
