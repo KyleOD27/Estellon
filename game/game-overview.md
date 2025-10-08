@@ -161,6 +161,28 @@ This framework transforms abstract political concepts into **concrete, playable 
 
 ---
 
+## Player Roles
+
+Before diving into the campaign, players can choose from suggested character archetypes that provide unique perspectives on Estellon's crisis:
+
+### Available Roles
+
+- **[The Merchant](../player-roles/merchant.md)** - Master of commerce navigating political turmoil through trade
+- **[The Scholar](../player-roles/scholar.md)** - Wielder of knowledge seeking truth in chaos
+- **[The Sellsword](../player-roles/sellsword.md)** - Professional warrior choosing what's worth fighting for
+- **[The Pilgrim](../player-roles/pilgrim.md)** - Spiritual seeker finding divine purpose in crisis
+- **[The Noble](../player-roles/noble.md)** - Born to power, forced to choose between privilege and principle
+- **[The Artisan](../player-roles/artisan.md)** - Skilled craftsperson whose creations shape the conflict
+- **[The Refugee](../player-roles/refugee.md)** - Survivor who's lost everything, understanding the true cost of chaos
+
+Each role offers distinct mechanical bonuses, social access, special abilities, and unique perspectives on the campaign's themes.
+
+### Detailed Mechanics
+
+For comprehensive character creation rules, faction reputation tracking, and social access mechanics, see **[Game Mechanics](../player-roles/game-mechanics.md)**.
+
+---
+
 ## Navigation
 
 **[← Back: Epilogue](../story/epilogue.md)** | **[Next: Campaign Materials →](campaign_materials.md)** | **[🏠 Home](../README.md)**
