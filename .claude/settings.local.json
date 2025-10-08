@@ -18,7 +18,10 @@
       "Bash(git reset:*)",
       "Bash(git rm:*)",
       "Bash(git clone:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(git pull:*)",
+      "Bash(grep:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
