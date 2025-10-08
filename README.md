@@ -2,16 +2,16 @@
 
 > *"In Estellon, every choice carries the weight of a crown, and every crown carries the burden of choice."*
 
-A tabletop campaign experience set in the city of Estellon, featuring political intrigue, AI-generated character voices, and the eternal struggle between Law, Chaos, and Order.
+A tabletop campaign experience set in the city of Estellon, featuring political intrigue and the eternal struggle between Law, Chaos, and Order.
 
 ## Campaign Overview
 
 In the decaying city of Estellon, three factions vie for control while external threats loom. Players must navigate complex moral choices that will determine not just their own fate, but the future of the entire city.
 
-**Core Theme:** Law vs. Chaos vs. Order  
-**Setting:** The troubled city of Estellon  
-**Structure:** Three-act campaign with player-driven conclusion  
-**Audio Features:** AI-generated character voices with ElevenLabs integration
+**Core Theme:** Law vs. Chaos vs. Order
+**Setting:** The troubled city of Estellon
+**Structure:** Three-act campaign with player-driven conclusion
+**System:** D&D 5e compatible with detailed character role system
 
 ---
 
@@ -31,10 +31,26 @@ Below is the complete navigation structure for all campaign materials:
 
 - **[Game Overview](game/game-overview.md)** - Core game mechanics
   - Progress Tracks (Faction War system)
-  - Dialogue Bingo Card  
+  - Dialogue Bingo Card
   - Faction Leader Quest Chains
   - The Faction Turn system
 - **[Campaign Materials](game/campaign_materials.md)** - Complete campaign guide with all acts
+
+### 🎭 `/player-roles/` - Character Options
+
+- **[Character Roles](player-roles/game-mechanics.md)** - Complete character creation system
+  - 7 unique roles with mechanical bonuses
+  - Individual faction reputation tracking
+  - Social access mechanics
+  - Special abilities for each role
+- **Available Roles:**
+  - **[The Merchant](player-roles/merchant.md)** - Master of commerce and trade
+  - **[The Scholar](player-roles/scholar.md)** - Wielder of knowledge and law
+  - **[The Sellsword](player-roles/sellsword.md)** - Professional warrior for hire
+  - **[The Pilgrim](player-roles/pilgrim.md)** - Spiritual seeker of truth
+  - **[The Noble](player-roles/noble.md)** - Born to power and privilege
+  - **[The Artisan](player-roles/artisan.md)** - Skilled craftsperson
+  - **[The Refugee](player-roles/refugee.md)** - Survivor seeking justice
 
 ### 👥 `/characters/` - NPCs & Faction Leaders
 
@@ -69,11 +85,10 @@ Below is the complete navigation structure for all campaign materials:
   - **Role:** External threat and honest monster
   - **Voice:** Menacing AI-generated voice sample included
 
-### 🎵 `/audio/` - Voice & Sound Assets
+### 🎵 `/audio/` - Voice Assets (Optional)
 
-- **[Audio Test Page](docs/AUDIO_TEST.html)** - Test all character voices in your browser
-- **`/characters/`** - High-quality MP3 voice samples for each character
-- **`/scripts/`** - Voice scripts and generation materials
+- **[Audio Test Page](docs/AUDIO_TEST.html)** - Character voice samples
+- **`/characters/`** - MP3 voice files for immersion
 
 ### 🔧 `/integration/` - Technical Integration
 
@@ -88,26 +103,12 @@ Below is the complete navigation structure for all campaign materials:
 - **[Alternative TTS Guide](docs/ALTERNATIVE_TTS_GUIDE.md)** - Fallback voice options
 - **[Claude Instructions](docs/CLAUDE.md)** - Development guidance
 
----
-
-## New Features: AI Character Voices
-
-This campaign now includes **AI-generated character voices** using ElevenLabs technology:
-
-- **6 unique character voices** - Each faction leader and major NPC has their own distinctive voice
-- **High-quality audio** - Natural-sounding speech with character-appropriate tones
-- **Browser playable** - Embedded audio players in character profiles
-- **Campaign immersion** - Bring NPCs to life with actual voice acting
-
-**[🎵 Try the voices now →](docs/AUDIO_TEST.html)**
-
----
 
 ## How to Use This Campaign
 
-1. **Start with the [Campaign Overview](game/campaign_materials.md)** to understand the full scope
+1. **Choose a [Character Role](player-roles/game-mechanics.md)** - Select from 7 unique roles with distinct abilities
 2. **Review [Game Mechanics](game/game-overview.md)** to understand the systems
-3. **Listen to character voices** using the [Audio Test Page](docs/AUDIO_TEST.html)
+3. **Start with the [Campaign Overview](game/campaign_materials.md)** for the full scope
 4. **Read character profiles** to understand the faction leaders' motivations
 5. **Begin with the [Prologue](story/prologue.md)** to introduce the setting
 6. **Progress through each Act** as players make their choices
@@ -117,10 +118,11 @@ This campaign now includes **AI-generated character voices** using ElevenLabs te
 ## Key Features
 
 - **Player Agency:** Every major decision shapes the story's outcome
-- **Three-Faction System:** Complex political dynamics with measurable consequences  
+- **Character Role System:** 7 unique roles with mechanical differentiation
+- **Individual Faction Reputation:** Each PC tracks their own standing with all factions
+- **Three-Faction System:** Complex political dynamics with measurable consequences
 - **Progress Tracking:** Mechanical systems that reflect narrative developments
 - **Multiple Endings:** Player choices determine Estellon's final government structure
-- **AI Voice Integration:** Character voices bring NPCs to life
 - **Organized Structure:** Clean file organization for easy navigation
 
 ---
@@ -134,30 +136,26 @@ This campaign is designed to be flexible and responsive to player choices. The P
 - Faction Turn system for living world simulation
 - Leader Quest Chains for long-term character development
 - Dialogue Bingo Cards for encouraging thematic roleplay
-- **Character Voice Samples** for authentic NPC portrayal
-
-**Technical Features:**
-- **Audio Integration:** Play character voices directly from character profiles
-- **Organized Files:** Everything properly organized in logical folders
-- **Easy Setup:** Complete guides for replicating the voice system
+- Character role system with social access mechanics
+- Individual faction reputation tracking for each PC
 
 ---
 
 ## Project Information
 
-**Campaign Type:** Political Intrigue / Urban Fantasy  
-**Recommended Players:** 3-6  
-**Estimated Duration:** 15-20 sessions  
-**Themes:** Justice, Order, Revolution, Moral Complexity  
-**Technical Requirements:** Modern web browser for audio features
+**Campaign Type:** Political Intrigue / Urban Fantasy
+**System:** D&D 5e with custom role mechanics
+**Recommended Players:** 3-6
+**Estimated Duration:** 15-20 sessions
+**Themes:** Justice, Order, Revolution, Moral Complexity
 
 ---
 
 ## Getting Started
 
-1. **📖 Read the [Prologue](story/prologue.md)** - Start your journey in Estellon
-2. **🎵 Test the [Character Voices](docs/AUDIO_TEST.html)** - Experience the AI voices
-3. **🎲 Review [Game Mechanics](game/game-overview.md)** - Understand the systems
+1. **🎭 Choose Your [Character Role](player-roles/game-mechanics.md)** - Pick from 7 unique archetypes
+2. **🎲 Review [Game Mechanics](game/game-overview.md)** - Understand the systems
+3. **📖 Read the [Prologue](story/prologue.md)** - Start your journey in Estellon
 4. **👥 Meet the [Characters](characters/)** - Know your faction leaders
 
 ---
@@ -168,4 +166,4 @@ This campaign is designed to be flexible and responsive to player choices. The P
 
 ## Navigation
 
-**[🎵 Character Voices →](docs/AUDIO_TEST.html)** | **[📖 Start Reading →](story/prologue.md)** | **[🎲 Game Mechanics →](game/game-overview.md)**
+**[🎭 Character Roles →](player-roles/game-mechanics.md)** | **[📖 Start Reading →](story/prologue.md)** | **[🎲 Game Mechanics →](game/game-overview.md)**
