@@ -61,8 +61,76 @@ Gain title: Sidekick (Gain ability: Kael's favour)
 
 Brennis says: "Newcomer, this doesn't regard you - step aside or make yourself useful."
 
+*Crowd Control Actions*:
+- Cordon the Area: Form defensive lines to contain the riot and prevent it from spreading. DC 10 Toughness check. Pass: +2 Control. Fail: +1 Control, take 1d4 bash damage from thrown objects
+
+- Subdue Agitators: Identify and restrain the most violent rioters using non-lethal force. DC 10 Combat check. Pass: +2 Control. Fail: +1 Control, lose 1 piece of equipment in struggle
+
+- Clear the Square: Systematically push crowds toward designated exits using shields and formation tactics. DC 10 Authority check. Pass: +2 Control. Fail: +1 Control, crowd pushes back
+
+- Protect Property: Guard merchant stalls and shops from looters. Requires: 2 PCs. DC 8 Toughness (x2) Pass: +3 Control. Fail: 1d4 gold worth of goods destroyed
+
+Gain title: Enforcer (Gain aura: all enemies in 10 feet gain -1 to attack rolls)
+
+*Investigation Actions*:
+- Identify Ringleaders: Point out specific troublemakers to the guard for targeted arrests. DC 10 Perception check. Pass: +2 Control. Fail: Identify wrong person, -1 Control
+
+- Document Evidence: Record names and faces of riot participants for later prosecution. Requires: Writing materials. +2 Control. Can't fail.
+
+- Trace the Source: Figure out who organized this "spontaneous" gathering. DC 12 Investigation check. Pass: +3 Control. Fail: No effect
+
+- Interview Witnesses: Question bystanders about who started the violence. DC 10 Persona check. Pass: +1 Control. Fail: Witnesses too frightened
+
+Gain title: Investigator (+2 Investigation)
+
+*Direct Assistance to Brennis*:
+- Guard Captain's Flank: Protect Brennis while he coordinates the response. DC 10 Combat check. Pass: +2 Control. Fail: take 1d4 slash damage from rioter
+
+- Relay Orders: Help communicate Brennis's commands across the chaotic square. DC 10 Authority check. Pass: +2 Control. Fail: Orders misunderstood, no effect
+
+- Medical Support: Tend to wounded guards to get them back in formation. Requires: First Aid. +2 Control. Can't fail.
+
+- Rally the Guard: Boost morale of wavering watchmen. DC 10 Persona check. Pass: +2 Control. Fail: Guards ignore you
+
+Gain title: Deputy (Gain ability: Brennis's favor)
+
 
 - **Option C**:
+
+A shopkeeper cries: "Please, someone help! We're not part of this!"
+
+*Neutral Protection Actions*:
+- Evacuate Bystanders: Guide innocent festival-goers away from both guards and rioters. DC 10 Cardio check. Pass: +1 Independent Influence. Fail: Some people get caught in violence
+
+- Create Safe Zones: Establish neutral areas (temple steps, healer's tent) where no fighting is allowed. DC 12 Persona check. Pass: +2 Independent Influence. Fail: Zone violated by one side
+
+- Shield the Innocent: Physically protect children, elderly, and wounded from both sides. DC 10 Toughness check. Pass: +2 Independent Influence. Fail: take 1d4 damage protecting others
+
+- Negotiate Passages: Convince both guards and rioters to let civilians leave safely. Requires: 2 PCs. DC 10 Persona (x2). Pass: +3 Independent Influence. Fail: One side refuses
+
+Gain title: Peacekeeper (Gain ability: Both sides hesitate to attack you first)
+
+*Mercantile Actions*:
+- Protect Merchant Goods: Help traders save their wares from destruction. DC 10 Strength check. Pass: +1 Independent Influence, gain merchant favor. Fail: Goods destroyed
+
+- Organize Merchant Defense: Rally shopkeepers to protect their own property. DC 10 Authority check. Pass: +2 Independent Influence. Fail: Merchants flee instead
+
+- Document Damages: Record losses for insurance claims and compensation. Requires: Writing materials. +1 Independent Influence. Can't fail.
+
+- Broker Temporary Truce: Convince both sides to avoid the merchant quarter. DC 14 Persona check. Pass: +3 Independent Influence. Fail: No effect
+
+Gain title: Merchant's Friend (+2 to merchant interactions)
+
+*Opportunistic Actions*:
+- Profit from Chaos: Loot abandoned stalls while everyone's distracted. DC 12 Mischief check. Pass: Gain 2d6 gold. Fail: Caught by one side, -2 to their faction
+
+- Information Gathering: Use the chaos to overhear important conversations. DC 10 Stealth check. Pass: Learn valuable secret. Fail: No useful information
+
+- Play Both Sides: Appear to help each faction when they're watching. DC 14 Deception check. Pass: +1 to both Control and Zeal. Fail: Both sides distrust you, -1 to each
+
+- Document Everything: Record the event for later sale to interested parties. Requires: Sharp Instincts. Gain information to sell later. Can't fail.
+
+Gain title: Opportunist (Gain ability: Fence goods at better prices)
 
 - **Outcome:** Their actions here grant them their initial reputation with the People (Zeal) or the City Guard (Control).
 

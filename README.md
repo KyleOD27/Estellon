@@ -45,6 +45,11 @@ Below is the complete navigation structure for all campaign materials:
   - Individual faction reputation tracking
   - Social access mechanics
   - Special abilities for each role
+- **[Character Races](player-roles/races-overview.md)** - Racial heritage and social dynamics
+  - 7 playable races from Human to Giant
+  - Racial abilities and bonuses
+  - Social standing by district
+  - Faction affinities
 - **Available Roles:**
   - **[The Merchant](player-roles/merchant.md)** - Master of commerce and trade
   - **[The Scholar](player-roles/scholar.md)** - Wielder of knowledge and law
@@ -53,6 +58,14 @@ Below is the complete navigation structure for all campaign materials:
   - **[The Noble](player-roles/noble.md)** - Born to power and privilege
   - **[The Artisan](player-roles/artisan.md)** - Skilled craftsperson
   - **[The Refugee](player-roles/refugee.md)** - Survivor seeking justice
+- **Available Races:**
+  - **[Human](player-roles/races/human.md)** - Versatile and ambitious
+  - **[Elf](player-roles/races/elf.md)** - Ancient wisdom and grace
+  - **[Half-Elf](player-roles/races/half-elf.md)** - Bridge between two worlds
+  - **[Orc](player-roles/races/orc.md)** - Strength and honor
+  - **[Halfling](player-roles/races/halfling.md)** - Community and cleverness
+  - **[Gnome](player-roles/races/gnome.md)** - Innovation and cunning
+  - **[Giant](player-roles/races/giant.md)** - Towering presence
 
 ### 👥 `/characters/` - NPCs & Faction Leaders
 

@@ -161,11 +161,13 @@ This framework transforms abstract political concepts into **concrete, playable 
 
 ---
 
-## Player Roles
+## Character Creation
+
+### Player Roles
 
 Before diving into the campaign, players can choose from suggested character archetypes that provide unique perspectives on Estellon's crisis:
 
-### Available Roles
+#### Available Roles
 
 - **[The Merchant](../player-roles/merchant.md)** - Master of commerce navigating political turmoil through trade
 - **[The Scholar](../player-roles/scholar.md)** - Wielder of knowledge seeking truth in chaos
@@ -175,7 +177,18 @@ Before diving into the campaign, players can choose from suggested character arc
 - **[The Artisan](../player-roles/artisan.md)** - Skilled craftsperson whose creations shape the conflict
 - **[The Refugee](../player-roles/refugee.md)** - Survivor who's lost everything, understanding the true cost of chaos
 
-Each role offers distinct mechanical bonuses, social access, special abilities, and unique perspectives on the campaign's themes.
+### Character Races
+
+Your racial heritage shapes both your abilities and how Estellon's society treats you:
+
+#### Available Races
+
+- **[Complete Races Overview](../player-roles/races-overview.md)** - All racial options and social dynamics
+- **Common:** [Human](../player-roles/races/human.md), [Half-Elf](../player-roles/races/half-elf.md), [Halfling](../player-roles/races/halfling.md)
+- **Uncommon:** [Elf](../player-roles/races/elf.md), [Orc](../player-roles/races/orc.md), [Gnome](../player-roles/races/gnome.md)
+- **Rare:** [Giant](../player-roles/races/giant.md)
+
+Each race provides mechanical bonuses, social standings, and unique perspectives on the political crisis.
 
 ### Detailed Mechanics
 
