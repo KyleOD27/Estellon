@@ -35,6 +35,7 @@ Below is the complete navigation structure for all campaign materials:
   - Faction Leader Quest Chains
   - The Faction Turn system
 - **[Campaign Materials](game/campaign_materials.md)** - Complete campaign guide with all acts
+- **[Custom Character Sheet](game/custom-character-sheet.md)** - Card-based tableau character system
 - **[Game Assets](game/game-assets.md)** - Complete list of materials and handouts needed
 
 ### 🎭 `/player-roles/` - Character Options

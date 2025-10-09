@@ -5,9 +5,12 @@
 ## Essential Materials (Required)
 
 ### Core Rules
-- **D&D 5e Basic Rules** or Player's Handbook
-- **Standard dice set** (d20, d12, d10, d8, d6, d4)
-- **Character sheets** (standard D&D 5e)
+- **Custom Character Tableau System** - See **[Custom Character Sheet](custom-character-sheet.md)**
+  - Character tableau boards (11x17 paper)
+  - Role, Race, Weapon, Armor, Item, and Ability cards
+  - Simplified 2d6 resolution system
+- **Dice needed:** 2d6 per player (simplified from full D&D)
+- **Alternative:** Standard D&D 5e character sheets if preferred
 
 ### Campaign-Specific Trackers
 
