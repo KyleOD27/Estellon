@@ -12,7 +12,7 @@ def update_audio_players():
     character_files = [
         "characters/brennis-profile.md",
         "characters/elara-profile.md", 
-        "characters/kael-profile.md",
+        "characters/ashka-profile.md",
         "characters/gorok-profile.md",
         "characters/pellor-profile.md",
         "characters/valerius-profile.md"
@@ -57,7 +57,7 @@ def test_audio_files():
     """Test that all audio files exist"""
     print("\nChecking audio files...")
     
-    characters = ["brennis", "elara", "kael", "gorok", "pellor", "valerius"]
+    characters = ["brennis", "elara", "ashka", "gorok", "pellor", "valerius"]
     
     for char in characters:
         wav_path = Path(f"audio/characters/{char}-sample.wav")
@@ -108,11 +108,11 @@ def create_test_html():
     </div>
     
     <div class="character">
-        <h2>Kael - The Revolutionary</h2>
+        <h2>Ashka - The Revolutionary</h2>
         <div class="audio-player">
-            <p><strong>🎵 Kael's Voice</strong></p>
+            <p><strong>🎵 Ashka's Voice</strong></p>
             <audio controls style="width: 100%;">
-                <source src="audio/characters/kael-sample.wav" type="audio/wav">
+                <source src="audio/characters/ashka-sample.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </div>

@@ -81,7 +81,7 @@ Choose one hook below. Your choice grants special dialogue opportunities and rew
 ## Starting Bonuses (Mechanical)
 - +1 weapon or armor of choice (martial, non-magical)
 - +2 to Intimidation checks
-- +1 City Control (Brennis's faction) OR +1 Revolutionary Zeal (Kael's faction) - player's choice
+- +1 City Control (Brennis's faction) OR +1 Revolutionary Zeal (Ashka's faction) - player's choice
 - Proficiency with one additional weapon type
 
 ## Social Access
@@ -112,7 +112,7 @@ Your combat training grants you these abilities:
 - **Noble Patronage:** Long-term contracts with reformed government
 - **Righteous Purpose:** Your sword serves higher ideals
 
-### Supporting the Revolution (Kael)
+### Supporting the Revolution (Ashka)
 - **People's Champion:** Defend the oppressed against tyranny
 - **Freedom Fighter:** Break chains rather than forge them
 - **Revolutionary Glory:** Songs will remember your stand

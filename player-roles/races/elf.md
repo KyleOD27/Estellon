@@ -46,7 +46,7 @@ These abilities are always active and define your elven heritage:
 
 ### Faction Views
 - **Elara's Coalition:** "Natural reformers with historical perspective"
-- **Kael's Revolution:** "Part of the problem, noble sympathizers"
+- **Ashka's Revolution:** "Part of the problem, noble sympathizers"
 - **Brennis's Guard:** "Valuable advisors if they know their place"
 
 ## Playing an Elf

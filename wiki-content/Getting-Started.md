@@ -28,7 +28,7 @@ Each represents a different approach to justice and governance:
    - **Methods:** Legal reform, institutional change, building coalitions
    - **Voice:** Passionate but professional idealist
 
-2. **[[Kael]] (The Revolution)**  
+2. **[[Ashka]] (The Revolution)**  
    - **Philosophy:** "The system must be shattered, not reformed"
    - **Methods:** Direct action, sabotage, protecting the vulnerable
    - **Voice:** Street-smart revolutionary with attitude

@@ -31,7 +31,7 @@ This guide helps you generate AI voice overs for the campaign using various text
 |-----------|------------|------------|---------------------|
 | Brennis | Deep Male | Authoritative, military | Choose stern, older male voice |
 | Elara | Female | Refined, musical accent | Elegant female with slight accent |
-| Kael | Young Female | Street-smart, raspy | Energetic, slightly rough female |
+| Ashka | Young Female | Street-smart, raspy | Energetic, slightly rough female |
 | Gorok | Deep Male | Rumbling, rural accent | Very deep, gruff male voice |
 | Pellor | Male | Smooth, bureaucratic | Pleasant, professional male |
 | Valerius | Male | Hesitant, weak | Nervous, uncertain male voice |

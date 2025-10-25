@@ -20,7 +20,7 @@
 - **Sample Quote:** *"True justice is achieved through order and virtue."*
 - **Character:** Lawful Good Orc Paladin, Reformers faction
 
-#### **Kael** - The Street-Smart Revolutionary
+#### **Ashka** - The Street-Smart Revolutionary
 - **Voice:** Rachel (young American female) 
 - **Tone:** Quick, street-smart, slightly raspy with attitude
 - **Sample Quote:** *"Their laws weren't written to protect us."*
@@ -78,7 +78,7 @@ Each voice was carefully selected to match character personality:
 |-----------|-------------|-----------|
 | **Brennis** | Brian | Authoritative American male for military command |
 | **Elara** | Sarah | Young, clear female voice for idealistic reformer |
-| **Kael** | Rachel | Street-smart female with edge for revolutionary |
+| **Ashka** | Rachel | Street-smart female with edge for revolutionary |
 | **Pellor** | Daniel | Smooth British male for manipulative bureaucrat |
 | **Gorok** | George | Menacing British male for barbarian king |
 | **Valerius** | Callum | Weak, hesitant male for failing ruler |
@@ -94,7 +94,7 @@ Each voice was carefully selected to match character personality:
 ### Character Voices Guide
 - **Brennis:** Speak slowly, never raise voice, state facts without emotion
 - **Elara:** Passionate but controlled, clear pronunciation, idealistic tone
-- **Kael:** Quick speech, street slang, slight rasp, attitude in every word
+- **Ashka:** Quick speech, street slang, slight rasp, attitude in every word
 - **Pellor:** Measured, helpful tone hiding calculation, bureaucratic politeness  
 - **Gorok:** Slow, rumbling, never wastes words, brutal honesty
 - **Valerius:** Hesitant, questioning even when giving orders, seeking approval
@@ -105,7 +105,7 @@ All voice files are located in: `audio/characters/`
 
 - `brennis-sample.mp3`
 - `elara-sample.mp3` 
-- `kael-sample.mp3`
+- `ashka-sample.mp3`
 - `gorok-sample.mp3`
 - `pellor-sample.mp3`
 - `valerius-sample.mp3`

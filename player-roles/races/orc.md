@@ -46,7 +46,7 @@ These abilities are always active and define your orcish heritage:
 
 ### Faction Views
 - **Elara's Coalition:** "Deserve equal treatment under reformed law"
-- **Kael's Revolution:** "Natural allies against oppression"
+- **Ashka's Revolution:** "Natural allies against oppression"
 - **Brennis's Guard:** "Excellent soldiers if kept in line"
 
 ## Playing an Orc

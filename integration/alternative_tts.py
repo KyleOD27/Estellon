@@ -103,7 +103,7 @@ Your scripts are ready in `/audio/scripts/` - just copy the text and paste into 
 Save generated files as:
 - brennis-sample.mp3
 - elara-sample.mp3  
-- kael-sample.mp3
+- ashka-sample.mp3
 - gorok-sample.mp3
 - pellor-sample.mp3
 - valerius-sample.mp3

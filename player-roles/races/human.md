@@ -44,7 +44,7 @@ These abilities are always active and define your human heritage:
 
 ### Faction Views
 - **Elara's Coalition:** "Humans can bridge all divides"
-- **Kael's Revolution:** "Human suffering demands human uprising"
+- **Ashka's Revolution:** "Human suffering demands human uprising"
 - **Brennis's Guard:** "Humans understand the need for order"
 
 ## Playing a Human

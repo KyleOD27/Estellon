@@ -150,8 +150,8 @@ All paths can work, but each role has a natural advantage in their sphere.
 **How It Works:**
 - Each PC pursues missions for their chosen faction
 - Successful missions add to that faction's Progress Track
-- If 2 PCs support Kael and 1 supports Elara:
-  - Kael missions: +2 Revolutionary Zeal per success
+- If 2 PCs support Ashka and 1 supports Elara:
+  - Ashka missions: +2 Revolutionary Zeal per success
   - Elara missions: +1 Coalition Strength per success
 
 **Benefits:**
@@ -188,7 +188,7 @@ All paths can work, but each role has a natural advantage in their sphere.
 **How It Works:**
 - Faction with most PC support wins the vault
 - PCs who supported other factions face relationship consequences
-- Example: Party helps Kael, but one PC is loyal to Elara
+- Example: Party helps Ashka, but one PC is loyal to Elara
   - That PC loses -5 Coalition Strength
   - But gains +2 Revolutionary Zeal for "standing by friends"
   - Creates interesting character arc
@@ -213,7 +213,7 @@ All paths can work, but each role has a natural advantage in their sphere.
 - Pilgrim (moral authority)
 - Sellsword (protection)
 
-#### Kael's Revolution:
+#### Ashka's Revolution:
 - Refugee (street knowledge)
 - Artisan (working class ties)
 - Sellsword (muscle)

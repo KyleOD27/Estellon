@@ -27,7 +27,7 @@ The project scope is a wide creative berth, including the production of content,
 
 ### Core NPCs
 1. **Ser Elara** - Lawful Good Orc Paladin, leads the Reformers
-2. **Kael** - Chaotic Good Human Sorcerer, leads the Revolution
+2. **Ashka** - Chaotic Good Human Sorcerer, leads the Revolution
 3. **Captain Brennis** - Lawful Neutral Human Fighter, maintains the Status Quo
 
 ### Game Mechanics

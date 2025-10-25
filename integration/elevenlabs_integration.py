@@ -94,7 +94,7 @@ VOICE_RECOMMENDATIONS = {
         "settings": {"stability": 0.7, "similarity_boost": 0.8},
         "voice_suggestions": ["Elegant female", "Refined", "Musical", "Noble"]
     },
-    "kael": {
+    "ashka": {
         "description": "Street-smart female voice, slightly raspy",
         "text": "Their laws weren't written to protect us. The only justice we get is the justice we take.",
         "settings": {"stability": 0.6, "similarity_boost": 0.7},

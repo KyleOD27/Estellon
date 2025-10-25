@@ -126,7 +126,7 @@ class AudioManager:
         placeholders = [
             "audio/characters/brennis-sample.mp3",
             "audio/characters/elara-sample.mp3", 
-            "audio/characters/kael-sample.mp3",
+            "audio/characters/ashka-sample.mp3",
             "audio/characters/gorok-sample.mp3",
             "audio/characters/pellor-sample.mp3",
             "audio/characters/valerius-sample.mp3"
@@ -148,7 +148,7 @@ def initialize_campaign_audio():
     characters = [
         ("brennis", "brennis-sample.mp3", "The law is clear. The fine is five silver.", "Deep, authoritative military voice"),
         ("elara", "elara-sample.mp3", "True justice is achieved through order and virtue.", "Refined voice with musical accent"),
-        ("kael", "kael-sample.mp3", "Their laws weren't written to protect us.", "Quick, street-smart, slightly raspy"),
+        ("ashka", "ashka-sample.mp3", "Their laws weren't written to protect us.", "Quick, street-smart, slightly raspy"),
         ("gorok", "gorok-sample.mp3", "I make no pretty speeches about justice.", "Rumbling voice with hill country accent"),
         ("pellor", "pellor-sample.mp3", "I am merely a humble servant of the realm.", "Smooth, deceptively pleasant bureaucratic voice"),
         ("valerius", "valerius-sample.mp3", "I never asked for this crown...", "Hesitant, weak voice seeking approval")

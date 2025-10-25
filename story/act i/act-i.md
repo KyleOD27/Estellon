@@ -14,16 +14,16 @@
  
 - **The Storm:** Captain Brennis and a squad of guards, including Sergeant Rykard, arrive. Brennis declares the gathering "unsanctioned" and orders it shut down.
 - **The Spark:** The guards begin roughly dispersing the crowd. Rykard shoves an elderly woman. A drunk reveller throws a punch at him. Chaos erupts.
-- **The Confrontation:** Kael appears, using minor magic to create barriers of light and gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them. "Bog-Witch. I should have known. Your chaos follows you like a stench."
+- **The Confrontation:** Ashka appears, using minor magic to create barriers of light and gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them. "Bog-Witch. I should have known. Your chaos follows you like a stench."
 - **The Player's Choice:** This is the first major decision.
 -Do the players:
-  - Help Kael create diversions and protect people? (Option A)
+  - Help Ashka create diversions and protect people? (Option A)
   - Help Brennis and the guards restore order? (Option B)
   - Try to protect themselves and neutral bystanders? (Option C)
 
 - **Option A**:
 
-Kael says: "You there! You look capable, give me a hand with this would you?"
+Ashka says: "You there! You look capable, give me a hand with this would you?"
 
 *Protective Actions*:
 - Shield Civilians: Use bodies, shields, or magic to block guard clubs and protect fleeing festival-goers. DC 10 Toughness check. Pass: +2 Zeal. Fail: +1 Zeal, take 1d4 bash damage
@@ -45,16 +45,16 @@ Gain title: Protector (Gain aura: all allies in 10 feet gain +1 Armor)
 
 Gain title: Trickster (+2 Mischief) 
 
-*Direct Assistance to Kael*:
-- Channel Magic: Help sustain Kael's barriers or create complementary effects. Requires: Spellcasting. +2 Zeal. Can't fail.
+*Direct Assistance to Ashka*:
+- Channel Magic: Help sustain Ashka's barriers or create complementary effects. Requires: Spellcasting. +2 Zeal. Can't fail.
 
-- Physical Support: Guard Kael's flanks while they concentrate on spellcasting. DC 10 Toughness check. Pass: +2 Zeal. Fail: take 1d4 slash damage
+- Physical Support: Guard Ashka's flanks while they concentrate on spellcasting. DC 10 Toughness check. Pass: +2 Zeal. Fail: take 1d4 slash damage
 
 - Relay Communications: Help coordinate with other festival defenders across the chaotic square. DC 10 Persona Check. Pass: +1 Zeal. Fail: No effect.
 
-- Gather Materials: Fetch components Kael needs for more complex protective spells. DC 10 Cardio check. Pass +2 Zeal. Fail: Lose 1d4 gold
+- Gather Materials: Fetch components Ashka needs for more complex protective spells. DC 10 Cardio check. Pass +2 Zeal. Fail: Lose 1d4 gold
 
-Gain title: Sidekick (Gain ability: Kael's favour)
+Gain title: Sidekick (Gain ability: Ashka's favour)
 
 
 - **Option B**:
@@ -477,7 +477,7 @@ She seems thoughtful rather than resolved.
 
 - **Immediate:** Elara restrains/arrests attacking player, prevents further violence
 - **Within Hours:** Elara uses her influence to get players released with warning
-- **By Evening:** Elara speaks to players sternly: "Your heart was in the right place, but violence without authority is chaos. That's Kael's path, not mine."
+- **By Evening:** Elara speaks to players sternly: "Your heart was in the right place, but violence without authority is chaos. That's Ashka's path, not mine."
 - **Her Response:** Keeps distance from players, sees them as well-meaning but dangerous
 - **Player Connection:** Damaged trust. Elara won't seek them out for partnership, but won't oppose them
 
@@ -524,7 +524,7 @@ Elara meets them at her chapterhouse (or neutral location if suspended).
 
 > **Elara:** "What we did today—what *you* did—showed me that change is possible. But we need allies. I'm gathering people who believe in justice, not blind obedience. Nobles who see the system is failing. Clergy who remember the light serves the people, not power. Common folk with courage."
 
-> "I need people like you. People who act when action is needed. Will you help me build something better? Not through violence and chaos like Kael's path, but through law, honor, and standing up when it matters?"
+> "I need people like you. People who act when action is needed. Will you help me build something better? Not through violence and chaos like Ashka's path, but through law, honor, and standing up when it matters?"
 
 **Quest Offer:** "Rykard must be stopped. He frequents a tavern called The Rusty Nail—a vile place where he boasts of his 'earnings' and plans his next shakedowns. Find evidence of his corruption. Testimonies. Records. Anything I can bring before the Duke or the City Council. If we can remove men like him, we prove the system *can* work."
 
@@ -552,7 +552,7 @@ She listens to their answer without judgment.
 
 Elara meets them later that day, conflicted.
 
-> **Elara:** "You stopped me from making a terrible mistake today. Breaking my oaths, defying the chain of command... that would have made me no better than Kael's rebels."
+> **Elara:** "You stopped me from making a terrible mistake today. Breaking my oaths, defying the chain of command... that would have made me no better than Ashka's rebels."
 
 She pauses, looking troubled.
 
@@ -612,8 +612,8 @@ What she does here sets the stage for her entire faction arc:
 
 **Setup:** The party is sought out by the faction they most aided.
 
-### If they aided Kael
-They are brought to a hidden safehouse in the sewers or a dilapidated tenement. Kael is nursing a wound but is defiant. "You saw what they did. They won't stop. We have to make them stop. Are you with us?"
+### If they aided Ashka
+They are brought to a hidden safehouse in the sewers or a dilapidated tenement. Ashka is nursing a wound but is defiant. "You saw what they did. They won't stop. We have to make them stop. Are you with us?"
 
 ### If they aided Elara
 They are called to the paladin chapterhouse. Elara is troubled but resolute. "What happened today was not law; it was tyranny. The system is sick, but it can be healed from within. I need allies who believe in true justice. Will you help me?"
@@ -627,7 +627,7 @@ If they remained neutral, a representative from a merchant's guild or another in
 ### The Hook
 The faction leader gives them their first proper quest, pulling them into the growing war.
 
-- **Kael:** "We need to hit their coffers. Sabotage the tax collector's carriage on the main road tomorrow."
+- **Ashka:** "We need to hit their coffers. Sabotage the tax collector's carriage on the main road tomorrow."
 - **Elara:** "Rykard must be stopped. Find evidence of his corruption. He frequents a vile tavern called The Rusty Nail."
 - **Brennis:** "The rebels are getting bold. Their agitators are spreading pamphlets in the market. Find the printing press and shut it down."
 

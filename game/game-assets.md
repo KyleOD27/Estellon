@@ -22,7 +22,7 @@
 
 #### 1. Faction Progress Tracker
 Create or print a sheet with three tracks (0-10 scale):
-- **Revolutionary Zeal** (Kael's faction)
+- **Revolutionary Zeal** (Ashka's faction)
 - **City Control** (Captain Brennis's faction)
 - **Coalition Strength** (Ser Elara's faction)
 
@@ -152,7 +152,7 @@ Quick reference cards for each player showing:
 
 Basic district map showing:
 - **Noble Quarter** (wealthy district) - Ducal Palace, noble estates
-- **Cobbleward** (poor district) - Kael's territory, working class
+- **Cobbleward** (poor district) - Ashka's territory, working class
 - **Trade District** (markets and guilds) - Market Square, The Grumbling Ox
 - **Temple District** (religious centers) - Cathedral, Ser Elara's Chapterhouse
 - **Guard Barracks & Ironhold Prison** (military areas) - Captain Brennis's headquarters, city jail
@@ -169,7 +169,7 @@ Basic district map showing:
 ### Visual Aids
 - **NPC portraits** or reference images for faction leaders:
   - Ser Elara Vance (Lawful Good Orc Paladin)
-  - Kael (Chaotic Good Human Sorcerer)
+  - Ashka (Chaotic Good Human Sorcerer)
   - Captain Brennis (Lawful Neutral Human Fighter)
   - Duke Valerius II (Weak Noble)
   - Lord Pellor (Manipulative Chamberlain)

@@ -41,7 +41,7 @@ Each mission card contains:
 
 ---
 
-## Kael's Revolutionary Missions
+## Ashka's Revolutionary Missions
 
 ### Leader Quest Chain Reminder
 1. **Secure a Smith** - Recruit Borin the weaponsmith
@@ -53,8 +53,8 @@ Each mission card contains:
 ### Mission K1: The Tax Carriage Ambush
 
 **Mission Type:** Sabotage / Heist
-**Granted By:** Kael
-**Prerequisites:** Revolutionary Zeal 0+, aligned with Kael (Act I choice)
+**Granted By:** Ashka
+**Prerequisites:** Revolutionary Zeal 0+, aligned with Ashka (Act I choice)
 
 #### Main Objective
 Intercept and rob the quarterly tax collection carriage traveling from the Trade District to the Palace. Seize the tax ledger showing where money actually goes (evidence of corruption).
@@ -64,7 +64,7 @@ Intercept and rob the quarterly tax collection carriage traveling from the Trade
 
 #### Success Outcomes
 - **Main Success:** +2 Revolutionary Zeal (money redistributed to Cobbleward)
-- **Bonus Success:** Borin joins revolution (1/3 Kael Quest Chain complete)
+- **Bonus Success:** Borin joins revolution (1/3 Ashka Quest Chain complete)
 - **Full Success Narrative:** The people celebrate the wealth redistribution; Borin begins secretly forging weapons
 
 #### Failure Outcomes
@@ -97,11 +97,11 @@ Intercept and rob the quarterly tax collection carriage traveling from the Trade
 ### Mission K2: The Printing Press
 
 **Mission Type:** Protection / Sabotage Defense
-**Granted By:** Kael
+**Granted By:** Ashka
 **Prerequisites:** Revolutionary Zeal 1+
 
 #### Main Objective
-Protect the secret printing press (hidden in Cobbleward) from a guard raid. Kael's rebels produce pamphlets here that spread revolutionary ideas. Guards have been tipped off and are coming to destroy it.
+Protect the secret printing press (hidden in Cobbleward) from a guard raid. Ashka's rebels produce pamphlets here that spread revolutionary ideas. Guards have been tipped off and are coming to destroy it.
 
 #### Bonus Objective
 **No Leader Quest** - Pure defensive mission
@@ -122,11 +122,11 @@ Protect the secret printing press (hidden in Cobbleward) from a guard raid. Kael
 
 #### Key NPCs
 - **Elena "Ink-Fingers"** (Human Rogue, age 28)
-  - Runs the press, fiercely loyal to Kael
+  - Runs the press, fiercely loyal to Ashka
   - Will fight to protect her life's work
 - **Sergeant Rykard** (if still alive from Act I)
   - Leading the raid personally
-  - Wants revenge on Kael
+  - Wants revenge on Ashka
 
 #### Locations
 - **The Press:** Hidden basement in abandoned Cobbleward tenement
@@ -137,18 +137,18 @@ Protect the secret printing press (hidden in Cobbleward) from a guard raid. Kael
 ### Mission K3: Rally the Dockworkers
 
 **Mission Type:** Recruitment / Social
-**Granted By:** Kael
+**Granted By:** Ashka
 **Prerequisites:** Revolutionary Zeal 2+, Mission K1 completed (optional but helpful)
 
 #### Main Objective
 Organize the Dockside workers into joining a planned general strike. Convince the three major guilds (Longshoremen, Fishmongers, Warehouse Workers) to commit.
 
 #### Bonus Objective (Leader Quest 2/3)
-**Rally the Workers:** Successfully unite all three guilds under revolutionary banner with a signed pact. This is the second step of Kael's quest chain.
+**Rally the Workers:** Successfully unite all three guilds under revolutionary banner with a signed pact. This is the second step of Ashka's quest chain.
 
 #### Success Outcomes
 - **Main Success:** +2 Revolutionary Zeal (workers strike, supplies slow to Noble Quarter)
-- **Bonus Success:** Guilds formally ally with revolution (2/3 Kael Quest Chain complete)
+- **Bonus Success:** Guilds formally ally with revolution (2/3 Ashka Quest Chain complete)
 - **Narrative:** Trade District suffers, nobles complain, guards stretched thin
 
 #### Failure Outcomes
@@ -181,7 +181,7 @@ Organize the Dockside workers into joining a planned general strike. Convince th
 ### Mission K4: Ironhold Prison Break
 
 **Mission Type:** Rescue / Infiltration
-**Granted By:** Kael
+**Granted By:** Ashka
 **Prerequisites:** Revolutionary Zeal 3+, City Control 4+ (enough prisoners to rescue)
 
 #### Main Objective
@@ -225,19 +225,19 @@ Break out arrested revolutionary sympathizers from Ironhold Prison's "The Irons"
 ### Mission K5: Sabotage the Armory
 
 **Mission Type:** Sabotage
-**Granted By:** Kael
+**Granted By:** Ashka
 **Prerequisites:** Revolutionary Zeal 4+
 
 #### Main Objective
 Infiltrate the Guard Barracks armory and sabotage their weapon stockpile. Destroy or steal enough weapons to weaken the guard's response capability.
 
 #### Bonus Objective (Leader Quest 3/3)
-**Arm the People:** Instead of destroying weapons, steal them and establish hidden weapon caches throughout the Cobbleward. This is the final step of Kael's quest chain.
+**Arm the People:** Instead of destroying weapons, steal them and establish hidden weapon caches throughout the Cobbleward. This is the final step of Ashka's quest chain.
 
 #### Success Outcomes
 - **Main Success:** +2 Revolutionary Zeal, +1 City Control (guard weakened but angry)
-- **Bonus Success:** Weapon caches established (3/3 Kael Quest Chain complete - Kael EMPOWERED)
-- **Empowerment Effect:** Kael gains "Arsenal Master" ability - can call on armed citizens once per session in Act III
+- **Bonus Success:** Weapon caches established (3/3 Ashka Quest Chain complete - Ashka EMPOWERED)
+- **Empowerment Effect:** Ashka gains "Arsenal Master" ability - can call on armed citizens once per session in Act III
 
 #### Failure Outcomes
 - **Failure:** +3 City Control (security tightened, martial law declared)
@@ -266,7 +266,7 @@ Infiltrate the Guard Barracks armory and sabotage their weapon stockpile. Destro
 ### Mission K6: Expose the Duke's Excesses
 
 **Mission Type:** Investigation / Espionage
-**Granted By:** Kael
+**Granted By:** Ashka
 **Prerequisites:** Revolutionary Zeal 3+
 
 #### Main Objective
@@ -310,7 +310,7 @@ Infiltrate a Noble Quarter gala or palace event to gather evidence of Duke Valer
 ### Mission K7: The Recruitment Drive
 
 **Mission Type:** Recruitment
-**Granted By:** Kael
+**Granted By:** Ashka
 **Prerequisites:** Revolutionary Zeal 5+, approaching threshold (7)
 
 #### Main Objective
@@ -327,13 +327,13 @@ Final recruitment push before open conflict. Recruit at least 50 able-bodied Cob
 - **Failure:** +1 City Control (informants report recruitment, mass arrests)
 
 #### Suggested Approaches
-1. **Public Rally** (Persuasion DC 15) - Kael speaks, PCs organize
+1. **Public Rally** (Persuasion DC 15) - Ashka speaks, PCs organize
 2. **Door-to-Door** (Multiple Persuasion checks) - Personal touch, slower but safer
 3. **Through Guilds** (if K3 completed) - Guild leaders help recruit
 4. **Show Strength** (if K5 completed) - Display weapons, inspire confidence
 
 #### Key NPCs
-- **Kael** (personally involved) - Will give inspiring speech
+- **Ashka** (personally involved) - Will give inspiring speech
 - **Recruited Citizens** - Become named NPCs for Act III battle
 
 #### Locations
@@ -345,11 +345,11 @@ Final recruitment push before open conflict. Recruit at least 50 able-bodied Cob
 ### Mission K8: Counter-Intelligence
 
 **Mission Type:** Espionage / Defense
-**Granted By:** Kael
+**Granted By:** Ashka
 **Prerequisites:** City Control 5+ (Brennis has intelligence network)
 
 #### Main Objective
-Brennis's spies have infiltrated the revolution. Identify and neutralize the informant before they reveal critical plans (like weapon cache locations or Kael's safehouse).
+Brennis's spies have infiltrated the revolution. Identify and neutralize the informant before they reveal critical plans (like weapon cache locations or Ashka's safehouse).
 
 #### Bonus Objective
 **Turn the Spy:** Instead of killing/expelling, feed false information through them to mislead Brennis.
@@ -361,7 +361,7 @@ Brennis's spies have infiltrated the revolution. Identify and neutralize the inf
 #### Failure Outcomes
 - **Failure:** +2 City Control (informant escapes, reveals everything)
 - **Weapon caches raided** (if K5 completed)
-- **Kael must relocate safehouse**
+- **Ashka must relocate safehouse**
 
 #### Suggested Approaches
 1. **Investigation** (Insight + Investigation) - Watch for suspicious behavior
@@ -373,10 +373,10 @@ Brennis's spies have infiltrated the revolution. Identify and neutralize the inf
 - **The Informant:** One of 3-5 trusted rebels (DM chooses)
   - Could be anyone PCs have met
   - Blackmailed by Brennis (family held) or paid traitor
-- **Kael** - Refuses to believe betrayal at first
+- **Ashka** - Refuses to believe betrayal at first
 
 #### Locations
-- **Kael's Safehouse** - Investigation site
+- **Ashka's Safehouse** - Investigation site
 - **The Rusty Nail** - Where informant passes messages
 
 ---
@@ -500,7 +500,7 @@ Attend a Noble Quarter assembly and persuade at least three noble houses to publ
 #### Suggested Approaches
 1. **Legal Argument** (Persuasion DC 14) - Show reform prevents revolution
 2. **Economic Incentive** (Persuasion DC 12) - Demonstrate trade benefits
-3. **Fear Motivation** (Intimidation DC 15) - "Support reform or face Kael's wrath"
+3. **Fear Motivation** (Intimidation DC 15) - "Support reform or face Ashka's wrath"
 4. **Individual Meetings** - Convince each house separately with tailored arguments
 5. **Noble Role Advantage** - If PC is a Noble, DC reduced by 2
 
@@ -570,10 +570,10 @@ Search the palace archives for historical legal precedents supporting constituti
 
 **Mission Type:** Protection / Combat
 **Granted By:** Ser Elara
-**Prerequisites:** Coalition Strength 3+, Revolutionary Zeal 4+ (Kael's faction is getting aggressive)
+**Prerequisites:** Coalition Strength 3+, Revolutionary Zeal 4+ (Ashka's faction is getting aggressive)
 
 #### Main Objective
-Protect Magistrate Helena, a reformist judge, from assassination. Both Kael's radicals (who see her as too moderate) and Brennis's hardliners (who see her as subversive) want her dead.
+Protect Magistrate Helena, a reformist judge, from assassination. Both Ashka's radicals (who see her as too moderate) and Brennis's hardliners (who see her as subversive) want her dead.
 
 #### Bonus Objective
 **Identify the Assassin's Employer:** Determine who sent the assassin and expose them publicly.
@@ -596,7 +596,7 @@ Protect Magistrate Helena, a reformist judge, from assassination. Both Kael's ra
 - **Magistrate Helena** (Human Expert, Lawful Good)
   - Brave reformer, refuses to hide
   - Insists on continuing her work
-- **The Assassin** - Could be from Kael's radicals or Brennis's extremists
+- **The Assassin** - Could be from Ashka's radicals or Brennis's extremists
   - Rogue 5 (CR 4 encounter)
   - Will flee if caught, can be interrogated
 - **True Employer** (revealed through investigation):
@@ -618,7 +618,7 @@ Protect Magistrate Helena, a reformist judge, from assassination. Both Kael's ra
 **Prerequisites:** Coalition Strength 4+, Revolutionary Zeal 3+, City Control 3+ (all factions significant)
 
 #### Main Objective
-Elara attempts to broker a peace summit between all three factions before violence escalates further. Convince Kael and Brennis to attend and negotiate in good faith.
+Elara attempts to broker a peace summit between all three factions before violence escalates further. Convince Ashka and Brennis to attend and negotiate in good faith.
 
 #### Bonus Objective
 **Achieve Temporary Ceasefire:** Get all sides to agree to 7-day ceasefire while talks continue.
@@ -633,14 +633,14 @@ Elara attempts to broker a peace summit between all three factions before violen
 - **Catastrophic Failure:** Summit turns into battle, +1 all tracks (chaos)
 
 #### Suggested Approaches
-1. **Persuade Kael** (Persuasion DC 15) - Appeal to protecting innocents
+1. **Persuade Ashka** (Persuasion DC 15) - Appeal to protecting innocents
 2. **Persuade Brennis** (Persuasion DC 14) - Appeal to order through dialogue
 3. **Neutral Ground** (Investigation + Planning) - Find location all trust
 4. **Security** (Perception + Insight) - Ensure no sabotage
 
 #### Key NPCs
 - **Ser Elara** - Personally mediates
-- **Kael** - Skeptical but willing if convinced
+- **Ashka** - Skeptical but willing if convinced
 - **Captain Brennis** - Sees it as waste but might attend
 - **Lord Pellor** - May try to sabotage (wants continued conflict)
 
@@ -680,7 +680,7 @@ With Rykard removed, recruit reform-minded guards to Elara's coalition. Convince
 - **Captain Mira** (Human Fighter, Lawful Good)
   - Secretly sympathetic, but loyal to Brennis
   - Persuasion DC 16, or DC 13 if shown evidence from E2
-- **Guard Jorin** (mentioned in Kael's missions) - Already sympathetic
+- **Guard Jorin** (mentioned in Ashka's missions) - Already sympathetic
 - **Captain Brennis** - Will view this as betrayal if discovered
 
 #### Locations
@@ -747,7 +747,7 @@ Captain Brennis is spreading propaganda portraying Elara as a naive idealist or 
 Raid and destroy the illegal printing press producing revolutionary pamphlets in the Cobbleward. The press is spreading seditious materials that undermine lawful authority.
 
 #### Bonus Objective
-**No Leader Quest** - This directly opposes Kael's Mission K2
+**No Leader Quest** - This directly opposes Ashka's Mission K2
 
 #### Success Outcomes
 - **Success:** +2 City Control (sedition suppressed)
@@ -839,7 +839,7 @@ Establish informants in the Trade District and Dockside to report on rebel activ
 
 #### Failure Outcomes
 - **Failure:** +1 Revolutionary Zeal (failed recruitments expose informant attempts)
-- **Informants discovered and killed by Kael's rebels**
+- **Informants discovered and killed by Ashka's rebels**
 
 #### Suggested Approaches
 1. **Blackmail** (Investigation + Intimidation) - Find leverage, force cooperation
@@ -874,7 +874,7 @@ Establish informants in the Trade District and Dockside to report on rebel activ
 
 **Mission Type:** Intimidation / Combat
 **Granted By:** Captain Brennis
-**Prerequisites:** City Control 3+, Revolutionary Zeal 3+ (if Kael's K3 succeeded)
+**Prerequisites:** City Control 3+, Revolutionary Zeal 3+ (if Ashka's K3 succeeded)
 
 #### Main Objective
 Break the dockworkers' strike by arresting ringleaders and intimidating workers back to their jobs. The strike is strangling supply lines to the Noble Quarter.
@@ -996,18 +996,18 @@ Organize and train 20 of the best guards into an elite rapid-response unit. They
 **Prerequisites:** City Control 5+, Intelligence from B3 or B5
 
 #### Main Objective
-Raid Kael's safehouse and capture or kill revolutionary leadership. This could end the rebellion in one stroke.
+Raid Ashka's safehouse and capture or kill revolutionary leadership. This could end the rebellion in one stroke.
 
 #### Bonus Objective
-**Capture Kael Alive:** Bring Kael in for public trial (difficult - Kael will fight to the death rather than be captured).
+**Capture Ashka Alive:** Bring Ashka in for public trial (difficult - Ashka will fight to the death rather than be captured).
 
 #### Success Outcomes
 - **Success:** +3 City Control (revolution crippled)
-- **Bonus Success:** +4 City Control, -3 Revolutionary Zeal (Kael captured, movement broken)
+- **Bonus Success:** +4 City Control, -3 Revolutionary Zeal (Ashka captured, movement broken)
 - **Revolutionary path essentially ended** (campaign shifts dramatically)
 
 #### Failure Outcomes
-- **Failure:** +3 Revolutionary Zeal (failed raid makes Kael a legend)
+- **Failure:** +3 Revolutionary Zeal (failed raid makes Ashka a legend)
 - **Guards killed in ambush**
 - **PCs may be wounded or captured**
 
@@ -1015,10 +1015,10 @@ Raid Kael's safehouse and capture or kill revolutionary leadership. This could e
 1. **Overwhelming Force** (20+ guards + PCs) - Brennis's plan
 2. **Surgical Strike** (stealth team) - Fast extraction before rebels rally
 3. **Siege** (surround, wait them out) - Slow but safer
-4. **Warning** (if PCs conflicted) - Tip off Kael, fake raid
+4. **Warning** (if PCs conflicted) - Tip off Ashka, fake raid
 
 #### Key NPCs
-- **Kael** (Sorcerer 7, Chaotic Good)
+- **Ashka** (Sorcerer 7, Chaotic Good)
   - Will fight with wild magic and desperation
   - Has escape routes prepared
   - Will not surrender (capture DC 20+ combination of combat/magic suppression)
@@ -1027,8 +1027,8 @@ Raid Kael's safehouse and capture or kill revolutionary leadership. This could e
 - **Captain Brennis** - May personally lead raid
 
 #### Locations
-- **Kael's Safehouse** - See [City Map](city-map.md)
-- **Sewer Escape Routes** - Kael's planned exit
+- **Ashka's Safehouse** - See [City Map](city-map.md)
+- **Sewer Escape Routes** - Ashka's planned exit
 
 ---
 
@@ -1079,7 +1079,7 @@ These missions can be offered to parties not fully aligned with any faction, or 
 **Prerequisites:** None (early Act II hook)
 
 #### Main Objective
-Wealthy merchant Aldous Blackwood has gone missing. His family hires the PCs to find him. Investigation reveals he was kidnapped - but by whom? Kael's rebels for ransom? Brennis's guards for questioning? Or something else?
+Wealthy merchant Aldous Blackwood has gone missing. His family hires the PCs to find him. Investigation reveals he was kidnapped - but by whom? Ashka's rebels for ransom? Brennis's guards for questioning? Or something else?
 
 #### Bonus Objective
 **Discover True Culprit:** It's actually Lord Pellor's agents, testing PC loyalties.
@@ -1137,14 +1137,14 @@ Quick reference for DMs:
 
 | Mission | Faction | Rep Required | Leader Quest Step | Recommended City Mood |
 |---------|---------|--------------|-------------------|----------------------|
-| K1: Tax Carriage | Kael | 0+ | Step 1/3 | Fragile Peace → Rev Fervor |
-| K2: Printing Press | Kael | 1+ | None | Revolutionary Fervor |
-| K3: Rally Dockworkers | Kael | 2+ | Step 2/3 | Revolutionary Fervor |
-| K4: Ironhold Break | Kael | 3+ | None | Martial Law (prisoners exist) |
-| K5: Sabotage Armory | Kael | 4+ | Step 3/3 | Powder Keg |
-| K6: Expose Duke | Kael | 3+ | None | Any |
-| K7: Recruitment | Kael | 5+ | None | Boiling Point |
-| K8: Counter-Intel | Kael | 0+ | None | Cold War |
+| K1: Tax Carriage | Ashka | 0+ | Step 1/3 | Fragile Peace → Rev Fervor |
+| K2: Printing Press | Ashka | 1+ | None | Revolutionary Fervor |
+| K3: Rally Dockworkers | Ashka | 2+ | Step 2/3 | Revolutionary Fervor |
+| K4: Ironhold Break | Ashka | 3+ | None | Martial Law (prisoners exist) |
+| K5: Sabotage Armory | Ashka | 4+ | Step 3/3 | Powder Keg |
+| K6: Expose Duke | Ashka | 3+ | None | Any |
+| K7: Recruitment | Ashka | 5+ | None | Boiling Point |
+| K8: Counter-Intel | Ashka | 0+ | None | Cold War |
 | E1: Corrupt Cleric | Elara | 0+ | Step 1/3 | Fragile Peace → Reform |
 | E2: Rykard Evidence | Elara | 1+ | None | Hopeful Reform |
 | E3: Noble Assembly | Elara | 2+ | Step 2/3 | Hopeful Reform |
@@ -1207,7 +1207,7 @@ When PCs complete a mission, opposing factions may respond:
 ### Moral Complexity
 
 Encourage moral questioning:
-- **Kael's missions** may harm innocents (collateral damage)
+- **Ashka's missions** may harm innocents (collateral damage)
 - **Elara's missions** may be too slow (people suffer waiting for reform)
 - **Brennis's missions** may be oppressive (arresting protesters)
 

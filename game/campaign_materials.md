@@ -11,19 +11,19 @@
 The player characters, newcomers to the city, witness three vignettes that define the central conflict:
 
 - **The Weight of Law:** Captain Brennis enforces the law with cold, unyielding precision, showing order without mercy.
-- **The Cry for Chaos:** Kael uses clever, disruptive magic to protect the common folk from guard brutality, showing compassion without order.
+- **The Cry for Chaos:** Ashka uses clever, disruptive magic to protect the common folk from guard brutality, showing compassion without order.
 - **The Hope for Balance:** Ser Elara resolves a conflict by using the law correctly to achieve a just outcome, showing true law as a shield.
 - **The Hook:** The tension culminates in the announcement of the "unsanctioned" Sunstone Festival, setting the stage for explosion.
 
 ### Act I: The Spark
 
 - **The Inciting Incident:** The PCs are caught in the middle of the Sunstone Festival Riot, a violent clash between the City Guard and rebellious citizens.
-- **The Choice:** They must choose sides between the idealistic Paladin, Ser Elara, and the fiery Sorcerer, Kael.
+- **The Choice:** They must choose sides between the idealistic Paladin, Ser Elara, and the fiery Sorcerer, Ashka.
 - **The Complication:** A brutal conscription decree forces Elara to confront the regime's cruelty firsthand, revealing the deep corruption within.
 
 ### Act II: The Faction War
 
-- **The Cold War:** The city fractures into three factions led by Kael (Revolution), Elara (Lawful Change), and Brennis (Status Quo).
+- **The Cold War:** The city fractures into three factions led by Ashka (Revolution), Elara (Lawful Change), and Brennis (Status Quo).
 - **The Race:** The PCs undertake missions for their chosen faction, influencing a dynamic "Faction War" that shifts the city's balance of power.
 - **The Climax:** The Chamberlain, Lord Pellor, reveals the existence of the Crown-Regent's Mandate. All three factions race to seize it.
 - **The Twist:** As the internal battle concludes, the armies of the Bandit King Gorok and rival Duke Theron descend upon the defenseless city.
@@ -55,7 +55,7 @@ The campaign concludes with a narration of Estellon's new era, shaped directly b
 
 **What it is:** Three scores (0-10) that measure the city's balance of power.
 
-- **Revolutionary Zeal:** The strength of Kael's rebellion and public support.
+- **Revolutionary Zeal:** The strength of Ashka's rebellion and public support.
 - **City Control:** Captain Brennis's grip on order and fear.
 - **Coalition Strength:** Elara's political and institutional support.
 
@@ -77,11 +77,11 @@ The campaign concludes with a narration of Estellon's new era, shaped directly b
 
 ### 3. Faction Leader Quest Chains
 
-**What it is:** Each faction leader (Kael, Elara, Brennis) has a unique 3-step personal quest.
+**What it is:** Each faction leader (Ashka, Elara, Brennis) has a unique 3-step personal quest.
 
 **How it works:**
 - Missions often have a Main Goal (affects Progress Tracks) and a Bonus Objective (advances the Leader Quest).
-- Completing all 3 steps before the Mandate is revealed "empowers" the leader, granting them a powerful new ability for the final siege (e.g., Kael can heal allies, Brennis boosts ally AC).
+- Completing all 3 steps before the Mandate is revealed "empowers" the leader, granting them a powerful new ability for the final siege (e.g., Ashka can heal allies, Brennis boosts ally AC).
 
 **Goal:** Provides a long-term personal goal alongside the main story.
 
@@ -91,7 +91,7 @@ The campaign concludes with a narration of Estellon's new era, shaped directly b
 
 **How it works:** At the start of each session, the DM briefly narrates what the two other factions have been doing off-screen, adjusting their Progress Tracks up or down accordingly.
 
-**Example:** "While you were investigating the tax records, Kael's rebels successfully raided a guard post (+1 Zeal), but Captain Brennis tightened curfews in response (+1 Control)."
+**Example:** "While you were investigating the tax records, Ashka's rebels successfully raided a guard post (+1 Zeal), but Captain Brennis tightened curfews in response (+1 Control)."
 
 ### 5. The Ultimate Choice & The Council Vote
 
@@ -132,12 +132,12 @@ This framework is designed to make political intrigue tangible and engaging, tur
 
 **The Escalation:** Rykard shoves Old Thom to the ground for "wasting their time." The situation is about to turn violent.
 
-**The Entrance of Kael:** A sharp CRACK of magical energy thumps the dirt near Rykard's feet, kicking up a cloud of dust. All eyes turn to a figure leaning against a wall: Kael. They look utterly at ease. A flick of their wrist:
+**The Entrance of Ashka:** A sharp CRACK of magical energy thumps the dirt near Rykard's feet, kicking up a cloud of dust. All eyes turn to a figure leaning against a wall: Ashka. They look utterly at ease. A flick of their wrist:
 
 - Rykard's sword knot unfurls, and his blade clatters to the stones.
 - The baskets on Thom's cart unweave, spilling fruit for street urchins to grab.
 
-**The Action:** This is protective, disruptive chaos. The guards are humiliated and distracted. Kael catches Thom's eye and gives a slight nod toward an alley. Thom scrambles away. Kael then vanishes into the crowd.
+**The Action:** This is protective, disruptive chaos. The guards are humiliated and distracted. Ashka catches Thom's eye and gives a slight nod toward an alley. Thom scrambles away. Ashka then vanishes into the crowd.
 
 **Theme Established:** Compassion without order is powerful, but fleeting.
 
@@ -176,9 +176,9 @@ The prologue ends. The players are now invested in the city and its people. They
 - **The Calm:** Have each player describe what their character is enjoying about the festival. This builds investment before it's torn down.
 - **The Storm:** Captain Brennis and a squad of guards, including Sergeant Rykard, arrive. Brennis declares the gathering "unsanctioned" and orders it shut down.
 - **The Spark:** The guards begin roughly dispersing the crowd. Rykard shoves an elderly woman. A drunk reveller throws a punch at him. Chaos erupts.
-- **The Confrontation:** Kael appears, using minor magic to create barriers of light or gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them. "Vance. I should have known. Your chaos follows you like a stench."
+- **The Confrontation:** Ashka appears, using minor magic to create barriers of light or gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them. "Vance. I should have known. Your chaos follows you like a stench."
 - **The Player's Choice:** This is the first major decision. Do the players:
-  - Help Kael create diversions and protect people?
+  - Help Ashka create diversions and protect people?
   - Help Brennis and the guards restore order?
   - Try to protect themselves and neutral bystanders?
 - **Outcome:** Their actions here grant them their initial reputation with the People or the City Guard.
@@ -200,7 +200,7 @@ The prologue ends. The players are now invested in the city and its people. They
 
 **Setup:** The party is sought out by the faction they most aided.
 
-**If they aided Kael:** They are brought to a hidden safehouse in the sewers or a dilapidated tenement. Kael is nursing a wound but is defiant. "You saw what they did. They won't stop. We have to make them stop. Are you with us?"
+**If they aided Ashka:** They are brought to a hidden safehouse in the sewers or a dilapidated tenement. Ashka is nursing a wound but is defiant. "You saw what they did. They won't stop. We have to make them stop. Are you with us?"
 
 **If they aided Elara:** They are called to the paladin chapterhouse. Elara is troubled but resolute. "What happened today was not law; it was tyranny. The system is sick, but it can be healed from within. I need allies who believe in true justice. Will you help me?"
 
@@ -210,7 +210,7 @@ The prologue ends. The players are now invested in the city and its people. They
 
 **The Hook:** The faction leader gives them their first proper quest, pulling them into the growing war.
 
-- **Kael:** "We need to hit their coffers. Sabotage the tax collector's carriage on the main road tomorrow."
+- **Ashka:** "We need to hit their coffers. Sabotage the tax collector's carriage on the main road tomorrow."
 - **Elara:** "Rykard must be stopped. Find evidence of his corruption. He frequents a vile tavern called The Rusty Nail."
 - **Brennis:** "The rebels are getting bold. Their agitators are spreading pamphlets in the market. Find the printing press and shut it down."
 
@@ -228,7 +228,7 @@ The players are no longer visitors. They have chosen a side (or chosen to walk t
 
 The Sunstone Festival Riot and Conscription Crisis have shattered the fragile peace. Estellon is now divided:
 
-- Kael's Rebels operate from the shadows in the Cobbleward.
+- Ashka's Rebels operate from the shadows in the Cobbleward.
 - Ser Elara's Reformers work within the system, rallying disillusioned nobles and clerics.
 - Captain Brennis's Guard enforces a tense, oppressive order.
 - The common citizens are caught in the middle, fearful and desperate.
@@ -237,11 +237,11 @@ The Sunstone Festival Riot and Conscription Crisis have shattered the fragile pe
 
 **Progress Tracks:** Three scores (0-10) measure each faction's strength.
 
-- **Revolutionary Zeal (Kael):** Morale and public support for rebellion.
+- **Revolutionary Zeal (Ashka):** Morale and public support for rebellion.
 - **Coalition Strength (Elara):** Political and institutional support for reform.
 - **City Control (Brennis):** The Guard's grip on the streets and citizen fear.
 
-**The Faction Turn:** At the start of each session, the DM narrates how the conflict evolved since the last one, adjusting the Progress Tracks based on off-screen events. "While you were investigating the tax records, Kael's rebels raided a guard post (+1 Zeal), but Brennis tightened curfews in response (+1 Control)."
+**The Faction Turn:** At the start of each session, the DM narrates how the conflict evolved since the last one, adjusting the Progress Tracks based on off-screen events. "While you were investigating the tax records, Ashka's rebels raided a guard post (+1 Zeal), but Brennis tightened curfews in response (+1 Control)."
 
 ### Structure: Missions and Leader Quests
 
@@ -252,11 +252,11 @@ Act II is structured around missions given by the party's chosen faction leader.
 
 ### Example Missions:
 
-**For Kael's Rebels (Goal: Increase Zeal):**
+**For Ashka's Rebels (Goal: Increase Zeal):**
 - **Mission:** Ambush a tax collector's carriage.
 - **Main Objective:** Seize the tax ledger.
 - **Bonus Objective (Step 1: Secure a Smith):** The carriage is being guarded by the city smith, Borin, who is sympathetic but forced to work for the guard. Convince him to defect and come with you.
-- **Outcome:** Success on the main objective grants +2 Zeal. Success on the bonus objective marks 1/3 on Kael's Quest Chain.
+- **Outcome:** Success on the main objective grants +2 Zeal. Success on the bonus objective marks 1/3 on Ashka's Quest Chain.
 
 **For Elara's Reformers (Goal: Increase Coalition):**
 - **Mission:** Discredit a corrupt official.
@@ -303,8 +303,8 @@ The city is assaulted from both outside and within.
 
 **Front 2: The Streets (The Spear).** Gorok the Hillbreaker's bandit horde, aided by Lord Pellor's treachery, has infiltrated through a forgotten gate or tunnel. Their goal is to sow chaos, burn districts, and assassinate leaders.
 
-- **Commanded by:** Kael and the PCs. This is a battle of ambushes, guerrilla tactics, and urban warfare.
-- **PC Role:** Players aligned with Kael will be fighting street-by-street, putting out fires, stopping looters, and hunting saboteurs.
+- **Commanded by:** Ashka and the PCs. This is a battle of ambushes, guerrilla tactics, and urban warfare.
+- **PC Role:** Players aligned with Ashka will be fighting street-by-street, putting out fires, stopping looters, and hunting saboteurs.
 
 **The Reveal:** During the chaos, the PCs discover irrefutable proof (e.g., a captured bandit lieutenant, a missive on a commander's body) that Lord Pellor is in league with the Bandit King. He orchestrated the crisis to seize power.
 
@@ -312,7 +312,7 @@ The city is assaulted from both outside and within.
 
 The goal shifts from pure defense to a surgical strike. To break the siege, they must cut off the head of the snake inside the city.
 
-**The Target:** The PCs, likely joined by Kael (and perhaps Elara if they can spare her from the walls), must fight their way into the heart of the chaos—the palace district—for a final confrontation.
+**The Target:** The PCs, likely joined by Ashka (and perhaps Elara if they can spare her from the walls), must fight their way into the heart of the chaos—the palace district—for a final confrontation.
 
 **Boss Fight 1:** Gorok the Hillbreaker. The Bandit King is a brutal melee combatant (a Barbarian/Champion Fighter). The fight is a straightforward test of martial might.
 
@@ -328,7 +328,7 @@ With the internal threat neutralized and the external attack breaking due to the
 
 **The Ceremony:** Elara (or the PCs) formally presents the charges against Valerius using the Mandate's clauses for "Failure of Justice, Provision, and Defense."
 
-**The Outcome:** He is forced to sign a letter of abdication, legally and peacefully ending his rule. If the Mandate was destroyed, the abdication is forced through threat of popular revolt (Kael's way) or a pragmatic deal (Brennis's way).
+**The Outcome:** He is forced to sign a letter of abdication, legally and peacefully ending his rule. If the Mandate was destroyed, the abdication is forced through threat of popular revolt (Ashka's way) or a pragmatic deal (Brennis's way).
 
 ---
 
@@ -377,9 +377,9 @@ This is the more important vote, deciding the city's future philosophy. The PCs 
 - **Who Supports It:** Brennis, the military, fearful citizens.
 
 **Option 3: The People's Council. (Chaotic)**
-- **Description:** A representative council is formed from nobles, merchants, guilds, and common folk. Kael (or a chosen representative) holds a seat.
+- **Description:** A representative council is formed from nobles, merchants, guilds, and common folk. Ashka (or a chosen representative) holds a seat.
 - **Consequences:** The most democratic and fair option, but could be slow and inefficient. A true revolution in governance.
-- **Who Supports It:** Kael, the common folk, the artisans.
+- **Who Supports It:** Ashka, the common folk, the artisans.
 
 **Option 4: The Free State. (Anarchy)**
 - **Description:** Central authority is dissolved. Neighborhoods and guilds form loose, self-governing coalitions.
@@ -434,7 +434,7 @@ The epilogue ends by detailing what happens to each of the three faction leaders
 
 ### Relationships
 
-- **Kael:** Sees her as a naive fool, a "tame orc" shackled by the very system that oppresses them. Elara views Kael as a dangerous chaotic force, well-intentioned but ultimately destructive.
+- **Ashka:** Sees her as a naive fool, a "tame orc" shackled by the very system that oppresses them. Elara views Ashka as a dangerous chaotic force, well-intentioned but ultimately destructive.
 - **Brennis:** Respects his discipline but despises his moral flexibility. She believes he serves "order" without understanding "justice." He sees her as a disruptive idealist.
 - **Duke Theron:** Her mortal enemy and personal demon. He represents the ultimate perversion of law: order used as an excuse for genocide. Her hatred for him is buried deep beneath her vow of justice, but it is a fire that never goes out.
 - **The PCs:** She will appeal to their sense of justice and honour. She believes in leading by example and will try to recruit them to be beacons of light in a dark system.
@@ -450,7 +450,7 @@ The epilogue ends by detailing what happens to each of the three faction leaders
 
 - **Short-Term Goal:** Expose the corruption of the current regime through lawful means and find a legal path to deposing Duke Valerius.
 - **Long-Term Goal:** Reform the knighthood and the government of Estellon into a truly just and protective force for all its citizens.
-- **Secret:** She privately fears that Kael might be right—that the system is too rotten to save. This is her deepest, most hidden anxiety.
+- **Secret:** She privately fears that Ashka might be right—that the system is too rotten to save. This is her deepest, most hidden anxiety.
 - **Secret:** She keeps a small, charred piece of wood from her razed village hidden in her chambers—a somber reminder of the cost of lawless "order" and why her oath is necessary.
 - **Explosive Secret:** She knows Duke Theron is coming. She has been monitoring his movements for years, waiting for his excuse to invade. The internal crisis in Estellon is exactly what he was waiting for. She may be the first to truly understand the scale of the threat in Act III.
 
@@ -470,13 +470,13 @@ She was, in every sense, a contradiction made manifest—an orc who embodied eve
 
 ---
 
-## Character Profile: Kael
+## Character Profile: Ashka
 
 > *"Their laws weren't written to protect us; they were written to protect them. The only justice we get is the justice we take."*
 
 ### Basic Information
 
-- **Name:** Kael
+- **Name:** Ashka
 - **Race:** Human
 - **Class:** Sorcerer (Wild Magic Origin)
 - **Age:** 22
@@ -494,8 +494,8 @@ She was, in every sense, a contradiction made manifest—an orc who embodied eve
 ### Background: The Spark of Rebellion
 
 - **Origin:** Grew up in the Cobbleward district. Her parents were clever, kind artisans (a cobbler and a seamstress).
-- **The Incident:** When Kael was 12, a tax collection turned violent. Sergeant Rykard shoved her father. In a burst of terrified, nascent magic, Kael's power erupted—a concussive wave of force that injured Rykard and shattered the shop window.
-- **The Injustice:** Captain Brennis arrived. He saw only a magical threat and a guard injured. In the ensuing chaos, Kael's father was crippled. Brennis upheld the law coldly: the family was fined into ruin. Rykard received a light reprimand. Brennis's contemptible inaction—his choice to value procedure over people—is what cemented Kael's hatred for the entire system.
+- **The Incident:** When Ashka was 12, a tax collection turned violent. Sergeant Rykard shoved her father. In a burst of terrified, nascent magic, Ashka's power erupted—a concussive wave of force that injured Rykard and shattered the shop window.
+- **The Injustice:** Captain Brennis arrived. He saw only a magical threat and a guard injured. In the ensuing chaos, Ashka's father was crippled. Brennis upheld the law coldly: the family was fined into ruin. Rykard received a light reprimand. Brennis's contemptible inaction—his choice to value procedure over people—is what cemented Ashka's hatred for the entire system.
 - **Her Power:** Her Wild Magic is a manifestation of her trauma and her spirit—uncontrollable, emotional, and powerful. It refuses to be constrained by the rules of wizardry.
 
 ### Personality & Demeanor
@@ -516,7 +516,7 @@ She was, in every sense, a contradiction made manifest—an orc who embodied eve
 - **Speech:** Quick, sharp, and laced with cynicism and wit. Uses slang and street talk.
 - **What She Values:** Freedom, action, compassion, the people.
 - **What She Despises:** Authority, bureaucracy, greed, cruelty, Rykard, Brennis.
-- **The DM's Hook:** Kael is the source of missions involving sabotage, theft, and guerrilla tactics. Her quests are about direct action and protecting the vulnerable.
+- **The DM's Hook:** Ashka is the source of missions involving sabotage, theft, and guerrilla tactics. Her quests are about direct action and protecting the vulnerable.
 
 ### Goals & Secrets
 
@@ -552,7 +552,7 @@ She was, in every sense, a contradiction made manifest—an orc who embodied eve
 
 - **Career Soldier:** Brennis has served the city of Estellon for over four decades, rising through the ranks from a guardsman to its commanding Captain.
 - **The Veteran's Cynicism:** He has served under both the wise Duke Reginald and his incompetent son, Valerius. This has forged in him a cynical belief that rulers are temporary, but the institution of the Guard is eternal. His loyalty is to the office of the Duke, not the man himself.
-- **The Incident with Kael:** He was the officer in charge the day Sergeant Rykard provoked Kael's magical outburst, which led to her father's injury. Brennis processed the event by the book: the family was fined for assault and property damage, Rykard was lightly reprimanded for poor judgment. He sees this as a tragic but correct application of the law. The human cost is irrelevant to the equation of maintaining order.
+- **The Incident with Ashka:** He was the officer in charge the day Sergeant Rykard provoked Ashka's magical outburst, which led to her father's injury. Brennis processed the event by the book: the family was fined for assault and property damage, Rykard was lightly reprimanded for poor judgment. He sees this as a tragic but correct application of the law. The human cost is irrelevant to the equation of maintaining order.
 
 ### Personality & Demeanor
 
@@ -562,7 +562,7 @@ She was, in every sense, a contradiction made manifest—an orc who embodied eve
 
 ### Relationships
 
-- **Kael:** Sees her not as a victim, but as a personification of the chaotic anarchy he has dedicated his life to fighting. Her existence justifies his entire worldview.
+- **Ashka:** Sees her not as a victim, but as a personification of the chaotic anarchy he has dedicated his life to fighting. Her existence justifies his entire worldview.
 - **Elara:** Views her as a naive, disruptive idealist. He believes her attempts at reform will only create uncertainty and weaken the structures that keep people safe.
 - **Rykard:** Sees him as a useful, if unpleasant, tool. Rykard gets results through fear, which Brennis mistakenly equates with order. He will defend Rykard's actions as "within his discretion" until presented with irrefutable proof of treason.
 - **The PCs:** If they side with him, he will be a stern, demanding patron who rewards competence and loyalty. He will test their resolve and their commitment to "doing what is necessary."

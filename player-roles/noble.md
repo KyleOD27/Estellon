@@ -112,7 +112,7 @@ Your noble heritage grants you these abilities:
 - **Noble Obligation:** True nobility means serving the people
 - **Strategic Adaptation:** Reform or face revolution
 
-### Supporting the Revolution (Kael)
+### Supporting the Revolution (Ashka)
 - **Class Traitor:** Reject the system that created you
 - **Guilty Conscience:** Atone for ancestral sins
 - **True Freedom:** Even nobles are slaves to the system

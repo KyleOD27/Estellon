@@ -26,7 +26,7 @@ New to the campaign? Start here:
 
 #### The Three Faction Leaders
 - **[[Ser Elara Vance]]** - *Lawful Good Orc Paladin* (The Reformers)
-- **[[Kael]]** - *Chaotic Good Human Sorcerer* (The People's Revolution)
+- **[[Ashka]]** - *Chaotic Good Human Sorcerer* (The People's Revolution)
 - **[[Captain Brennis]]** - *Lawful Neutral Human Fighter* (The Status Quo)
 
 #### Antagonists & Key NPCs

@@ -23,8 +23,8 @@ Duke Theron's professional, disciplined army lays siege with trebuchets and sieg
 ### Front 2: The Streets (The Spear)
 Gorok the Hillbreaker's bandit horde, aided by Lord Pellor's treachery, has infiltrated through a forgotten gate or tunnel. Their goal is to sow chaos, burn districts, and assassinate leaders.
 
-- **Commanded by:** Kael and the PCs. This is a battle of ambushes, guerrilla tactics, and urban warfare.
-- **PC Role:** Players aligned with Kael will be fighting street-by-street, putting out fires, stopping looters, and hunting saboteurs.
+- **Commanded by:** Ashka and the PCs. This is a battle of ambushes, guerrilla tactics, and urban warfare.
+- **PC Role:** Players aligned with Ashka will be fighting street-by-street, putting out fires, stopping looters, and hunting saboteurs.
 
 ### The Reveal
 During the chaos, the PCs discover irrefutable proof (e.g., a captured bandit lieutenant, a missive on a commander's body) that Lord Pellor is in league with the Bandit King. He orchestrated the crisis to seize power.
@@ -35,7 +35,7 @@ During the chaos, the PCs discover irrefutable proof (e.g., a captured bandit li
 
 The goal shifts from pure defense to a surgical strike. To break the siege, they must cut off the head of the snake inside the city.
 
-- **The Target:** The PCs, likely joined by Kael (and perhaps Elara if they can spare her from the walls), must fight their way into the heart of the chaos—the palace district—for a final confrontation.
+- **The Target:** The PCs, likely joined by Ashka (and perhaps Elara if they can spare her from the walls), must fight their way into the heart of the chaos—the palace district—for a final confrontation.
 
 ### Boss Fight 1: Gorok the Hillbreaker
 The Bandit King is a brutal melee combatant (a Barbarian/Champion Fighter). The fight is a straightforward test of martial might.
@@ -54,7 +54,7 @@ With the internal threat neutralized and the external attack breaking due to the
 
 - **The Mandate's Purpose:** If Elara's faction secured the Crown-Regent's Mandate in Act II, this is its moment.
 - **The Ceremony:** Elara (or the PCs) formally presents the charges against Valerius using the Mandate's clauses for "Failure of Justice, Provision, and Defense."
-- **The Outcome:** He is forced to sign a letter of abdication, legally and peacefully ending his rule. If the Mandate was destroyed, the abdication is forced through threat of popular revolt (Kael's way) or a pragmatic deal (Brennis's way).
+- **The Outcome:** He is forced to sign a letter of abdication, legally and peacefully ending his rule. If the Mandate was destroyed, the abdication is forced through threat of popular revolt (Ashka's way) or a pragmatic deal (Brennis's way).
 
 ---
 

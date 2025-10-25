@@ -42,7 +42,7 @@ A weary idealist. She struggles with the cognitive dissonance of serving a son w
 
 ### Relationships
 
-- **Kael:** Sees her as a naive fool, a "tame orc" shackled by the very system that oppresses them. Elara views Kael as a dangerous chaotic force, well-intentioned but ultimately destructive.
+- **Ashka:** Sees her as a naive fool, a "tame orc" shackled by the very system that oppresses them. Elara views Ashka as a dangerous chaotic force, well-intentioned but ultimately destructive.
 - **Brennis:** Respects his discipline but despises his moral flexibility. She believes he serves "order" without understanding "justice." He sees her as a disruptive idealist.
 - **Duke Theron:** Her mortal enemy and personal demon. He represents the ultimate perversion of law: order used as an excuse for genocide. Her hatred for him is buried deep beneath her vow of justice, but it is a fire that never goes out.
 - **The PCs:** She will appeal to their sense of justice and honour. She believes in leading by example and will try to recruit them to be beacons of light in a dark system.
@@ -62,7 +62,7 @@ A weary idealist. She struggles with the cognitive dissonance of serving a son w
 
 - **Short-Term Goal:** Expose the corruption of the current regime through lawful means and find a legal path to deposing Duke Valerius.
 - **Long-Term Goal:** Reform the knighthood and the government of Estellon into a truly just and protective force for all its citizens.
-- **Secret:** She privately fears that Kael might be right—that the system is too rotten to save. This is her deepest, most hidden anxiety.
+- **Secret:** She privately fears that Ashka might be right—that the system is too rotten to save. This is her deepest, most hidden anxiety.
 - **Secret:** She keeps a small, charred piece of wood from her razed village hidden in her chambers—a somber reminder of the cost of lawless "order" and why her oath is necessary.
 - **Explosive Secret:** She knows Duke Theron is coming. She has been monitoring his movements for years, waiting for his excuse to invade. The internal crisis in Estellon is exactly what he was waiting for. She may be the first to truly understand the scale of the threat in Act III.
 

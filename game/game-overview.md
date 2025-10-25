@@ -10,7 +10,7 @@
 Three scores (0-10) that measure the city's balance of power.
 
 #### Revolutionary Zeal 
-- **Who:** Kael's rebellion 
+- **Who:** Ashka's rebellion 
 - **Measures:** Public support and revolutionary fervor
 - **High Score Effects:** Riots, civil disobedience, underground networks grow
 
@@ -245,7 +245,7 @@ Encourages players to engage with the campaign's philosophical themes through ro
 ### What it is
 Each faction leader has a unique **3-step personal quest** that runs parallel to the main story.
 
-#### Kael's Quest Chain Example
+#### Ashka's Quest Chain Example
 1. **Secure a Smith** - Convince Borin to join the revolution
 2. **Rally the Workers** - Unite the guilds under revolutionary banner  
 3. **Arm the People** - Establish weapon caches throughout the Cobbleward
@@ -264,7 +264,7 @@ Each faction leader has a unique **3-step personal quest** that runs parallel to
 - **Dual Objectives:** Missions have a **Main Goal** (affects Progress Tracks) + **Bonus Objective** (advances Leader Quest)
 - **Empowerment:** Completing all 3 steps before the Mandate is revealed **"empowers"** the leader
 - **Final Siege Benefits:** Empowered leaders gain powerful abilities:
-  - **Kael** can heal allies with revolutionary fervor
+  - **Ashka** can heal allies with revolutionary fervor
   - **Elara** grants divine protection to the righteous
   - **Brennis** boosts ally coordination and tactics
 
@@ -285,7 +285,7 @@ At the **start of each session**, the DM briefly narrates what the **two other f
 ### Example Faction Turns
 
 **Revolutionary Activity:**
-> *"While you were investigating the tax records, Kael's rebels successfully raided a guard post, freeing several arrested protesters. (+1 Revolutionary Zeal)"*
+> *"While you were investigating the tax records, Ashka's rebels successfully raided a guard post, freeing several arrested protesters. (+1 Revolutionary Zeal)"*
 
 **Guard Response:**
 > *"In response to the raid, Captain Brennis tightened curfews and doubled patrols in the Cobbleward. (+1 City Control)"*

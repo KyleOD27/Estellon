@@ -34,7 +34,7 @@ I've prepared these wiki pages for you:
 
 #### Additional Pages (Create as Needed)
 You can create more pages by copying content from your existing files:
-- Character profiles for Kael, Brennis, Pellor, etc.
+- Character profiles for Ashka, Brennis, Pellor, etc.
 - Story pages for Prologue, Act I, Act II, Act III
 - Game mechanics pages
 - Setup guides for ElevenLabs integration

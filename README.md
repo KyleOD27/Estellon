@@ -87,7 +87,7 @@ Below is the complete navigation structure for all campaign materials:
   - **Philosophy:** "The system can be redeemed from within"
   - **Voice:** Natural AI-generated voice sample included
   
-- **[Kael](characters/kael-profile.md)** - *Chaotic Good Human Sorcerer*  
+- **[Ashka](characters/ashka-profile.md)** - *Chaotic Good Human Sorcerer*
   - **Faction:** The People's Revolution
   - **Philosophy:** "The system must be shattered, not reformed"
   - **Voice:** Street-smart AI-generated voice sample included

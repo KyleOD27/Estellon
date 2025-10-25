@@ -1,10 +1,10 @@
-# Kael
+# Ashka
 
 > *"Their laws weren't written to protect us; they were written to protect them. The only justice we get is the justice we take."*
 
 ## Basic Information
 
-- **Full Name:** Kael (no surname)
+- **Full Name:** Ashka (no surname)
 - **Race:** Human
 - **Class:** Sorcerer (Wild Magic Origin)
 - **Age:** 22
@@ -27,8 +27,8 @@
 ## Background: The Spark of Rebellion
 
 - **Origin:** Grew up in the Cobbleward district. Her parents were clever, kind artisans (a cobbler and a seamstress).
-- **The Incident:** When Kael was 12, a tax collection turned violent. Sergeant Rykard shoved her father. In a burst of terrified, nascent magic, Kael's power erupted—a concussive wave of force that injured Rykard and shattered the shop window.
-- **The Injustice:** Captain Brennis arrived. He saw only a magical threat and a guard injured. In the ensuing chaos, Kael's father was crippled. Brennis upheld the law coldly: the family was fined into ruin. Rykard received a light reprimand. Brennis's contemptible inaction—his choice to value procedure over people—is what cemented Kael's hatred for the entire system.
+- **The Incident:** When Ashka was 12, a tax collection turned violent. Sergeant Rykard shoved her father. In a burst of terrified, nascent magic, Ashka's power erupted—a concussive wave of force that injured Rykard and shattered the shop window.
+- **The Injustice:** Captain Brennis arrived. He saw only a magical threat and a guard injured. In the ensuing chaos, Ashka's father was crippled. Brennis upheld the law coldly: the family was fined into ruin. Rykard received a light reprimand. Brennis's contemptible inaction—his choice to value procedure over people—is what cemented Ashka's hatred for the entire system.
 - **Her Power:** Her Wild Magic is a manifestation of her trauma and her spirit—uncontrollable, emotional, and powerful. It refuses to be constrained by the rules of wizardry.
 
 ---
@@ -58,7 +58,7 @@ Haunted and angry. The cheerful rebel persona is a mask for a deep well of pain 
 - **Mannerisms:** Restless energy, flows around obstacles, sparks of wild magic when emotional.
 - **What She Values:** Freedom, action, compassion, the people.
 - **What She Despises:** Authority, bureaucracy, greed, cruelty, Rykard, Brennis.
-- **The DM's Hook:** Kael is the source of missions involving sabotage, theft, and guerrilla tactics. Her quests are about direct action and protecting the vulnerable.
+- **The DM's Hook:** Ashka is the source of missions involving sabotage, theft, and guerrilla tactics. Her quests are about direct action and protecting the vulnerable.
 
 ---
 
@@ -73,19 +73,19 @@ Haunted and angry. The cheerful rebel persona is a mask for a deep well of pain 
 
 ## Campaign Role
 
-Kael represents the People's Revolution faction and embodies the belief that the system must be shattered, not reformed. She is the spark of rebellion, a folk hero who channels the rage of the oppressed through wild magic and direct action. Her hatred for Rykard and contempt for Brennis drive her crusade against authority. In gameplay, she provides sabotage, theft, and guerrilla warfare missions, always prioritizing immediate action to protect the vulnerable.
+Ashka represents the People's Revolution faction and embodies the belief that the system must be shattered, not reformed. She is the spark of rebellion, a folk hero who channels the rage of the oppressed through wild magic and direct action. Her hatred for Rykard and contempt for Brennis drive her crusade against authority. In gameplay, she provides sabotage, theft, and guerrilla warfare missions, always prioritizing immediate action to protect the vulnerable.
 
 ---
 
 ## Character Voice Sample
 
 <div class="audio-player">
-    <p><strong>🎵 Kael's Voice</strong></p>
+    <p><strong>🎵 Ashka's Voice</strong></p>
     <audio controls style="width: 100%;">
-        <source src="../audio/characters/kael-sample.mp3" type="audio/mpeg">
-        <source src="../audio/characters/kael-sample.ogg" type="audio/ogg">
+        <source src="../audio/characters/ashka-sample.mp3" type="audio/mpeg">
+        <source src="../audio/characters/ashka-sample.ogg" type="audio/ogg">
         Your browser does not support the audio element.
-        <a href="../audio/characters/kael-sample.mp3">Download audio file</a>
+        <a href="../audio/characters/ashka-sample.mp3">Download audio file</a>
     </audio>
 </div>
 
@@ -97,7 +97,7 @@ Quick, street-smart, slightly raspy
 
 ## Literary Description
 
-She moved through the crowded Cobbleward like wildfire through dry timber—swift, unpredictable, and leaving sparks in her wake. At twenty-two, Kael carried herself with the restless energy of someone who had learned too young that stillness meant vulnerability, that safety was a luxury the poor could not afford. There was something almost feral about her grace, the way she seemed to flow around obstacles rather than confront them, always ready to bolt or strike as the moment demanded.
+She moved through the crowded Cobbleward like wildfire through dry timber—swift, unpredictable, and leaving sparks in her wake. At twenty-two, Ashka carried herself with the restless energy of someone who had learned too young that stillness meant vulnerability, that safety was a luxury the poor could not afford. There was something almost feral about her grace, the way she seemed to flow around obstacles rather than confront them, always ready to bolt or strike as the moment demanded.
 
 Her appearance was a study in contrasts that perfectly embodied the chaos she championed. Auburn hair, wild and unbound, caught the light like burnished copper, framing a face that could have been carved from marble were it not so alive with expression. Her features were sharp and mobile—high cheekbones that spoke of hunger weathered with dignity, a mouth that curved naturally toward either a grin or a snarl, and eyes the color of storm clouds that seemed to crackle with barely contained electricity.
 

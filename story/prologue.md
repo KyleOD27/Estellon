@@ -48,14 +48,14 @@ He states this not with cruelty, but with the absolute, unshakeable certainty of
 ### The Escalation
 **Rykard** shoves Old Thom to the ground for "wasting their time." The situation is about to turn violent.
 
-### The Entrance of Kael
-A sharp **CRACK** of magical energy thumps the dirt near Rykard's feet, kicking up a cloud of dust. All eyes turn to a figure leaning against a wall: **Kael**. They look utterly at ease.
+### The Entrance of Ashka
+A sharp **CRACK** of magical energy thumps the dirt near Rykard's feet, kicking up a cloud of dust. All eyes turn to a figure leaning against a wall: **Ashka**. They look utterly at ease.
 
 **The Magic:**
 - Rykard's sword shreds like paper, and his blade clatters to the stones
 - Drib's belt unbuckles revealing his underwear, stopping him from hitting Thom
 
-This is **protective, disruptive chaos**. The guards are humiliated and distracted. Kael catches Thom's eye and gives a slight nod toward an alley. Thom scrambles away but loses much of his stock, urchins scramble to retrieve items of fruit. Kael then vanishes into the crowd.
+This is **protective, disruptive chaos**. The guards are humiliated and distracted. Ashka catches Thom's eye and gives a slight nod toward an alley. Thom scrambles away but loses much of his stock, urchins scramble to retrieve items of fruit. Ashka then vanishes into the crowd.
 
 **Theme Established:** *Compassion without order is powerful, but fleeting.*
 

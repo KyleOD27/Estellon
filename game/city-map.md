@@ -119,7 +119,7 @@ Legend:
 **The Guild Hall**
 - **Description:** Multi-story building housing various craft guilds
 - **Occupants:** Guildmasters, artisans, apprentices
-- **Significance:** Key to Kael's revolutionary support; artisan organizing
+- **Significance:** Key to Ashka's revolutionary support; artisan organizing
 - **Access:** Guild members and those with business
 
 **The Grumbling Ox Inn**
@@ -180,7 +180,7 @@ Legend:
   - **Act I:** Players might be arrested here if they attack Sergeant Rykard or resist authority
   - **Act II:** Potential rescue missions for rebel prisoners; interrogation scenes
   - **Faction Missions:**
-    - **Kael's Rebels:** "Break out the arrested protesters from Ironhold"
+    - **Ashka's Rebels:** "Break out the arrested protesters from Ironhold"
     - **Elara's Reformers:** "Investigate prisoner mistreatment; gather evidence of illegal detention"
     - **Brennis's Guard:** "Interrogate a captured rebel agitator in The Irons"
 - **Access:**
@@ -212,10 +212,10 @@ Legend:
 - **Significance:** Where Aldric the Tanner (Act I, Part 2) works
 - **Atmosphere:** Brutal work, low pay, resentment
 
-**Kael's Safehouse (Secret)**
+**Ashka's Safehouse (Secret)**
 - **Description:** Hidden refuge in abandoned tenement or sewer access
-- **Occupants:** Kael, inner circle of rebels, rotating safe refugees
-- **Access:** Only by Kael's invitation; known to trusted revolutionaries
+- **Occupants:** Ashka, inner circle of rebels, rotating safe refugees
+- **Access:** Only by Ashka's invitation; known to trusted revolutionaries
 - **Features:** Weapons cache, printing press for pamphlets, escape routes
 
 **The Rusty Nail Tavern**
@@ -260,7 +260,7 @@ Legend:
 
 Districts shift control based on faction dominance (see **[City Mood System](game-overview.md)**):
 
-### Revolutionary Fervor (Kael 5+)
+### Revolutionary Fervor (Ashka 5+)
 - **Cobbleward:** Rebel stronghold; guard patrols rare
 - **Dockside:** Smuggling weapons; workers strike
 - **Trade District:** Graffiti, pamphlets, protests
@@ -292,7 +292,7 @@ Districts shift control based on faction dominance (see **[City Mood System](gam
 ### Forgotten Tunnels
 - **Location:** Old smuggler tunnels beneath Cobbleward and Dockside
 - **Use:** Escape routes, infiltration paths, rebel movements
-- **Knowledge:** Kael knows them; refugees know rumors
+- **Knowledge:** Ashka knows them; refugees know rumors
 
 ### The High Priestess's Sanctum
 - **Location:** Cathedral inner chamber

@@ -46,7 +46,7 @@ These abilities are always active and define your half-elven heritage:
 
 ### Faction Views
 - **Elara's Coalition:** "Perfect bridge-builders for reform"
-- **Kael's Revolution:** "Which side are they really on?"
+- **Ashka's Revolution:** "Which side are they really on?"
 - **Brennis's Guard:** "Useful but watch them closely"
 
 ## Playing a Half-Elf

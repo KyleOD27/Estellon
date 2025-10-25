@@ -201,7 +201,7 @@ You don't have to choose a faction now - that happens through play. But consider
 - Philosophy: Change the system from within
 - Methods: Legal reform, noble backing, church support
 
-**Kael's Revolution (Revolutionary Zeal)**
+**Ashka's Revolution (Revolutionary Zeal)**
 - Philosophy: Tear down the oppressive system
 - Methods: Popular uprising, redistribution, new order
 

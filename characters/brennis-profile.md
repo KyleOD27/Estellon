@@ -28,7 +28,7 @@
 
 - **Career Soldier:** Brennis has served the city of Estellon for over four decades, rising through the ranks from a guardsman to its commanding Captain.
 - **The Veteran's Cynicism:** He has served under both the wise Duke Reginald and his incompetent son, Valerius. This has forged in him a cynical belief that rulers are temporary, but the institution of the Guard is eternal. His loyalty is to the office of the Duke, not the man himself.
-- **The Incident with Kael:** He was the officer in charge the day Sergeant Rykard provoked Kael's magical outburst, which led to her father's injury. Brennis processed the event by the book: the family was fined for assault and property damage, Rykard was lightly reprimanded for poor judgment. He sees this as a tragic but correct application of the law. The human cost is irrelevant to the equation of maintaining order.
+- **The Incident with Ashka:** He was the officer in charge the day Sergeant Rykard provoked Ashka's magical outburst, which led to her father's injury. Brennis processed the event by the book: the family was fined for assault and property damage, Rykard was lightly reprimanded for poor judgment. He sees this as a tragic but correct application of the law. The human cost is irrelevant to the equation of maintaining order.
 
 ---
 
@@ -42,7 +42,7 @@ Weary and burdened. He carries the weight of the city's safety on his shoulders 
 
 ### Relationships
 
-- **Kael:** Sees her not as a victim, but as a personification of the chaotic anarchy he has dedicated his life to fighting. Her existence justifies his entire worldview.
+- **Ashka:** Sees her not as a victim, but as a personification of the chaotic anarchy he has dedicated his life to fighting. Her existence justifies his entire worldview.
 - **Elara:** Views her as a naive, disruptive idealist. He believes her attempts at reform will only create uncertainty and weaken the structures that keep people safe.
 - **Rykard:** Sees him as a useful, if unpleasant, tool. Rykard gets results through fear, which Brennis mistakenly equates with order. He will defend Rykard's actions as "within his discretion" until presented with irrefutable proof of treason.
 - **Duke Valerius:** Serves the office, not the man. Views the Duke as weak but legitimate.

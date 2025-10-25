@@ -62,9 +62,9 @@ The council must decide on justice for the former ruler. **The PCs cast the deci
 - **Who Supports It:** Brennis, the military, fearful citizens
 
 #### 3. The People's Council *(Chaotic)*
-- **Description:** A representative council is formed from nobles, merchants, guilds, and common folk. Kael (or a chosen representative) holds a seat
+- **Description:** A representative council is formed from nobles, merchants, guilds, and common folk. Ashka (or a chosen representative) holds a seat
 - **Consequences:** The most democratic and fair option, but could be slow and inefficient. A true revolution in governance
-- **Who Supports It:** Kael, the common folk, the artisans
+- **Who Supports It:** Ashka, the common folk, the artisans
 
 #### 4. The Free State *(Anarchy)*
 - **Description:** Central authority is dissolved. Neighborhoods and guilds form loose, self-governing coalitions

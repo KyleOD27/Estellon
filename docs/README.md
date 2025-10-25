@@ -43,7 +43,7 @@ Below is the complete navigation structure for all campaign materials:
   - **Faction:** The Reformers
   - **Philosophy:** "The system can be redeemed from within"
   
-- **[Kael](characters/kael-profile.md)** - *Chaotic Good Human Sorcerer*  
+- **[Ashka](characters/ashka-profile.md)** - *Chaotic Good Human Sorcerer*  
   - **Faction:** The People's Revolution
   - **Philosophy:** "The system must be shattered, not reformed"
   
@@ -68,7 +68,7 @@ Below is the complete navigation structure for all campaign materials:
 ### Supporting Characters & Extended Descriptions
 
 - **[Elara's Extended Description](characters/elara-profile.md)** - Detailed physical description
-- **[Kael's Extended Description](characters/kael-profile.md)** - Detailed physical description
+- **[Ashka's Extended Description](characters/ashka-profile.md)** - Detailed physical description
 - **[Brennis's Extended Description](characters/brennis-profile.md)** - Detailed physical description
 - **[Valerius's Extended Description](characters/valerius-profile.md)** - Detailed physical description
 - **[Pellor's Extended Description](characters/pellor-profile.md)** - Detailed physical description

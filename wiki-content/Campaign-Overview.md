@@ -30,7 +30,7 @@ Three competing philosophies battle for the soul of Estellon:
 - **Goal:** Transform Estellon into a just society through legal reform
 
 ### The People's Revolution - *Chaos as Liberation*  
-- **Leader:** [[Kael]] (Chaotic Good Human Sorcerer)
+- **Leader:** [[Ashka]] (Chaotic Good Human Sorcerer)
 - **Philosophy:** The current system is irredeemably corrupt and must be destroyed
 - **Methods:** Sabotage, direct action, protecting the vulnerable through any means
 - **Goal:** Tear down the existing order and build something new from the ashes

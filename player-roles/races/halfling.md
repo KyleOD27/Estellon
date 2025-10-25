@@ -46,7 +46,7 @@ These abilities are always active and define your halfling heritage:
 
 ### Faction Views
 - **Elara's Coalition:** "Community-minded natural supporters"
-- **Kael's Revolution:** "The smallest suffer most under tyranny"
+- **Ashka's Revolution:** "The smallest suffer most under tyranny"
 - **Brennis's Guard:** "Harmless, not worth monitoring"
 
 ## Playing a Halfling

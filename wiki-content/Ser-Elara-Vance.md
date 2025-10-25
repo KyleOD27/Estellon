@@ -52,7 +52,7 @@ Carries the weight of constant scrutiny as the "exceptional orc." Sometimes doub
 ### Relationships
 
 - **[[Captain Brennis]]:** Respects his dedication but horrified by his moral flexibility. Sees him as a good man corrupted by bad systems.
-- **[[Kael]]:** Views her methods as counterproductive but sympathizes with her anger. Tries to channel Kael's passion into legal reform.
+- **[[Ashka]]:** Views her methods as counterproductive but sympathizes with her anger. Tries to channel Ashka's passion into legal reform.
 - **[[Duke Valerius]]:** Pities him as a victim of circumstances. Believes proper advisors and reformed institutions could help him succeed.
 - **[[Lord Pellor]]:** Trusts him as a competent administrator. Completely blind to his manipulations due to his helpful, bureaucratic facade.
 - **[[Gorok the Hillbreaker]]:** Sees him as exactly the kind of savage stereotype she's spent her life disproving. Represents everything she fights against.
@@ -71,7 +71,7 @@ Carries the weight of constant scrutiny as the "exceptional orc." Sometimes doub
 
 ### Secrets
 - **The Burden:** Secretly exhausted by constantly having to be "perfect" to overcome racial prejudice
-- **The Doubt:** Sometimes wonders if Kael is right about the system being irredeemable
+- **The Doubt:** Sometimes wonders if Ashka is right about the system being irredeemable
 - **The Fear:** Terrified that her failure would be seen as proof that orcs can't be trusted with power
 
 ## 🎭 Campaign Role

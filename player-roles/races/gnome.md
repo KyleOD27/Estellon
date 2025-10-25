@@ -46,7 +46,7 @@ These abilities are always active and define your gnomish heritage:
 
 ### Faction Views
 - **Elara's Coalition:** "Innovation could reform society"
-- **Kael's Revolution:** "Their cleverness serves whoever pays"
+- **Ashka's Revolution:** "Their cleverness serves whoever pays"
 - **Brennis's Guard:** "Useful but need watching"
 
 ## Playing a Gnome

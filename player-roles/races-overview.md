@@ -70,7 +70,7 @@ The political upheaval has inflamed racial tensions:
 - **Welcoming:** All races (in principle)
 - **Challenge:** Overcoming noble prejudices
 
-#### Kael's Revolution
+#### Ashka's Revolution
 - **Actively Recruiting:** Orcs, Halflings, Humans
 - **Suspicious Of:** Elves (noble connection)
 - **Opportunity:** Breaking racial barriers

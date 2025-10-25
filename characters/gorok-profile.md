@@ -46,7 +46,7 @@ Refreshingly honest about his nature—makes no pretense of virtue or justice. H
 - **Duke Valerius:** Views him as weak prey, unworthy of the throne he inherited.
 - **Captain Brennis:** Respects as a competent warrior, but sees him as bound by useless rules and codes.
 - **Ser Elara:** Dismisses her idealism but acknowledges her fighting skill.
-- **Kael:** Sees the revolutionary as kindred spirit in some ways—both reject the established order, though for different reasons.
+- **Ashka:** Sees the revolutionary as kindred spirit in some ways—both reject the established order, though for different reasons.
 - **His Followers:** Commands absolute loyalty through proven strength and the promise of shared spoils.
 
 ---

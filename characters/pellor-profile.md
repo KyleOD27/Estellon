@@ -45,7 +45,7 @@ Cold, calculating, and brilliant. The mask drops to reveal a man who takes genui
 - **Duke Valerius:** His perfect puppet. Pellor has made himself indispensable while keeping the Duke dependent and ignorant.
 - **Captain Brennis:** Respects his competence but sees him as a useful tool to maintain order while he works behind the scenes.
 - **Ser Elara:** Views her reformist ideals as dangerous but potentially useful for creating controlled opposition.
-- **Kael:** Sees the revolutionary as both a threat and an opportunity—someone whose chaos can justify his own consolidation of power.
+- **Ashka:** Sees the revolutionary as both a threat and an opportunity—someone whose chaos can justify his own consolidation of power.
 - **Gorok the Hillbreaker:** Secret ally. Has orchestrated deals with the bandit king to weaken the city's defenses.
 - **Duke Theron:** Another chess piece in his larger game, someone he can manipulate into attacking when it serves his purposes.
 

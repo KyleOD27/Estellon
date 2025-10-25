@@ -45,7 +45,7 @@ Anxious and overwhelmed. He seeks refuge in wine and willful ignorance, preferri
 - **Lord Pellor:** His chamberlain and the real power behind the throne. Valerius depends on him completely and signs whatever papers are placed before him.
 - **Captain Brennis:** Respects the captain's authority but is intimidated by his intensity. Leaves all military decisions to him.
 - **Ser Elara:** Vaguely aware she's "one of the good ones" but doesn't understand her reformist concerns.
-- **Kael:** Knows only as "that troublemaker" causing problems he doesn't want to deal with.
+- **Ashka:** Knows only as "that troublemaker" causing problems he doesn't want to deal with.
 - **Gorok:** Has nightmares about the bandit king but trusts Pellor to handle the threat.
 - **The People:** Sees them as an abstract concept rather than real citizens with real problems.
 

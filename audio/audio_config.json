@@ -12,11 +12,11 @@
       "description": "Refined voice with musical accent",
       "relative_path": "audio/characters/elara-sample.mp3"
     },
-    "kael": {
-      "file": "kael-sample.mp3",
+    "ashka": {
+      "file": "ashka-sample.mp3",
       "quote": "Their laws weren't written to protect us.",
       "description": "Quick, street-smart, slightly raspy",
-      "relative_path": "audio/characters/kael-sample.mp3"
+      "relative_path": "audio/characters/ashka-sample.mp3"
     },
     "gorok": {
       "file": "gorok-sample.mp3",

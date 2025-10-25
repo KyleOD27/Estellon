@@ -112,7 +112,7 @@ Your spiritual devotion grants you these abilities:
 - **Protecting the Weak:** Religious duty to defend the oppressed
 - **Sacred Law:** Higher authority than mortal rulers
 
-### Supporting the Revolution (Kael)
+### Supporting the Revolution (Ashka)
 - **Liberation Theology:** The gods favor the oppressed rising up
 - **Cleansing Fire:** Sometimes destruction precedes renewal
 - **People's Faith:** Religion belongs to all, not just elites

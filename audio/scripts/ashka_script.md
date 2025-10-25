@@ -1,4 +1,4 @@
-# Kael Voice Script
+# Ashka Voice Script
 
 ## Character Voice Notes
 Quick, sharp, street-smart with slight rasp. Laced with cynicism and wit.
@@ -25,4 +25,4 @@ The only justice we get is the justice we take. The system must be shattered, no
 - Pitch: Adjust based on character age and authority
 
 ## Sample Prompts for Character Context:
-"Generate this dialogue as Kael, a street-smart revolutionary fighting corrupt authority in a fantasy setting."
+"Generate this dialogue as Ashka, a street-smart revolutionary fighting corrupt authority in a fantasy setting."

@@ -8,7 +8,7 @@
 
 The Sunstone Festival Riot and Conscription Crisis have shattered the fragile peace. Estellon is now divided:
 
-- **Kael's Rebels** operate from the shadows in the Cobbleward.
+- **Ashka's Rebels** operate from the shadows in the Cobbleward.
 - **Ser Elara's Reformers** work within the system, rallying disillusioned nobles and clerics.
 - **Captain Brennis's Guard** enforces a tense, oppressive order.
 - **The common citizens** are caught in the middle, fearful and desperate.
@@ -18,14 +18,14 @@ The Sunstone Festival Riot and Conscription Crisis have shattered the fragile pe
 ### Progress Tracks
 Three scores (0-10) measure each faction's strength:
 
-- **Revolutionary Zeal (Kael):** Morale and public support for rebellion.
+- **Revolutionary Zeal (Ashka):** Morale and public support for rebellion.
 - **Coalition Strength (Elara):** Political and institutional support for reform.
 - **City Control (Brennis):** The Guard's grip on the streets and citizen fear.
 
 ### The Faction Turn
 At the start of each session, the DM narrates how the conflict evolved since the last one, adjusting the Progress Tracks based on off-screen events. 
 
-*Example:* "While you were investigating the tax records, Kael's rebels raided a guard post (+1 Zeal), but Brennis tightened curfews in response (+1 Control)."
+*Example:* "While you were investigating the tax records, Ashka's rebels raided a guard post (+1 Zeal), but Brennis tightened curfews in response (+1 Control)."
 
 ## Structure: Missions and Leader Quests
 
@@ -39,7 +39,7 @@ Act II is structured around missions given by the party's chosen faction leader.
 **📋 [Act II: Mission Catalogue](../../game/act-ii-missions.md)** - Full mission cards with detailed objectives
 
 The mission catalogue contains:
-- **8 Kael's Revolutionary Missions** - Sabotage, recruitment, prison breaks
+- **8 Ashka's Revolutionary Missions** - Sabotage, recruitment, prison breaks
 - **8 Ser Elara's Reform Missions** - Investigation, diplomacy, legal research
 - **8 Captain Brennis's Order Missions** - Raids, enforcement, intelligence
 - **2 Neutral/Independent Missions** - Non-faction side quests
@@ -56,7 +56,7 @@ Each mission includes:
 
 **Mission K1: The Tax Carriage Ambush**
 - **Type:** Sabotage / Heist
-- **Granted By:** Kael
+- **Granted By:** Ashka
 - **Main Objective:** Seize the tax ledger showing corruption
 - **Bonus Objective (Step 1/3):** Recruit Borin the weaponsmith to the revolution
 - **Success:** +2 Revolutionary Zeal; Borin joins (+1/3 quest chain)

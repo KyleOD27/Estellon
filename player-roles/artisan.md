@@ -82,7 +82,7 @@ Choose one hook below. Your choice grants special dialogue opportunities and rew
 - +50 gold pieces
 - Proficiency with artisan's tools (player's choice)
 - +2 to related skill checks (based on craft)
-- +1 Revolutionary Zeal (Kael's faction) AND +1 Independent Influence
+- +1 Revolutionary Zeal (Ashka's faction) AND +1 Independent Influence
 - Set of artisan's tools
 
 ## Social Access
@@ -113,7 +113,7 @@ Your crafting expertise grants you these abilities:
 - **Protected Trade:** Fair laws ensure honest craftspeople thrive
 - **Innovation Freedom:** New systems allow new techniques
 
-### Supporting the Revolution (Kael)
+### Supporting the Revolution (Ashka)
 - **Workers' Pride:** Craftspeople should own their workshops
 - **Break Monopolies:** Destroy guild restrictions on trade
 - **People's Craft:** Art and craft for all, not just elites

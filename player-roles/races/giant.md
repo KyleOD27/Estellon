@@ -48,7 +48,7 @@ These abilities are always active and define your giant heritage:
 
 ### Faction Views
 - **Elara's Coalition:** "Their strength could protect the innocent"
-- **Kael's Revolution:** "One giant could break the palace gates"
+- **Ashka's Revolution:** "One giant could break the palace gates"
 - **Brennis's Guard:** "Ultimate enforcers if we can afford them"
 
 ## Playing a Giant

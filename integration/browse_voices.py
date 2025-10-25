@@ -54,7 +54,7 @@ def browse_voices():
             print("-" * 40)
             print("Brennis (Deep Military):    Look for deep, authoritative male voices")
             print("Elara (Refined Female):     Look for elegant, noble female voices") 
-            print("Kael (Street Smart):        Look for young, energetic female voices")
+            print("Ashka (Street Smart):        Look for young, energetic female voices")
             print("Gorok (Barbarian):          Look for very deep, gruff male voices")
             print("Pellor (Bureaucrat):        Look for smooth, professional male voices")
             print("Valerius (Weak Ruler):      Look for hesitant, nervous male voices")

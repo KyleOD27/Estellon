@@ -5,7 +5,7 @@ Prologue: A Day in Estellon
 The player characters, newcomers to the city, witness three vignettes that define the central conflict:
 
 · The Weight of Law: Captain Brennis enforces the law with cold, unyielding precision, showing order without mercy.
-· The Cry for Chaos: Kael uses clever, disruptive magic to protect the common folk from guard brutality, showing compassion without order.
+· The Cry for Chaos: Ashka uses clever, disruptive magic to protect the common folk from guard brutality, showing compassion without order.
 · The Hope for Balance: Ser Elara resolves a conflict by using the law correctly to achieve a just outcome, showing true law as a shield.
 · The Hook: Players invested in the story and ready to meet the characters
 
@@ -13,12 +13,12 @@ Act I: The Spark
 
 · The Calm before the Storm: The PCs get their bearings and enjoy the festival.
 · The Inciting Incident: The PCs are caught in the middle of the Sunstone Festival Riot, a violent clash between the City Guard and rebellious citizens.
-· The Choice: They must choose sides between the idealistic Paladin, Ser Elara, and the fiery Sorcerer, Kael.
+· The Choice: They must choose sides between the idealistic Paladin, Ser Elara, and the fiery Sorcerer, Ashka.
 · The Complication: A brutal conscription decree forces Elara to confront the regime's cruelty firsthand, revealing the deep corruption within.
 
 Act II: The Faction War
 
-· The Cold War: The city fractures into three factions led by Kael (Revolution), Elara (Lawful Change), and Brennis (Status Quo).
+· The Cold War: The city fractures into three factions led by Ashka (Revolution), Elara (Lawful Change), and Brennis (Status Quo).
 · The Race: The PCs undertake missions for their chosen faction, influencing a dynamic "Faction War" that shifts the city's balance of power.
 · The Climax: The Chamberlain, Lord Pellor, reveals the existence of the Crown-Regent's Mandate. All three factions race to seize it.
 · The Twist: As the internal battle concludes, the armies of the Bandit King Gorok and rival Duke Theron descend upon the defenseless city.

@@ -112,7 +112,7 @@ Your scholarly expertise grants you these abilities:
 - **Educational Reform:** Knowledge should serve all people
 - **Institutional Wisdom:** Blend tradition with progress
 
-### Supporting the Revolution (Kael)
+### Supporting the Revolution (Ashka)
 - **People's Education:** Democratize knowledge and learning
 - **Revolutionary Theory:** Intellectual foundation for new order
 - **Historical Cycles:** Past revolutions inform present action

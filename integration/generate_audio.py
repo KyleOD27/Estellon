@@ -21,7 +21,7 @@ CHARACTER_QUOTES = {
         "extended": "We must be the exemplars of the law we wish to see. The system can and must be redeemed from within.",
         "voice_notes": "Refined, musical accent with orc undertones. Measured and precise speech."
     },
-    "kael": {
+    "ashka": {
         "quote": "Their laws weren't written to protect us; they were written to protect them.",
         "extended": "The only justice we get is the justice we take. The system must be shattered, not reformed.",
         "voice_notes": "Quick, sharp, street-smart with slight rasp. Laced with cynicism and wit."
@@ -143,7 +143,7 @@ def get_character_description(char):
     descriptions = {
         "brennis": "stern military captain and law enforcer",
         "elara": "noble orc paladin seeking justice through reform",
-        "kael": "street-smart revolutionary fighting corrupt authority",
+        "ashka": "street-smart revolutionary fighting corrupt authority",
         "gorok": "barbarian warlord who values only strength",
         "pellor": "manipulative court official hiding his true nature",
         "valerius": "weak and indecisive ruler overwhelmed by responsibility"
@@ -186,7 +186,7 @@ This guide helps you generate AI voice overs for the campaign using various text
 |-----------|------------|------------|---------------------|
 | Brennis | Deep Male | Authoritative, military | Choose stern, older male voice |
 | Elara | Female | Refined, musical accent | Elegant female with slight accent |
-| Kael | Young Female | Street-smart, raspy | Energetic, slightly rough female |
+| Ashka | Young Female | Street-smart, raspy | Energetic, slightly rough female |
 | Gorok | Deep Male | Rumbling, rural accent | Very deep, gruff male voice |
 | Pellor | Male | Smooth, bureaucratic | Pleasant, professional male |
 | Valerius | Male | Hesitant, weak | Nervous, uncertain male voice |

@@ -21,7 +21,7 @@ CHARACTERS = {
         "rate": 170,
         "volume": 0.9
     },
-    "kael": {
+    "ashka": {
         "text": "Their laws weren't written to protect us. The only justice we get is the justice we take.",
         "voice_idx": 2,  # Microsoft Zira (female) - we'll speed it up for street-smart feel
         "rate": 200,

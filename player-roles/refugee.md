@@ -81,13 +81,13 @@ Choose one hook below. Your choice grants special dialogue opportunities and rew
 ## Starting Bonuses (Mechanical)
 - +2 to Survival checks
 - +2 to Stealth checks
-- +2 Revolutionary Zeal (Kael's faction) score
+- +2 Revolutionary Zeal (Ashka's faction) score
 - Set of common clothes and basic survival gear
 
 ## Social Access
 - **Trusted by common folk and the downtrodden** - Immediate kinship with the suffering
 - **Can move freely in poor districts (Cobbleward)** - Know the hidden paths and safe spots
-- **Recognized by Kael's rebellion network** - Your story makes you one of them
+- **Recognized by Ashka's rebellion network** - Your story makes you one of them
 - **Access to underground networks and safe houses** - The invisible city of the displaced
 
 ## Role Abilities
@@ -106,7 +106,7 @@ Your survival experience grants you these abilities:
 
 ## Faction Perspectives
 
-### Supporting the Revolution (Kael) - Natural Alignment
+### Supporting the Revolution (Ashka) - Natural Alignment
 - **Kindred Spirit:** You've lived what they fight against
 - **Nothing to Lose:** Already lost everything once
 - **Revolutionary Fervor:** Personal experience fuels passion

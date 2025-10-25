@@ -111,7 +111,7 @@ Your merchant training grants you these abilities:
 - **Guild Influence:** Coalition government values merchant input
 - **Long-term Thinking:** Sustainable reform ensures future profits
 
-### Supporting the Revolution (Kael)
+### Supporting the Revolution (Ashka)
 - **Market Liberation:** Breaking monopolies creates opportunities
 - **People's Economy:** Empowered workers become better customers
 - **Revolutionary Supplier:** Rebels need equipment and supplies
