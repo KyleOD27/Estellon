@@ -34,25 +34,36 @@ Act II is structured around missions given by the party's chosen faction leader.
 1. **Main Objective:** The immediate goal (e.g., steal plans, protect a witness).
 2. **Bonus Objective (Leader Quest):** A task that advances the leader's personal 3-step quest chain, ultimately empowering them for the final conflict.
 
-## Example Missions
+### Complete Mission Catalogue
 
-### For Kael's Rebels (Goal: Increase Zeal)
-- **Mission:** Ambush a tax collector's carriage.
-- **Main Objective:** Seize the tax ledger.
-- **Bonus Objective (Step 1: Secure a Smith):** The carriage is being guarded by the city smith, Borin, who is sympathetic but forced to work for the guard. Convince him to defect and come with you.
-- **Outcome:** Success on the main objective grants +2 Zeal. Success on the bonus objective marks 1/3 on Kael's Quest Chain.
+**📋 [Act II: Mission Catalogue](../../game/act-ii-missions.md)** - Full mission cards with detailed objectives
 
-### For Elara's Reformers (Goal: Increase Coalition)
-- **Mission:** Discredit a corrupt official.
-- **Main Objective:** Find proof of embezzlement.
-- **Bonus Objective (Step 2: The Church's Blessing):** The official is protected by a corrupt cleric. Exposing him could sway the high priestess to your cause.
-- **Outcome:** Success grants +2 Coalition and 2/3 on Elara's Quest Chain.
+The mission catalogue contains:
+- **8 Kael's Revolutionary Missions** - Sabotage, recruitment, prison breaks
+- **8 Ser Elara's Reform Missions** - Investigation, diplomacy, legal research
+- **8 Captain Brennis's Order Missions** - Raids, enforcement, intelligence
+- **2 Neutral/Independent Missions** - Non-faction side quests
 
-### For Brennis's Guard (Goal: Increase Control)
-- **Mission:** Hunt a rebel agitator.
-- **Main Objective:** Capture the agitator.
-- **Bonus Objective (Step 3: The Old Soldier):** The agitator is hiding in the district of a retired, respected guard captain. Successfully resolving the situation without violence could earn the captain's respect and bring him back to service.
-- **Outcome:** Success grants +2 Control and 3/3 on Brennis's Quest Chain (he is now Empowered).
+Each mission includes:
+- Mission type and prerequisites
+- Main and bonus objectives
+- Success/failure outcomes
+- Multiple approach options
+- Key NPCs and locations
+- Faction reputation requirements
+
+### Mission Structure Example
+
+**Mission K1: The Tax Carriage Ambush**
+- **Type:** Sabotage / Heist
+- **Granted By:** Kael
+- **Main Objective:** Seize the tax ledger showing corruption
+- **Bonus Objective (Step 1/3):** Recruit Borin the weaponsmith to the revolution
+- **Success:** +2 Revolutionary Zeal; Borin joins (+1/3 quest chain)
+- **Failure:** +1 City Control (crackdown on Cobbleward)
+- **Approaches:** Combat ambush, deception, stealth, or persuasion
+
+See the **[Mission Catalogue](../../game/act-ii-missions.md)** for all 26 detailed mission cards.
 
 ## The Climax: The Mandate Reveal & The Vault Showdown
 

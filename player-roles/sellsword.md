@@ -9,10 +9,67 @@ As a Sellsword, you are a professional warrior who lives by skill and reputation
 ## Background Hooks
 
 ### Why You're Here
-- **Festival Security:** Hired to protect merchant caravans
-- **Reputation Building:** Seeking fame in a major city
-- **Between Wars:** Following the coin after other conflicts ended
-- **Running From Past:** Escaping complications in other lands
+Choose one hook below. Your choice grants special dialogue opportunities and rewards specific behaviors.
+
+#### **Festival Security**
+*Hired to protect merchant caravans*
+
+**Special Dialogue Access:**
+- Can discuss security concerns with merchants and caravan masters
+- Recognized as legitimate guard by City Watch (initially)
+- Can ask about "protection needs" without seeming like a shakedown
+
+**Behavior Rewards:**
+- **Professional Guard:** +2 to Perception checks when on watch or protecting someone
+- **Bodyguard Reputation:** Once per session, can be hired for a lucrative protection job (50gp+)
+- **Escort Duty:** When successfully protecting someone, gain +1 reputation with their affiliated faction
+
+---
+
+#### **Reputation Building**
+*Seeking fame in a major city*
+
+**Special Dialogue Access:**
+- Can challenge other warriors to test your skill
+- Storytellers and bards interested in your exploits
+- Can boast about past victories to impress NPCs
+
+**Behavior Rewards:**
+- **Glory Seeker:** +2 to Intimidation or Performance when showcasing your combat prowess
+- **Make Your Name:** Once per session, can declare a dramatic action ("I'll hold this gate alone!"); success grants +2 faction reputation
+- **Tales Spread:** After impressive victories, gain +1 to all social checks for next scene as word spreads
+
+---
+
+#### **Between Wars**
+*Following the coin after other conflicts ended*
+
+**Special Dialogue Access:**
+- Can swap war stories with veterans and soldiers
+- Other mercenaries recognize you as one of their own
+- Can discuss past conflicts and "where the work is"
+
+**Behavior Rewards:**
+- **War Veteran:** +2 to History checks about past conflicts and military matters
+- **Mercenary Code:** Once per session, can invoke professional courtesy with another mercenary (favor, information, or safe passage)
+- **Campaign Experience:** When fighting in organized battles, +1 to all combat checks due to battlefield knowledge
+
+---
+
+#### **Running From Past**
+*Escaping complications in other lands*
+
+**Special Dialogue Access:**
+- Can relate to other fugitives and those hiding secrets
+- Understand criminal underworld protocols
+- Can ask about "staying low" or "new identities" without suspicion
+
+**Behavior Rewards:**
+- **Fresh Start:** +2 to Deception when concealing your past or creating false background
+- **Desperate Fighter:** When cornered or facing enemies from your past, gain +2 to all combat rolls
+- **No Questions Asked:** Shady employers and factions trust you more; criminal contacts offer work more readily
+
+---
 
 ### Starting Resources
 - Battle-tested equipment
@@ -33,8 +90,19 @@ As a Sellsword, you are a professional warrior who lives by skill and reputation
 - **Can take contracts from all factions without prejudice** - Mercenary neutrality is respected
 - **Access to weapon smiths and armories** - Professional warriors get professional equipment
 
-## Special Ability
-**Mercenary's Reputation** - Once per session, can invoke past military service to gain advantage on a social check with soldiers, guards, or veterans. Your scars and stories carry weight among those who live by the blade.
+## Role Abilities
+
+Your combat training grants you these abilities:
+
+### Active Abilities
+1. **Mercenary's Reputation** (Once per session) - Invoke past military service to gain advantage on a social check with soldiers, guards, or veterans. Your scars and stories carry weight among those who live by the blade.
+2. **Tactical Assessment** (Once per scene) - Analyze a combat situation to identify enemy weaknesses, advantageous positions, or tactical opportunities. Grants +2 to next combat check for you or an ally.
+3. **Warrior's Challenge** (Once per day) - Issue a formal duel challenge; most honorable warriors cannot refuse without losing face.
+
+### Passive Abilities
+1. **Combat Veteran** - +2 to Intimidation checks and +1 to all weapon attack rolls
+2. **Battle Instincts** - Cannot be surprised in combat; always act in surprise rounds
+3. **Mercenary Network** - Can find work, weapons, or fellow sellswords in any city district
 
 ## Faction Perspectives
 

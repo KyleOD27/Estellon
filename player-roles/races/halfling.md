@@ -8,6 +8,15 @@ Halflings in Estellon have perfected the art of being overlooked. Living in tigh
 
 ## Racial Traits
 
+### Passive Abilities
+These abilities are always active and define your halfling heritage:
+
+1. **Halfling Luck** - Once per session, reroll any failed check
+2. **Nimble** - Can move through spaces occupied by larger creatures
+3. **Naturally Stealthy** - +2 to Stealth and Sleight of Hand checks
+4. **Community Network** - Can find help and shelter in any halfling neighborhood
+5. **Friendly Folk** - +1 to Social checks with common folk
+
 ### Mechanical Bonuses
 - **+2 to Stealth and Sleight of Hand** (Small and nimble)
 - **+1 to Social checks with common folk** (Friendly reputation)

@@ -147,12 +147,15 @@ Quick reference cards for each player showing:
 - Initial faction modifiers
 
 #### 3. Map of Estellon
+
+**Full City Map:** See **[City Map: Estellon](city-map.md)** for complete district details and locations
+
 Basic district map showing:
-- **Noble Quarter** (wealthy district)
-- **Cobbleward** (poor district)
-- **Trade District** (markets and guilds)
-- **Temple District** (religious centers)
-- **Guard Barracks** (military areas)
+- **Noble Quarter** (wealthy district) - Ducal Palace, noble estates
+- **Cobbleward** (poor district) - Kael's territory, working class
+- **Trade District** (markets and guilds) - Market Square, The Grumbling Ox
+- **Temple District** (religious centers) - Cathedral, Ser Elara's Chapterhouse
+- **Guard Barracks & Ironhold Prison** (military areas) - Captain Brennis's headquarters, city jail
 
 *Note: Detailed tactical maps not required - this is a narrative-focused campaign*
 

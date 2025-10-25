@@ -9,10 +9,67 @@ As a Pilgrim, you are a spiritual seeker who arrived in Estellon for the sacred 
 ## Background Hooks
 
 ### Why You're Here
-- **Sacred Journey:** Following holy visions or completing religious vows
-- **Festival Devotion:** Drawn by the Sunstone Festival's spiritual significance
-- **Divine Mission:** Sent by your faith to witness or influence events
-- **Spiritual Crisis:** Seeking answers to personal questions of faith
+Choose one hook below. Your choice grants special dialogue opportunities and rewards specific behaviors.
+
+#### **Sacred Journey**
+*Following holy visions or completing religious vows*
+
+**Special Dialogue Access:**
+- Can discuss visions and prophecies with clergy without being dismissed
+- Other pilgrims and faithful recognize your spiritual quest
+- Can invoke "holy calling" to request aid or information
+
+**Behavior Rewards:**
+- **Divine Guidance:** +2 to Religion checks and insight into moral/spiritual matters
+- **Prophetic Dreams:** Once per session, can claim a vision that hints at future events (DM provides cryptic clue)
+- **Sacred Vow:** When acting in accordance with your vow, gain +1 to all checks for that scene
+
+---
+
+#### **Festival Devotion**
+*Drawn by the Sunstone Festival's spiritual significance*
+
+**Special Dialogue Access:**
+- Can discuss festival traditions with priests and celebrants
+- Welcome at all festival-related ceremonies and events
+- Can frame political events through "spiritual meaning of the festival"
+
+**Behavior Rewards:**
+- **Festival Blessing:** +2 to Persuasion when invoking festival traditions or calling for celebration
+- **Holy Day Favor:** Once per session during festivals or celebrations, can invoke divine favor for +2 to any check
+- **Community Spirit:** When City Mood is Hopeful or Peaceful, heal +1 additional HP with all healing
+
+---
+
+#### **Divine Mission**
+*Sent by your faith to witness or influence events*
+
+**Special Dialogue Access:**
+- Can request official meetings with church hierarchy
+- Other clergy treat you as representative of higher authority
+- Can invoke "divine mandate" when advocating for your faith's position
+
+**Behavior Rewards:**
+- **Holy Authority:** +2 to Persuasion when speaking on behalf of your faith
+- **Divine Intervention:** Once per session, can pray for direct divine aid (small miracle: stabilize dying ally, reveal truth, etc.)
+- **Mission Reports:** At end of each session, receive spiritual guidance from your superiors (advantage on next Religion check)
+
+---
+
+#### **Spiritual Crisis**
+*Seeking answers to personal questions of faith*
+
+**Special Dialogue Access:**
+- Can ask clergy "difficult questions" about faith without offense
+- Other doubters and questioners open up to you
+- Can discuss philosophical/theological problems with faction leaders
+
+**Behavior Rewards:**
+- **Questioning Faith:** +2 to Insight when evaluating religious or moral claims
+- **Moment of Clarity:** Once per session when witnessing suffering or injustice, can gain sudden insight that grants advantage on next important decision
+- **Spiritual Growth:** When your faith is challenged and you respond meaningfully, gain +1 to Wisdom permanently (max 3 times in campaign)
+
+---
 
 ### Starting Resources
 - Holy symbols and religious texts
@@ -33,8 +90,19 @@ As a Pilgrim, you are a spiritual seeker who arrived in Estellon for the sacred 
 - **Respected by common folk in religious districts** - Piety earns trust and deference
 - **Can request blessings and divine counsel** - Clergy share spiritual wisdom freely
 
-## Special Ability
-**Divine Guidance** - Once per session, can seek divine insight on a moral dilemma (DM provides hints about consequences of choices). Through prayer and meditation, the divine offers clarity in chaos.
+## Role Abilities
+
+Your spiritual devotion grants you these abilities:
+
+### Active Abilities
+1. **Divine Guidance** (Once per session) - Seek divine insight on a moral dilemma (DM provides hints about consequences of choices). Through prayer and meditation, the divine offers clarity in chaos.
+2. **Blessing** (Once per day) - Grant an ally +2 to all checks for one scene through divine favor.
+3. **Sacred Sanctuary** (Once per session) - Declare a space sacred ground; hostile factions are less likely to violate sanctuary (DM discretion based on circumstances).
+
+### Passive Abilities
+1. **Spiritual Authority** - +2 to Persuasion checks when invoking faith, morality, or divine will
+2. **Healing Hands** - Can provide spiritual comfort and basic medical aid; +2 to Medicine checks
+3. **Temple Welcome** - Always granted shelter, food, and aid at any temple or shrine
 
 ## Faction Perspectives
 

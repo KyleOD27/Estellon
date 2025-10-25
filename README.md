@@ -31,11 +31,22 @@ Below is the complete navigation structure for all campaign materials:
 
 - **[Game Overview](game/game-overview.md)** - Core game mechanics
   - Progress Tracks (Faction War system)
+  - City Mood System
   - Dialogue Bingo Card
   - Faction Leader Quest Chains
   - The Faction Turn system
+- **[Act II: Mission Catalogue](game/act-ii-missions.md)** - Complete mission cards for Act II
+  - 26 detailed missions (8 per faction + 2 neutral)
+  - Mission types, prerequisites, and acquisition
+  - Leader Quest Chain progressions
+  - Multiple approaches and consequences
+- **[City Map: Estellon](game/city-map.md)** - Complete district map with locations
+  - All districts and key locations
+  - Ironhold Prison (city jail)
+  - Travel times and district control
 - **[Campaign Materials](game/campaign_materials.md)** - Complete campaign guide with all acts
 - **[Custom Character Sheet](game/custom-character-sheet.md)** - Card-based tableau character system
+- **[Player Setup Guide](game/player-setup-guide.md)** - Step-by-step character creation
 - **[Game Assets](game/game-assets.md)** - Complete list of materials and handouts needed
 
 ### 🎭 `/player-roles/` - Character Options
@@ -121,12 +132,17 @@ Below is the complete navigation structure for all campaign materials:
 
 ## How to Use This Campaign
 
-1. **Choose a [Character Role](player-roles/game-mechanics.md)** - Select from 7 unique roles with distinct abilities
-2. **Review [Game Mechanics](game/game-overview.md)** to understand the systems
-3. **Start with the [Campaign Overview](game/campaign_materials.md)** for the full scope
-4. **Read character profiles** to understand the faction leaders' motivations
-5. **Begin with the [Prologue](story/prologue.md)** to introduce the setting
-6. **Progress through each Act** as players make their choices
+### For Players
+1. **📋 [Follow the Player Setup Guide](game/player-setup-guide.md)** - Complete step-by-step character creation
+2. **Choose a [Character Role](player-roles/game-mechanics.md)** - Select from 7 unique roles with distinct abilities
+3. **Choose a [Character Race](player-roles/races-overview.md)** - Select from 7 races with unique social standings
+4. **Review [Game Mechanics](game/game-overview.md)** to understand the systems
+
+### For Game Masters
+1. **Start with the [Campaign Overview](game/campaign_materials.md)** for the full scope
+2. **Read [faction leader profiles](characters/)** to understand motivations
+3. **Begin with the [Prologue](story/prologue.md)** to introduce the setting
+4. **Progress through each Act** as players make their choices
 
 ---
 

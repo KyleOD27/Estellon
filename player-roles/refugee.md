@@ -9,10 +9,67 @@ As a Refugee, you arrived in Estellon fleeing war, persecution, or disaster else
 ## Background Hooks
 
 ### Why You're Here
-- **War Survivor:** Fleeing conflicts that destroyed your homeland
-- **Political Exile:** Escaped persecution for beliefs or identity
-- **Economic Refugee:** Driven out by poverty and starvation
-- **Natural Disaster:** Lost everything to plague, fire, or catastrophe
+Choose one hook below. Your choice grants special dialogue opportunities and rewards specific behaviors.
+
+#### **War Survivor**
+*Fleeing conflicts that destroyed your homeland*
+
+**Special Dialogue Access:**
+- Can discuss military tactics and war experiences with veterans
+- Other war refugees immediately trust and open up to you
+- Can warn about "what happens when violence escalates"
+
+**Behavior Rewards:**
+- **Battle-Scarred:** +2 to Survival checks and recognizing military threats
+- **War Stories:** Once per session, can relate a relevant experience from the war that grants insight (advantage on next related check)
+- **Never Again:** When preventing violence or protecting innocents from war, gain +2 to all checks for that scene
+
+---
+
+#### **Political Exile**
+*Escaped persecution for beliefs or identity*
+
+**Special Dialogue Access:**
+- Can discuss oppression and resistance with revolutionaries
+- Other political dissidents recognize fellow idealist
+- Can frame arguments through "I've seen what happens under tyranny"
+
+**Behavior Rewards:**
+- **Revolutionary Fire:** +2 to Persuasion when arguing for freedom and justice
+- **Underground Connections:** Once per session, can find safe houses or resistance contacts in any district
+- **Principled Stand:** When refusing to compromise your ideals despite consequences, inspire allies (+1 to all allies' morale/checks)
+
+---
+
+#### **Economic Refugee**
+*Driven out by poverty and starvation*
+
+**Special Dialogue Access:**
+- Can relate to laborers and working poor about economic struggles
+- Beggars and desperate people trust you immediately
+- Can discuss "real consequences" of economic policies with merchants and nobles
+
+**Behavior Rewards:**
+- **Survival Instinct:** +2 to Survival and finding food/shelter with minimal resources
+- **Penny Pincher:** Once per session, can stretch resources impossibly far (make 1 day's food last 3, find shelter where none exists)
+- **For The People:** When advocating for economic justice or helping the poor, gain +1 faction reputation with common folk
+
+---
+
+#### **Natural Disaster**
+*Lost everything to plague, fire, or catastrophe*
+
+**Special Dialogue Access:**
+- Can discuss loss and trauma with other survivors
+- Healers and aid workers recognize fellow sufferer
+- Can invoke "I've lost everything before" to connect with others in crisis
+
+**Behavior Rewards:**
+- **Survivor's Wisdom:** +2 to Medicine and recognizing signs of disease, fire, or environmental danger
+- **Rebuilt Before:** Once per session when others despair, can rally them with story of rebuilding (grant hope, remove fear effects)
+- **Nothing Left to Lose:** When taking desperate actions to save others, gain +2 to all checks; you know what loss truly means
+
+---
 
 ### Starting Resources
 - Common clothes and basic survival gear
@@ -33,8 +90,19 @@ As a Refugee, you arrived in Estellon fleeing war, persecution, or disaster else
 - **Recognized by Kael's rebellion network** - Your story makes you one of them
 - **Access to underground networks and safe houses** - The invisible city of the displaced
 
-## Special Ability
-**Street Knowledge** - Once per session, can automatically succeed on finding safe shelter, hidden routes, or friendly contacts in poor/dangerous districts. You know where the desperate gather and how to move unseen by authority.
+## Role Abilities
+
+Your survival experience grants you these abilities:
+
+### Active Abilities
+1. **Street Knowledge** (Once per session) - Automatically succeed on finding safe shelter, hidden routes, or friendly contacts in poor/dangerous districts. You know where the desperate gather and how to move unseen by authority.
+2. **Desperate Gambit** (Once per day) - When reduced to half health or less, gain +2 to all checks for one scene (desperation fuels determination).
+3. **Fade Into Crowds** (Once per scene) - Blend into urban environments to escape pursuit or avoid detection.
+
+### Passive Abilities
+1. **Survivor's Instinct** - +2 to Survival and Stealth checks; can sense danger before it manifests
+2. **Hardened Resolve** - Advantage on saves against fear and intimidation; you've seen worse
+3. **Underground Network** - Always know where to find food, shelter, or aid among the dispossessed in any city
 
 ## Faction Perspectives
 

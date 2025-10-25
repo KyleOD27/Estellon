@@ -9,10 +9,67 @@ As a Merchant, you are a master of commerce and negotiation, arriving in Estello
 ## Background Hooks
 
 ### Why You're Here
-- **Festival Trader:** Brought rare goods specifically for the Sunstone Festival's lucrative markets
-- **Guild Representative:** Sent by distant merchant guilds to establish new trade routes
-- **Independent Entrepreneur:** Seeking to escape oversaturated markets in other cities
-- **War Profiteer:** Following conflicts and upheavals where goods command premium prices
+Choose one hook below. Your choice grants special dialogue opportunities and rewards specific behaviors.
+
+#### **Festival Trader**
+*Brought rare goods specifically for the Sunstone Festival's lucrative markets*
+
+**Special Dialogue Access:**
+- Can discuss trade prospects with Festival Organizers
+- Recognized by other festival merchants and artisans
+- Can ask nobles about "luxury goods" as conversation opener
+
+**Behavior Rewards:**
+- **Festival Networking:** Gain +1 to Persuasion when discussing the festival or luxury goods
+- **Special Goods:** Once per session, can claim to have "exactly what you need" - produce a specialty item worth up to 50gp
+- **Celebration Profit:** When City Mood is Hopeful or Peaceful, gain bonus gold from "festival sales"
+
+---
+
+#### **Guild Representative**
+*Sent by distant merchant guilds to establish new trade routes*
+
+**Special Dialogue Access:**
+- Can request formal meetings with Guild Masters in any city
+- Access to Guild Halls as neutral ground for negotiations
+- Can invoke guild authority to mediate disputes
+
+**Behavior Rewards:**
+- **Guild Authority:** +2 to Persuasion when negotiating on behalf of "guild interests"
+- **Network Leverage:** Once per session, can call in a favor from a guild contact (information, resources, or safe passage)
+- **Professional Courtesy:** Other merchants offer better prices (+10% discount on purchases)
+
+---
+
+#### **Independent Entrepreneur**
+*Seeking to escape oversaturated markets in other cities*
+
+**Special Dialogue Access:**
+- Can commiserate with other "outsiders" and new arrivals
+- Relate to refugees and those fleeing problems elsewhere
+- Ask locals about "business opportunities" without suspicion
+
+**Behavior Rewards:**
+- **Fresh Perspective:** +1 to Investigation when evaluating new opportunities
+- **Risk Taker:** When making bold/risky business decisions, gain +2 to related checks
+- **Outsider Advantage:** Not bound by local guild politics; can operate more freely in gray areas
+
+---
+
+#### **War Profiteer**
+*Following conflicts and upheavals where goods command premium prices*
+
+**Special Dialogue Access:**
+- Can discuss "supply needs" with military officers openly
+- Other opportunists recognize and trust you
+- Can negotiate during violent situations without losing face
+
+**Behavior Rewards:**
+- **Crisis Capitalism:** When City Mood is Powder Keg, Martial Law, or Chaos, gain +2 to all trade checks
+- **Supply the War Machine:** Selling weapons, armor, or supplies to factions grants double gold
+- **Amoral Commerce:** No penalty to reputation when dealing with morally questionable clients
+
+---
 
 ### Starting Resources
 - Trade contacts in multiple districts
@@ -32,8 +89,19 @@ As a Merchant, you are a master of commerce and negotiation, arriving in Estello
 - **Can request audiences with Lord Pellor (Duke's Chamberlain)** - Economic matters grant political access
 - **Access to merchant networks and trading houses** - Information flows with goods
 
-## Special Ability
-**Market Network** - Once per session, can gather rumors or locate rare items through merchant contacts. Your web of trade connections spans the city and beyond.
+## Role Abilities
+
+Your merchant training grants you these abilities:
+
+### Active Abilities
+1. **Market Network** (Once per session) - Gather rumors or locate rare items through merchant contacts. Your web of trade connections spans the city and beyond.
+2. **Negotiate Terms** (Once per scene) - Reroll any failed Persuasion check related to trade, deals, or bargaining.
+3. **Appraise Value** (At will) - Accurately determine the worth of any item, detect counterfeits, and estimate economic consequences of decisions.
+
+### Passive Abilities
+1. **Economic Insight** - Always aware of supply and demand shifts; +2 to checks involving trade economics
+2. **Merchant's Intuition** - Can sense profitable opportunities or financial traps in any situation
+3. **Trade Connections** - Gain +1 to all faction reputation gains when dealings involve commerce or resources
 
 ## Faction Perspectives
 

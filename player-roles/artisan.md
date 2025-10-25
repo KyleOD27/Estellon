@@ -9,10 +9,67 @@ As an Artisan, you are a skilled craftsperson who creates with your hands and mi
 ## Background Hooks
 
 ### Why You're Here
-- **Festival Commerce:** Displaying masterworks at the Sunstone Festival
-- **Guild Business:** Representing your craft guild's interests
-- **Apprenticeship Complete:** Seeking to establish your own workshop
-- **Innovation Opportunity:** Testing new techniques in a major market
+Choose one hook below. Your choice grants special dialogue opportunities and rewards specific behaviors.
+
+#### **Festival Commerce**
+*Displaying masterworks at the Sunstone Festival*
+
+**Special Dialogue Access:**
+- Can discuss craftsmanship and artistry with nobles and collectors
+- Other artisans recognize your festival credentials
+- Can ask about "commissioning masterworks" with wealthy patrons
+
+**Behavior Rewards:**
+- **Master Craftsman:** +2 to Crafting checks when creating showcase pieces or working for prestigious clients
+- **Festival Showcase:** Once per session, can complete a masterwork that impresses viewers (grants +1 reputation with observer's faction)
+- **Artisan's Pride:** When your work is publicly displayed or praised, gain +1 to Persuasion for rest of session
+
+---
+
+#### **Guild Business**
+*Representing your craft guild's interests*
+
+**Special Dialogue Access:**
+- Can invoke guild authority with other craftspeople and merchants
+- Access to guild halls and guild-only meetings
+- Can discuss trade regulations and worker's rights officially
+
+**Behavior Rewards:**
+- **Guild Solidarity:** +2 to Persuasion when negotiating on behalf of workers or guild interests
+- **Call the Guild:** Once per session, can summon guild members for assistance (skilled labor, witnesses, or pressure)
+- **Union Strong:** When working alongside other guild members, all collaborative checks gain +1
+
+---
+
+#### **Apprenticeship Complete**
+*Seeking to establish your own workshop*
+
+**Special Dialogue Access:**
+- Can ask about available property and business opportunities
+- Other new entrepreneurs relate to your struggles
+- Can discuss "starting out" with merchants and landlords
+
+**Behavior Rewards:**
+- **Prove Your Skill:** +2 to Crafting when trying to impress potential patrons or clients
+- **Entrepreneurial Spirit:** Once per session when taking business risk, gain advantage on related check
+- **Building Reputation:** Every successful commissioned work grants +1 to future Persuasion checks with craftspeople and merchants (cumulative, max +3)
+
+---
+
+#### **Innovation Opportunity**
+*Testing new techniques in a major market*
+
+**Special Dialogue Access:**
+- Can discuss experimental methods with scholars and inventors
+- Other innovators share theories and techniques
+- Can ask about "new materials" or "unconventional approaches"
+
+**Behavior Rewards:**
+- **Experimental Craft:** +2 to Crafting when trying new or unconventional techniques
+- **Breakthrough Moment:** Once per session, can attempt to create something extraordinary (DM determines outcome, high risk/high reward)
+- **Innovation Network:** When you successfully create something new, gain contact with other innovators (information network + 25gp per innovation sold)
+
+---
 
 ### Starting Resources
 - Masterwork tools of your trade
@@ -34,8 +91,19 @@ As an Artisan, you are a skilled craftsperson who creates with your hands and mi
 - **Trusted by working-class citizens** - Honest work earns honest respect
 - **Can trade services for information or favors** - Everyone needs something made or fixed
 
-## Special Ability
-**Master Craftsman** - Once per session, can create, repair, or modify an item using your craft during downtime (DM determines mechanics and time required). Your exceptional skill turns raw materials into solutions.
+## Role Abilities
+
+Your crafting expertise grants you these abilities:
+
+### Active Abilities
+1. **Master Craftsman** (Once per session) - Create, repair, or modify an item using your craft during downtime (DM determines mechanics and time required). Your exceptional skill turns raw materials into solutions.
+2. **Quick Fix** (Once per scene) - Perform emergency repairs on equipment, weapons, or structures in the middle of action.
+3. **Improvised Tool** (At will) - Create makeshift tools or simple devices from available materials.
+
+### Passive Abilities
+1. **Artisan's Eye** - +2 to Investigation checks when examining crafted items, structures, or mechanisms
+2. **Guild Respect** - +2 to Persuasion checks with other craftspeople and working-class citizens
+3. **Quality Work** - Items you create are always of superior quality and last 50% longer than normal
 
 ## Faction Perspectives
 

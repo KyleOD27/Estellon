@@ -9,10 +9,67 @@ As a Scholar, you are a seeker of truth and wielder of knowledge, drawn to Estel
 ## Background Hooks
 
 ### Why You're Here
-- **Academic Pilgrimage:** Studying Estellon's famous legal archives
-- **Philosophical Tourism:** Drawn by the city's ideological conflict
-- **Historical Research:** Investigating ancient texts and precedents
-- **Institutional Representative:** Sent by universities or temples to observe
+Choose one hook below. Your choice grants special dialogue opportunities and rewards specific behaviors.
+
+#### **Academic Pilgrimage**
+*Studying Estellon's famous legal archives*
+
+**Special Dialogue Access:**
+- Can request access to restricted archives from librarians
+- Recognized by other scholars and archivists throughout the city
+- Can ask about "ancient texts" or "historical precedents" with any educated NPC
+
+**Behavior Rewards:**
+- **Archive Privileges:** +2 to Investigation checks when researching in libraries or archives
+- **Scholar's Network:** Once per session, can contact a fellow academic for specialized knowledge on any topic
+- **Legal Authority:** When citing historical precedents, +1 to Persuasion with lawful-aligned NPCs
+
+---
+
+#### **Philosophical Tourism**
+*Drawn by the city's ideological conflict*
+
+**Special Dialogue Access:**
+- Can engage nobles and faction leaders in philosophical debates
+- Other intellectuals welcome discussions on Law vs Chaos themes
+- Can frame political questions as "academic curiosity" without suspicion
+
+**Behavior Rewards:**
+- **Ideological Insight:** +2 to Insight checks when analyzing someone's philosophical position or motivations
+- **Devil's Advocate:** Once per session, can argue the opposite of your position convincingly, gaining advantage on a Persuasion check
+- **Neutral Observer:** No initial reputation penalty with any faction; seen as studying, not participating
+
+---
+
+#### **Historical Research**
+*Investigating ancient texts and precedents*
+
+**Special Dialogue Access:**
+- Can interview elderly citizens about "the old days"
+- Access to family archives of noble houses for "research purposes"
+- Can ask clergy about "church historical records"
+
+**Behavior Rewards:**
+- **Historical Parallel:** Once per session, can recall a relevant historical event that provides +2 to a check or grants insight into current situation
+- **Document Hunter:** +2 to Investigation when searching for specific texts, records, or evidence
+- **Living History:** When revealing historical facts, can influence NPC opinions; successful History check grants +1 faction reputation
+
+---
+
+#### **Institutional Representative**
+*Sent by universities or temples to observe*
+
+**Special Dialogue Access:**
+- Can request official audiences with faction leaders as "neutral observer"
+- Access to diplomatic spaces and official functions
+- Can take notes publicly without raising suspicion
+
+**Behavior Rewards:**
+- **Official Status:** +2 to Persuasion when invoking your institutional authority
+- **Diplomatic Immunity:** Once per session, can claim "observer status" to avoid being forced to take sides in a situation
+- **Report Back:** At the end of each session, can send a report to your institution and receive 25gp stipend + strategic advice
+
+---
 
 ### Starting Resources
 - Access to library archives
@@ -33,8 +90,19 @@ As a Scholar, you are a seeker of truth and wielder of knowledge, drawn to Estel
 - **Recognized by Ser Elara's reformist circle** - Education aligns with reform ideals
 - **Can consult with scribes and record-keepers** - Fellow scholars share knowledge
 
-## Special Ability
-**Research Network** - Once per session, can spend downtime researching a topic and gain detailed information the DM deems relevant (legal precedents, historical context, magical theory, etc.). Your academic connections and methodical approach unlock hidden knowledge.
+## Role Abilities
+
+Your scholarly expertise grants you these abilities:
+
+### Active Abilities
+1. **Research Network** (Once per session) - Spend downtime researching a topic and gain detailed information (legal precedents, historical context, magical theory, etc.). Your academic connections and methodical approach unlock hidden knowledge.
+2. **Expert Analysis** (Once per scene) - Provide detailed insight on any knowledge-related topic, granting allies +2 to related checks for the scene.
+3. **Legal Precedent** (Once per day) - Cite an obscure law or historical precedent to influence negotiations or challenge authority.
+
+### Passive Abilities
+1. **Academic Authority** - +2 to Persuasion checks when citing facts, history, or logical arguments
+2. **Pattern Recognition** - Automatically notice inconsistencies in stories, documents, or events
+3. **Living Library** - Can recall detailed information on subjects you've studied; never need to make "basic knowledge" checks in your fields of expertise
 
 ## Faction Perspectives
 

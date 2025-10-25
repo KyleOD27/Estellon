@@ -8,6 +8,15 @@ Half-Elves embody the bridge between two worlds, inheriting both human adaptabil
 
 ## Racial Traits
 
+### Passive Abilities
+These abilities are always active and define your half-elven heritage:
+
+1. **Dual Heritage** - Can invoke either human or elven ancestry for situational benefits
+2. **Diplomat's Insight** - +1 to Persuasion and Insight checks
+3. **Cultural Chameleon** - +1 to any skill of choice (versatile heritage)
+4. **Extra Ability Slot** - Can hold 4 ability cards instead of 3
+5. **Extended Lifespan** - Live 150-200 years, bridging generations
+
 ### Mechanical Bonuses
 - **+1 to Persuasion and Insight** (Reading both cultures)
 - **+1 to any skill of choice** (Versatile heritage)

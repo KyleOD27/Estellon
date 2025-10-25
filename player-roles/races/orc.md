@@ -8,6 +8,15 @@ Orcs in Estellon fight against centuries of prejudice while proving their worth 
 
 ## Racial Traits
 
+### Passive Abilities
+These abilities are always active and define your orcish heritage:
+
+1. **Orcish Fury** - When below half health, gain +2 to all damage rolls
+2. **Hardy** - Advantage on saves against poison and disease
+3. **Powerful Build** - +2 to Strength-based checks, count as one size larger for carrying
+4. **Intimidating Presence** - +2 to Intimidation checks, -1 to noble Persuasion checks
+5. **Relentless Endurance** - +1 to Constitution saves
+
 ### Mechanical Bonuses
 - **+2 to Strength-based checks** (Combat, intimidation, labor)
 - **+1 to Constitution** (Endurance, resistance)

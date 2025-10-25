@@ -8,6 +8,15 @@ Gnomes in Estellon are the city's inventors, tinkerers, and unconventional think
 
 ## Racial Traits
 
+### Passive Abilities
+These abilities are always active and define your gnomish heritage:
+
+1. **Gnomish Cunning** - Advantage on all Intelligence-based puzzle and riddle checks
+2. **Tinkerer** - Can improvise tools and simple devices from available materials
+3. **Artificer's Mind** - +2 to Crafting and Engineering checks
+4. **Small but Mighty** - Can use Intelligence in place of Strength for certain tasks
+5. **Sharp Eye** - +2 to Detecting Deception and noticing details
+
 ### Mechanical Bonuses
 - **+2 to Crafting and Engineering** (Innovation and invention)
 - **+2 to Detecting Deception** (Natural paranoia and cleverness)

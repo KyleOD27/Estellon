@@ -8,6 +8,16 @@ Giants in Estellon are rare and remarkable, their very presence changing the dyn
 
 ## Racial Traits
 
+### Passive Abilities
+These abilities are always active and define your giant heritage:
+
+1. **Giant's Reach** - Can interact with objects and attack targets 10 feet away
+2. **Siege Breaker** - Deal double damage to structures, objects, and siege equipment
+3. **Thick Skin** - Natural armor provides +1 to defense (stacks with worn armor)
+4. **Massive Presence** - +2 to Intimidation checks, -2 to Stealth (impossible to hide)
+5. **Towering Strength** - +3 to all Strength-based checks
+6. **Massive Appetite** - Requires 4x normal food (trade-off for power)
+
 ### Mechanical Bonuses
 - **+3 to Strength-based checks** (Unmatched physical power)
 - **+2 to Intimidation** (Size alone terrifies)

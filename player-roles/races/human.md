@@ -8,6 +8,14 @@ Humans form the backbone of Estellon's population and every faction within it. N
 
 ## Racial Traits
 
+### Passive Abilities
+These abilities are always active and define your human heritage:
+
+1. **Adaptable** - Once per session, gain +2 to any single check
+2. **Quick Learner** - Gain new abilities 20% faster (earn ability cards sooner)
+3. **Versatile** - +1 to two different skills of your choice
+4. **Extra Ability Slot** - Can hold 4 ability cards instead of 3
+
 ### Mechanical Bonuses
 - **+1 to any two skills** of your choice
 - **Extra Ability Slot** - Can hold 4 ability cards instead of 3

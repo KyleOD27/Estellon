@@ -8,6 +8,15 @@ Elves in Estellon embody ancient grace and wisdom, their long lives giving them 
 
 ## Racial Traits
 
+### Passive Abilities
+These abilities are always active and define your elven heritage:
+
+1. **Keen Senses** - Advantage on noticing hidden details, +2 to Perception checks
+2. **Elven Meditation** - Need only 4 hours rest instead of 8
+3. **Timeless** - Immune to aging effects and magical aging
+4. **Ancient Knowledge** - +2 to all Knowledge checks (History, Arcana, Investigation)
+5. **Graceful** - +2 to Agility checks (Dodging, Acrobatics, Fine manipulation)
+
 ### Mechanical Bonuses
 - **+2 to Knowledge checks** (History, Arcana, Investigation)
 - **+2 to Grace** (Dodging, Acrobatics, Fine manipulation)

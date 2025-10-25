@@ -8,7 +8,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     CHARACTER NAME: _______________                  │
+│              CHARACTER NAME: _______________  [TITLE CARD]           │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                       │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐                 │
@@ -20,14 +20,14 @@
 │                                                                       │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐                 │
 │  │             │  │             │  │             │                 │
-│  │   ARMOR     │  │   ITEM 1    │  │   ITEM 2    │                 │
+│  │   ARMOR     │  │  REACTION   │  │   ITEM 1    │                 │
 │  │   (Card)    │  │   (Card)    │  │   (Card)    │                 │
 │  │             │  │             │  │             │                 │
 │  └─────────────┘  └─────────────┘  └─────────────┘                 │
 │                                                                       │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐                 │
 │  │             │  │             │  │             │                 │
-│  │   ITEM 3    │  │  ABILITY 1  │  │  ABILITY 2  │                 │
+│  │   ITEM 2    │  │  ABILITY 1  │  │  ABILITY 2  │                 │
 │  │   (Card)    │  │   (Card)    │  │   (Card)    │                 │
 │  │             │  │             │  │             │                 │
 │  └─────────────┘  └─────────────┘  └─────────────┘                 │
@@ -55,14 +55,29 @@
 │     [ROLE NAME]     │
 │   [Role Symbol]     │
 │                     │
-│ Starting Bonuses:   │
-│ • +X to skill       │
-│ • +Y gold           │
-│ • +Z faction        │
+│ Key Abilities:      │
+│ • [Active 1]        │
+│ • [Active 2]        │
+│ • [Passive 1]       │
 │                     │
-│ Special Ability:    │
-│ [Ability Name]      │
-│ Once per session... │
+│ Starting Bonuses:   │
+│ +X to skill         │
+│ +Y gold, +Z faction │
+└─────────────────────┘
+```
+
+**Back Design (Optional Reference):**
+```
+┌─────────────────────┐
+│  ABILITY DETAILS    │
+│                     │
+│ Active Abilities:   │
+│ [Full descriptions  │
+│  with frequency]    │
+│                     │
+│ Passive Abilities:  │
+│ [Always active      │
+│  bonuses]           │
 └─────────────────────┘
 ```
 
@@ -72,16 +87,14 @@
 │     MERCHANT        │
 │        💰           │
 │                     │
-│ Starting Bonuses:   │
-│ • +2 Persuasion     │
-│ • +50 gold          │
-│ • +2 Independent    │
+│ Key Abilities:      │
+│ • Market Network    │
+│ • Negotiate Terms   │
+│ • Economic Insight  │
 │                     │
-│ Special Ability:    │
-│ Market Network      │
-│ Once per session,   │
-│ gather rumors or    │
-│ locate rare items   │
+│ Starting Bonuses:   │
+│ +2 Persuasion       │
+│ +50 gold, +2 Indep. │
 └─────────────────────┘
 ```
 
@@ -93,14 +106,31 @@
 │     [RACE NAME]     │
 │    [Race Symbol]    │
 │                     │
-│ Racial Traits:      │
-│ • [Trait 1]         │
-│ • [Trait 2]         │
-│ • [Trait 3]         │
+│ Passive Abilities:  │
+│ • [Passive 1]       │
+│ • [Passive 2]       │
+│ • [Passive 3]       │
+│ • [Passive 4]       │
 │                     │
 │ Social Standing:    │
 │ [How viewed in      │
 │  Estellon]          │
+└─────────────────────┘
+```
+
+**Back Design (Optional Reference):**
+```
+┌─────────────────────┐
+│  PASSIVE DETAILS    │
+│                     │
+│ [Full descriptions  │
+│  of each passive    │
+│  ability with       │
+│  mechanics]         │
+│                     │
+│ Physical Traits:    │
+│ Height: [range]     │
+│ Lifespan: [years]   │
 └─────────────────────┘
 ```
 
@@ -112,10 +142,11 @@
 │       HUMAN         │
 │         👤          │
 │                     │
-│ Racial Traits:      │
+│ Passive Abilities:  │
+│ • Adaptable         │
+│ • Quick Learner     │
 │ • Versatile         │
-│ • +1 all skills     │
-│ • Extra ability slot│
+│ • Extra Ability Slot│
 │                     │
 │ Social Standing:    │
 │ Common, accepted    │
@@ -129,10 +160,11 @@
 │        ORC          │
 │         💪          │
 │                     │
-│ Racial Traits:      │
-│ • Strong (+2 combat)│
+│ Passive Abilities:  │
+│ • Orcish Fury       │
+│ • Hardy             │
+│ • Powerful Build    │
 │ • Intimidating      │
-│ • Hardy (+1 defense)│
 │                     │
 │ Social Standing:    │
 │ Distrusted by nobles│
@@ -146,14 +178,87 @@
 │        ELF          │
 │         🍃          │
 │                     │
-│ Racial Traits:      │
-│ • Perceptive        │
-│ • +2 to knowledge   │
-│ • Diplomatic        │
+│ Passive Abilities:  │
+│ • Keen Senses       │
+│ • Elven Meditation  │
+│ • Timeless          │
+│ • Ancient Knowledge │
 │                     │
 │ Social Standing:    │
 │ Welcomed by nobles  │
 │ Seen as aloof      │
+└─────────────────────┘
+```
+
+**Halfling:**
+```
+┌─────────────────────┐
+│      HALFLING       │
+│         🍀          │
+│                     │
+│ Passive Abilities:  │
+│ • Halfling Luck     │
+│ • Nimble            │
+│ • Naturally Stealthy│
+│ • Community Network │
+│                     │
+│ Social Standing:    │
+│ Friendly, overlooked│
+│ Trusted by commoners│
+└─────────────────────┘
+```
+
+**Gnome:**
+```
+┌─────────────────────┐
+│       GNOME         │
+│         ⚙️          │
+│                     │
+│ Passive Abilities:  │
+│ • Gnomish Cunning   │
+│ • Tinkerer          │
+│ • Artificer's Mind  │
+│ • Small but Mighty  │
+│                     │
+│ Social Standing:    │
+│ Odd but useful      │
+│ Valued for skills   │
+└─────────────────────┘
+```
+
+**Half-Elf:**
+```
+┌─────────────────────┐
+│     HALF-ELF        │
+│         🌓          │
+│                     │
+│ Passive Abilities:  │
+│ • Dual Heritage     │
+│ • Diplomat's Insight│
+│ • Cultural Chameleon│
+│ • Extra Ability Slot│
+│                     │
+│ Social Standing:    │
+│ Between two worlds  │
+│ Valued mediators    │
+└─────────────────────┘
+```
+
+**Giant:**
+```
+┌─────────────────────┐
+│       GIANT         │
+│         ⛰️          │
+│                     │
+│ Passive Abilities:  │
+│ • Giant's Reach     │
+│ • Siege Breaker     │
+│ • Thick Skin        │
+│ • Massive Presence  │
+│                     │
+│ Social Standing:    │
+│ Feared and awe      │
+│ Cannot hide         │
 └─────────────────────┘
 ```
 
@@ -389,6 +494,328 @@
 └─────────────────────┘
 ```
 
+### Title Cards
+
+**Front Design (Small Card - 2" x 1.5"):**
+```
+┌───────────────┐
+│  [TITLE NAME] │
+│  [Symbol/Icon]│
+│               │
+│ Benefit:      │
+│ [Effect]      │
+│               │
+│ Earned By:    │
+│ [Condition]   │
+└───────────────┘
+```
+
+**How Titles Work:**
+- **Starting Title:** All players begin as "Traveller"
+- **One at a Time:** You can only have one active title
+- **Earned Through Play:** Titles are rewards for significant achievements
+- **Replace Previous:** When you earn a new title, it replaces your old one
+- **Display Proudly:** Place your current title card next to your name on the tableau
+
+---
+
+**Example Title Cards:**
+
+**TRAVELLER (Starting Title)**
+```
+┌───────────────┐
+│   TRAVELLER   │
+│      🛤️       │
+│               │
+│ Benefit:      │
+│ +1 to checks  │
+│ when meeting  │
+│ new people    │
+│               │
+│ Earned By:    │
+│ Default start │
+└───────────────┘
+```
+
+**FACTION ALLY**
+```
+┌───────────────┐
+│ FACTION ALLY  │
+│      🤝       │
+│               │
+│ Benefit:      │
+│ +2 to social  │
+│ checks with   │
+│ chosen faction│
+│               │
+│ Earned By:    │
+│ Reach 8+ rep  │
+│ with a faction│
+└───────────────┘
+```
+
+**PEACEMAKER**
+```
+┌───────────────┐
+│  PEACEMAKER   │
+│      🕊️       │
+│               │
+│ Benefit:      │
+│ Once per day, │
+│ stop violence │
+│ from starting │
+│               │
+│ Earned By:    │
+│ Prevent 3+    │
+│ conflicts     │
+└───────────────┘
+```
+
+**REVOLUTIONARY**
+```
+┌───────────────┐
+│ REVOLUTIONARY │
+│      ⚡       │
+│               │
+│ Benefit:      │
+│ +2 when rally-│
+│ ing common    │
+│ folk to action│
+│               │
+│ Earned By:    │
+│ Lead uprising │
+│ or rebellion  │
+└───────────────┘
+```
+
+**KINGMAKER**
+```
+┌───────────────┐
+│  KINGMAKER    │
+│      👑       │
+│               │
+│ Benefit:      │
+│ +2 when nego- │
+│ tiating with  │
+│ all factions  │
+│               │
+│ Earned By:    │
+│ Influence the │
+│ Mandate race  │
+└───────────────┘
+```
+
+**HERO OF ESTELLON**
+```
+┌───────────────┐
+│ HERO OF THE   │
+│    CITY       │
+│      ⭐       │
+│               │
+│ Benefit:      │
+│ +1 to all     │
+│ checks; recog-│
+│ nized by all  │
+│               │
+│ Earned By:    │
+│ Save the city │
+│ from disaster │
+└───────────────┘
+```
+
+**BLADE FOR HIRE**
+```
+┌───────────────┐
+│ BLADE FOR     │
+│     HIRE      │
+│      ⚔️       │
+│               │
+│ Benefit:      │
+│ +50gp/session │
+│ from contracts│
+│ +1 Intimidate │
+│               │
+│ Earned By:    │
+│ Complete 5+   │
+│ paid missions │
+└───────────────┘
+```
+
+**VOICE OF THE PEOPLE**
+```
+┌───────────────┐
+│  VOICE OF     │
+│  THE PEOPLE   │
+│      📢       │
+│               │
+│ Benefit:      │
+│ Rally crowds; │
+│ +3 Persuasion │
+│ with commons  │
+│               │
+│ Earned By:    │
+│ Lead 3+ public│
+│ speeches      │
+└───────────────┘
+```
+
+**SHADOW BROKER**
+```
+┌───────────────┐
+│    SHADOW     │
+│    BROKER     │
+│      🗝️       │
+│               │
+│ Benefit:      │
+│ Automatically │
+│ hear 1 secret │
+│ per session   │
+│               │
+│ Earned By:    │
+│ Broker 5+     │
+│ information   │
+│ deals         │
+└───────────────┘
+```
+
+**THE BETRAYER**
+```
+┌───────────────┐
+│     THE       │
+│   BETRAYER    │
+│      🗡️       │
+│               │
+│ Benefit:      │
+│ +2 Deception; │
+│ -2 Persuasion │
+│ (infamous)    │
+│               │
+│ Earned By:    │
+│ Betray a      │
+│ faction/ally  │
+└───────────────┘
+```
+
+**MARTYR'S HEIR**
+```
+┌───────────────┐
+│   MARTYR'S    │
+│     HEIR      │
+│      🕯️       │
+│               │
+│ Benefit:      │
+│ Inspire allies│
+│ Grant +1 to   │
+│ all allies    │
+│               │
+│ Earned By:    │
+│ Nearly die for│
+│ your beliefs  │
+└───────────────┘
+```
+
+---
+
+### Reaction Cards
+
+**Front Design:**
+```
+┌─────────────────────┐
+│  [REACTION NAME]    │
+│  [Reaction Symbol]  │
+│                     │
+│ Trigger:            │
+│ [When to use]       │
+│                     │
+│ Effect:             │
+│ [What happens]      │
+│                     │
+│ Frequency:          │
+│ [Per session/day/   │
+│  encounter]         │
+└─────────────────────┘
+```
+
+**Example Reactions:**
+
+**Counter-Attack:**
+```
+┌─────────────────────┐
+│   COUNTER-ATTACK    │
+│         ⚡          │
+│                     │
+│ Trigger:            │
+│ When enemy misses   │
+│ you in melee combat │
+│                     │
+│ Effect:             │
+│ Make immediate      │
+│ free attack         │
+│                     │
+│ Frequency:          │
+│ Once per encounter  │
+└─────────────────────┘
+```
+
+**Diplomatic Intervention:**
+```
+┌─────────────────────┐
+│   DIPLOMATIC        │
+│   INTERVENTION      │
+│         🕊️          │
+│                     │
+│ Trigger:            │
+│ When ally fails a   │
+│ social check        │
+│                     │
+│ Effect:             │
+│ Allow them to       │
+│ reroll with +2      │
+│                     │
+│ Frequency:          │
+│ Once per scene      │
+└─────────────────────┘
+```
+
+**Last Stand:**
+```
+┌─────────────────────┐
+│    LAST STAND       │
+│         🛡️          │
+│                     │
+│ Trigger:            │
+│ When reduced to 1   │
+│ or fewer HP         │
+│                     │
+│ Effect:             │
+│ Gain +3 to defense  │
+│ for rest of scene   │
+│                     │
+│ Frequency:          │
+│ Once per session    │
+└─────────────────────┘
+```
+
+**Protective Instinct:**
+```
+┌─────────────────────┐
+│   PROTECTIVE        │
+│   INSTINCT          │
+│         💚          │
+│                     │
+│ Trigger:            │
+│ When ally within    │
+│ reach is attacked   │
+│                     │
+│ Effect:             │
+│ Take the damage     │
+│ instead of them     │
+│                     │
+│ Frequency:          │
+│ Once per day        │
+└─────────────────────┘
+```
+
 ## Simplified Game Mechanics
 
 ### Basic Resolution System
@@ -401,6 +828,28 @@
 - **Attack:** Roll 2d6 + weapon damage vs enemy defense
 - **Defend:** Roll 2d6 + armor bonus
 - **Health:** Start with 6 health points
+
+### Reactions System
+- **Equip One Reaction:** Place one reaction card in your Reaction slot each session
+- **Triggered Response:** When the trigger condition occurs, you may immediately use the reaction
+- **Limited Use:** Most reactions have frequency limits (once per encounter, day, or session)
+- **Swap Reactions:** Can change equipped reaction during rest periods
+- **No Action Required:** Reactions happen instantly when triggered, outside normal turn order
+
+### Title System
+- **Starting Title:** All players begin with the "Traveller" title card
+- **One Active Title:** You can only have one title equipped at a time
+- **Earned Through Play:** Complete significant achievements to earn new titles
+- **Automatic Upgrade:** When you earn a new title, it automatically replaces your old one
+- **Display Your Title:** Place your current title card next to your character name on the tableau
+- **Mechanical Benefits:** Each title grants a unique passive bonus or ability
+- **Reputation Marker:** Your title reflects your journey and shows others who you've become
+
+**Title Progression Examples:**
+- Reach high faction reputation → "Faction Ally"
+- Lead successful operations → "Kingmaker" or "Revolutionary"
+- Make controversial choices → "The Betrayer"
+- Save lives repeatedly → "Hero of Estellon" or "Peacemaker"
 
 ### Skill Bonuses (From Cards)
 - Stack all bonuses from Role, Race, Items, and Abilities
@@ -416,9 +865,11 @@
 
 ### Card Quantities to Print
 - **7 Role cards** (one of each role)
-- **5-6 Race cards** (common races)
+- **7 Race cards** (one of each race)
+- **10-15 Title cards** (Traveller starting card + earned titles)
 - **10-12 Weapon cards** (variety of options)
 - **8-10 Armor cards** (light to heavy options)
+- **10-15 Reaction cards** (various trigger-based responses)
 - **20-30 Item cards** (consumables and tools)
 - **15-20 Ability cards** (earned through play)
 
