@@ -237,6 +237,7 @@ A player handout with phrases aligned to different philosophical viewpoints:
 - **Single Use:** Player uses a phrase well → **Small bonus** (Inspiration, +1 to a Faction Track)
 - **Bingo! (Complete a row/column)** → **Potent Favor** (free healing, key information, temporary immunity from that faction)
 
+
 ### Goal
 Encourages players to engage with the campaign's philosophical themes through roleplay while providing mechanical benefits.
 

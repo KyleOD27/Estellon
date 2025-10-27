@@ -6,16 +6,67 @@
 
 ## Part 1: The Sunstone Festival
 
+---
+
+### 🗺️ FREE-ROAM: The Festival Morning
+
+**Duration:** 20-30 minutes
+**Purpose:** Character introduction, world-building, player bonding
+
 **Setup:** The party is in the market square as the Sunstone Festival begins. It's a defiant celebration, a burst of colour and noise in a grey city.
 
-- **The Calm:** Have each player describe what their character is enjoying about the festival. This builds investment before it's torn down.
-- **The Announcement:**
+**DM Guidance:**
+- Let players explore freely
+- Encourage individual character moments
+- Set peaceful tone before storm
+- Populate market with NPCs to interact with
+
+**The Calm:** Have each player describe what their character is enjoying about the festival. This builds investment before it's torn down.
+
+**Available Activities:**
+- Sample festival food (meat pies, honeyed fruit)
+- Watch street performers (jugglers, fire-breathers)
+- Browse merchant stalls
+- Play festival games (ring toss, strength test)
+- Mingle with joyful NPCs
+- Discuss why they're in Estellon
+
+**Transition Signal:**
+DM: "The sun begins to set, casting long shadows across the square. The festival is reaching its peak when suddenly..."
+
+---
+
+### 🎬 SCENE: The Duke's Decree
+
+**Duration:** 3-5 minutes
+**Purpose:** Establish conflict, introduce antagonists
+
+**The Announcement:**
 *"As the sun sets, a town crier moves through the districts: 'Hear ye! By order of the Duke's chamberlain, the unsanctioned Sunstone Festival is prohibited! All gatherings will be dispersed! Public disturbances will be dealt with severely!' You see squads of the city watch, led by the grim Captain Brennis, already moving into position. The festive mood of the morning has curdled into tension."*
  
-- **The Storm:** Captain Brennis and a squad of guards, including Sergeant Rykard, arrive. Brennis declares the gathering "unsanctioned" and orders it shut down.
-- **The Spark:** The guards begin roughly dispersing the crowd. Rykard shoves an elderly woman. A drunk reveller throws a punch at him. Chaos erupts.
-- **The Confrontation:** Ashka appears, using minor magic to create barriers of light and gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them. "Bog-Witch. I should have known. Your chaos follows you like a stench."
-- **The Player's Choice:** This is the first major decision.
+**The Storm:** Captain Brennis and a squad of guards, including Sergeant Rykard, arrive. Brennis declares the gathering "unsanctioned" and orders it shut down.
+
+**The Spark:** The guards begin roughly dispersing the crowd. Rykard shoves an elderly woman. A drunk reveller throws a punch at him. Chaos erupts.
+
+**The Confrontation:** Ashka appears, using minor magic to create barriers of light and gusts of wind to protect fleeing civilians from guard clubs. Brennis locks eyes with them:
+
+> **Brennis:** "Bog-Witch. I should have known. Your chaos follows you like a stench."
+
+**Transition Signal:**
+DM: "The square erupts into chaos. Guards push forward, civilians scatter, Ashka's magic crackles. What do you do?"
+
+---
+
+### ⚔️ ENCOUNTER: The Festival Riot
+
+**Duration:** 30-45 minutes
+**Purpose:** First major player choice, establish faction allegiances, skill challenge + combat
+
+**Encounter Type:** Skill Challenge with Combat Elements
+**Objective:** Survive the riot and choose which faction to aid
+**Stakes:** Reputation with all three factions determined here
+
+**The Player's Choice:** This is the first major decision.
 -Do the players:
   - Help Ashka create diversions and protect people? (Option A)
   - Help Brennis and the guards restore order? (Option B)
@@ -132,15 +183,33 @@ Gain title: Merchant's Friend (+2 to merchant interactions)
 
 Gain title: Opportunist (Gain ability: Fence goods at better prices)
 
-- **Outcome:** Their actions here grant them their initial reputation with the People (Zeal) or the City Guard (Control).
+**Outcome:** Their actions here grant them their initial reputation with the People (Zeal) or the City Guard (Control).
+
+**Transition Signal:**
+DM: "As the riot subsides, guards dragging protesters away, smoke rising from scattered fires, the full weight of what's happened settles over the city. The next morning brings new terrors..."
 
 ---
 
 ## Part 2: The Conscription Decree
 
-**Setup:** The morning after the riot, the Duke's regime—advised by Lord Pellor—announces a harsh conscription decree to "restore order and remove troublesome elements." The city awakens to fear as squads of guards begin sweeping through districts, dragging young men and women from their homes.
+---
 
-### Elara's Position
+### 🎬 SCENE: Morning After the Riot
+
+**Duration:** 2-3 minutes
+**Purpose:** Show consequences of riot, establish new threat
+
+**Setup:** The morning after the riot, the Duke's regime—advised by Lord Pellor—announces a harsh conscription decree to "restore order and remove troublesome elements."
+
+**Narrative:**
+DM: *"The city awakens to fear. During the night, proclamations were nailed to every door, every wall, every tavern: a conscription decree. Ten able-bodied citizens from each district will be taken for 'military service.' Squads of guards are already moving through the streets, dragging young men and women from their homes. You hear distant screams, mothers pleading, doors being kicked in."*
+
+**Transition Signal:**
+DM: "You're in the Craftsmen's Quarter when you see a conscription detail approaching..."
+
+---
+
+### 🎬 SCENE: Elara's Position
 
 **Her Role:**
 Ser Elara has been assigned by her paladin order to oversee the conscription in the Craftsmen's Quarter to ensure it's conducted "lawfully and with honor." She's accompanied by a squad led by Sergeant Rykard. Her superiors believe this will lend legitimacy to the operation.
@@ -157,9 +226,20 @@ When players first see her, Elara is:
 
 > **DM Note:** Elara is trying to do the right thing within an evil system. She's not yet ready to break her oaths, but she's reaching her limit.
 
+**Duration:** 3-5 minutes
+**Purpose:** Introduce Elara, establish her conflict, set stakes for player choice
+
+> **DM Note:** Elara is trying to do the right thing within an evil system. She's not yet ready to break her oaths, but she's reaching her limit.
+
+**Transition Signal:**
+DM: "Among the conscription detail, you notice a figure that stands out - a paladin in silver armor. Ser Elara Brightshield. Her presence here seems to trouble her deeply..."
+
 ---
 
-### The Scene Unfolds
+### 🎬 SCENE: The Tanner's Shop Confrontation
+
+**Duration:** 5-7 minutes
+**Purpose:** Build tension, show Rykard's cruelty, position PCs to make choice
 
 **The Tanner's Shop:**
 
@@ -252,7 +332,19 @@ Guards look uncertain. They respect Elara, but Rykard is their direct commander.
 
 **This is the Player's Moment:**
 
+**Transition Signal:**
+DM: "Elara's hand moves to her sword. Rykard smirks. The air is thick with tension. What do you do?"
+
 ---
+
+### ⚔️ ENCOUNTER: The Standoff at the Tannery
+
+**Duration:** 30-40 minutes
+**Purpose:** Critical player choice that defines relationship with Elara and sets moral tone
+
+**Encounter Type:** Social Encounter with Combat Potential
+**Objective:** Resolve the standoff (multiple solutions possible)
+**Stakes:** Aldric and Tomás's freedom, Elara's path, faction reputation
 
 ### Player Choice Point
 
@@ -606,9 +698,47 @@ What she does here sets the stage for her entire faction arc:
 - **Show the human cost.** Aldric and Tomás are real people, not abstractions
 - **Follow through.** Whatever happens here echoes through the rest of the campaign
 
+**Transition Signal:**
+DM: "The confrontation ends. The crowd disperses. Aldric and Tomás's fate is decided. The city moves on, but what happened here will echo through everything to come..."
+
 ---
 
 ## Part 3: The Aftermath & The Offer
+
+---
+
+### 🗺️ FREE-ROAM: Between the Crisis Moments
+
+**Duration:** 15-20 minutes
+**Purpose:** Let players process events, prepare for faction recruitment, allow exploration
+
+**Setup:** Several hours pass after the Tanner's Shop confrontation. Evening approaches. The city is tense but quiet.
+
+**DM Guidance:**
+- Give players time to breathe after intense choices
+- Allow them to discuss what happened
+- Drop hints about faction leaders seeking them out
+- Let them rest, shop, investigate
+
+**Available Activities:**
+- Rest at tavern and discuss choices
+- Buy supplies at market (if still open)
+- Investigate rumors about the factions
+- Seek out specific NPCs (Aldric's family, other conscripts, guards)
+- Explore districts before missions begin
+
+**Transition Signal:**
+DM: "As evening falls, a messenger approaches your group..." [Leads to specific faction reaching out]
+
+---
+
+### ⚔️ ENCOUNTER: The Faction Recruitment
+
+**Duration:** 20-30 minutes
+**Purpose:** Formalize faction allegiance, receive first quest, establish ongoing relationship
+
+**Encounter Type:** Social Encounter (Negotiation/Quest Offer)
+**Objective:** Understand faction goals, accept or decline alliance, negotiate terms
 
 **Setup:** The party is sought out by the faction they most aided.
 
@@ -631,9 +761,17 @@ The faction leader gives them their first proper quest, pulling them into the gr
 - **Elara:** "Rykard must be stopped. Find evidence of his corruption. He frequents a vile tavern called The Rusty Nail."
 - **Brennis:** "The rebels are getting bold. Their agitators are spreading pamphlets in the market. Find the printing press and shut it down."
 
+**Transition to Act II:**
+DM: "You've accepted the quest. Your path is set. The city's fate now rests, in part, on your choices. Welcome to the war for Estellon's soul..."
+
 ---
 
 ## Act I Conclusion
+
+**Mode Distribution Summary:**
+- 🎬 Scene: 25% (Introducing conflict, NPC moments, world-building)
+- ⚔️ Encounter: 50% (Festival Riot, Tanner Standoff, Faction Recruitment)
+- 🗺️ Free-Roam: 25% (Festival exploration, between crises, city familiarization)
 
 The players are no longer visitors. They have chosen a side (or chosen to walk their own path) and are now active participants in the fate of Estellon. The philosophical conflict is now their conflict. The stage is set for the open faction war of Act II.
 
